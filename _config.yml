@@ -13,7 +13,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 author:
   author__name: Meredith Cook
   author__bio: Mom. Grant Writer. Author.
-  author__avatar: 'images/headshot_MC.png'
+  author__avatar: '/images/01-1.jpg'
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
