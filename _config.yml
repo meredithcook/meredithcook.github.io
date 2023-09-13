@@ -71,8 +71,8 @@ gallery:
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your email for contant form
-  description: Menca comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+  email: meredithcook@proton.me # Add your email for contant form
+  description: To contact me with questions or comments, please fill out the form below. # Add a description of your form
 
 # NOTE
 # Menca theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
