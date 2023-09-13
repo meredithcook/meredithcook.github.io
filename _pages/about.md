@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 image: '/images/santaelenacanyon.jpeg'
+<base target="_blank">
 ---
 
 Hello! My name is Meredith Cook.
