@@ -16,11 +16,11 @@ author:
   author__avatar: '/menca/images/headshot_MC.png'
 
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", link: "https://facebook.com"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com"}
-- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-- {icon: "ion-logo-youtube", link: "https://youtube.com"}
+- {icon: "ion-md-mail", link: "mailto:meredithcook@proton.me"}
+- {icon: "ion-logo-twitter", link: "https://twitter.com/meredithcook716"}
+- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/meredithcook716/"}
+- {icon: "ion-logo-pinterest", link: "https://www.pinterest.com/meredithlcook/"}
+- {icon: "ion-md-book", link: "https://amzn.to/45wlDh1"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
