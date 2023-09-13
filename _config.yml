@@ -29,9 +29,9 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hey, I’m Camelia Mendes
-  hero__description: Designs, talks, and writes about web, ethics, privacy, and dev. I share design tutorials, free resources and inspiration.
-  hero__image: '/images/01.jpg'
+  hero__title: Welcome! I'm Meredith Cook.
+  hero__description: I'm a stay-at-home mom moonlighting as a writer of grants and children's books.
+  hero__image: '/menca/images/headshot_MC.png'
 
 
 #-------------------------------
