@@ -55,17 +55,17 @@ gallery:
     - alt: 'West Virginia'
       url: '/images/west_virginia.jpeg'
     - alt: 'Tokyo'
-      url: '/images/tokyo_shibuya.jpeg'
+      url: '/images/tokyo.jpeg'
     - alt: 'Grand Canyon'
       url: '/images/grand_canyon.jpeg'
     - alt: 'Paris'
-      url: '/images/notre_dame.jpeg'
+      url: '/images/paris.jpeg'
     - alt: 'Japan'
-      url: '/images/japan_mountain.jpeg'
+      url: '/images/japan.jpeg'
     - alt: 'India'
-      url: '/images/india_river.jpeg'
+      url: '/images/india.jpeg'
     - alt: 'Istanbul'
-      url: '/images/istanbul_turkey.jpeg'
+      url: '/images/istanbul.jpeg'
 
 
 #-------------------------------
