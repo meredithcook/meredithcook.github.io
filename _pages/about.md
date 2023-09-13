@@ -5,31 +5,14 @@ permalink: /about/
 image: '/images/santaelenacanyon.jpeg'
 ---
 
-Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Hello! My name is Meredith Cook.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+I am married to [Keelan](https://keelancook.com/) and a [stay-at-home-working mom](https://meredithcook.net/2022/05/30/the-stay-at-home-full-time-working-mom/) of two tiny redheads. I serve as the Grant Coordinator for Southeastern Baptist Theological Seminary, where I earned a Master of Divinity in Missiology. I am also the author of [*Go Tell Everyone: 9 Missionaries Who Shared the Good News*](https://amzn.to/45wlDh1), a children's board book about [the Great Commission and missionaries](https://meredithcook.net/2022/10/18/writing-a-children-book/). Published by [B&H Kids](https://www.bhpublishinggroup.com/product/go-tell-everyone/), *Go Tell Everyone* is scheduled to release in March 2024. 
 
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+Before grant writing, I was a content editor and writer for various missions organizations, including the International Mission Board and the Upstream Collective. My current writing consists of articles for this site and grant proposals, but you can find my past articles at [IMB](https://www.imb.org/search/meredith+cook/?s=meredith%20cook&sort=relevant), [Upstream Collective](https://www.theupstreamcollective.org/post/use-the-holidays-to-your-evangelistic-advantage), [Lifeway Research](https://research.lifeway.com/2020/03/31/why-our-worship-and-spiritual-walk-needs-repetition/), the [Center for Faith and Culture blog](https://cfc.sebts.edu/faith-and-work/women-seminary-professors/) at SEBTS, and my [husband's blog](https://keelancook.com/2016/04/29/your-churchs-continued-responsibility-for-its-sent-ones/). 
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/102.jpg">
-    <img src="/images/105.jpg">
-    <img src="/images/107.jpg">
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+Now, I write mostly on lessons I'm learning about parenting, habit formation, and the general Christian life. Along the way, I may also share articles, videos, and other things I find helpful. 
 
-Completely synergize resource taxing relationships via premier niche markets. Cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
+When I'm not supplying my kids with snacks, taking them to the playground, or requesting large sums of money from foundations, I enjoy copious amounts of coffee, hiking with my family, reading, and baking. You can also find me on [Twitter](https://twitter.com/meredithcook716), where I regularly interrupt your timeline with really boring tweets. 
 
-Objectively innovate empowered manufactured products whereas parallel platforms. Holisticly predominate extensible testing procedures for reliable supply chains. Dramatically engage top-line web services vis-a-vis cutting-edge deliverables.
-
-### Synergistically evolve
-
-Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.
-
-<p><iframe src="https://www.youtube.com/embed/gghgYaYeG_M" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
-
-Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
-
-Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-business applications through revolutionary catalysts for change. Seamlessly underwhelm optimal testing procedures whereas bricks-and-clicks processes.
+Thanks for stopping by!
