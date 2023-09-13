@@ -5,6 +5,7 @@ description: Leverage agile frameworks to provide a robust synopsis for high lev
 date:   2020-04-24 15:01:35 +0300
 image:  '/images/14.jpg'
 tags:   [fashion, story, rest]
+published: false
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace [Luca Bravo](https://unsplash.com/photos/zAjdgNXsMeg) diversity and empowerment.
 
