@@ -48,10 +48,10 @@ gallery:
   gallery__title: Gallery
   gallery__columns: 3
   gallery__images:
-    - alt: 'Rest'
-      url: '/images/100.jpg'
-    - alt: 'Lifestyle'
-      url: '/images/101.jpg'
+    - alt: 'Torrey Pines'
+      url: '/menca/images/torrey_pines.jpeg'
+    - alt: 'Big Bend'
+      url: '/menca/images/big_bend.jpeg'
     - alt: 'Hobby'
       url: '/images/102.jpg'
     - alt: 'Notes'
