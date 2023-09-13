@@ -49,9 +49,9 @@ gallery:
   gallery__columns: 3
   gallery__images:
     - alt: 'Torrey Pines'
-      url: '/menca/images/torrey_pines.jpeg'
+      url: '/images/torrey_pines.jpeg'
     - alt: 'Big Bend'
-      url: '/menca/images/big_bend.jpeg'
+      url: '/images/big_bend.jpeg'
     - alt: 'Hobby'
       url: '/images/102.jpg'
     - alt: 'Notes'
