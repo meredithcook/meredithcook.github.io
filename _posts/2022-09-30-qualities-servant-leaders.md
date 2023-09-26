@@ -3,7 +3,7 @@ layout: post
 title: Important Qualities of Servant Leaders
 date: 2022-09-30
 description: When I think about the qualities I have observed in servant leaders, these are the three qualities that stand out the most to me. These are the ones I most hope to demonstrate in any leadership opportunity the Lord may give me.  # Add post description (optional)
-image: images/servantleader.jpg # Add image post (optional)
+image: images/servantleader.jpeg # Add image post (optional)
 tags:  [servant leadership, leader, character] # add tag
 GA: G-DHPTC39GDF
 ---
