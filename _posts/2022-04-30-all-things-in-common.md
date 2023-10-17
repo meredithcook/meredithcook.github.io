@@ -4,7 +4,7 @@ title: Do We Really Have All Things in Common?
 date: 2022-04-30
 description: If we believe that Scripture is true, then we believe that the gospel has the power to unite us as fellow believers, regardless of our disagreements.  # Add post description (optional)
 image: '/images/race.jpeg' # Add image post (optional)
-tags: [gospel, unity, church] # add tag
+tags: [church] # add tag
 GA: U263725632
 ---
 

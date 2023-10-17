@@ -4,7 +4,7 @@ title: Taking the Self Out of Self-Care
 date: 2022-08-31
 description: “Self-care” has become a prolific term for anyone who feels overextended, burned out, and busy. But I am concerned that the pursuit of self-care leads us to disobey Scripture.  # Add post description (optional)
 image: '/images/solitude.jpeg' # Add image post (optional)
-tags:  [self-care, spiritual disciplines, serving] # add tag
+tags:  [self-care, spiritual disciplines] # add tag
 GA: G-DHPTC39GDF
 ---
 

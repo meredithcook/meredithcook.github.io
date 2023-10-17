@@ -4,7 +4,7 @@ title: When Parenting Toddlers Feels Like a Lot
 date: 2022-11-29
 description: On days where I feel at the end of myself, it’s helpful to remember things that keep my perspective in check and joy intact.
 image: "/images/toddler.jpeg" # Add image post (optional)
-tags:   [parenting, toddlers, children] # add tag
+tags:   [parenting] # add tag
 GA: G-DHPTC39GDF
 ---
 

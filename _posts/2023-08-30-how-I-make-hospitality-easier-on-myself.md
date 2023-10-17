@@ -4,7 +4,7 @@ title: How I Make Hospitality Easier on Myself
 date: 2023-8-30
 description: Our desire to have people in our home regularly has created a need to always be prepared to do so. These are some ways I make hospitality easier. 
 image: '/images/hospitality.jpeg' # Add image post (optional)
-tags: [hospitality, home, community]
+tags: [hospitality]
 ---
 We try to keep an open-door policy in our home. As long as we are home and healthy, we want others to feel free to come over. Our goal is to invite others to come over for dinner every other week or so. Due to my husband's job a seminary professor and advisor for a student group, we also frequently have groups of students over during the school year. 
 

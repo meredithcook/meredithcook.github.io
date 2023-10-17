@@ -4,7 +4,7 @@ title: This is the Day
 date: 2023-09-29
 description: A reflection on stewarding and rejoicing in today.
 image: '/images/today.jpeg' # Add image post (optional)
-tags: [today, joy, perspective]
+tags: [joy, perspective]
 ---
 We are coming up on my favorite time of year (isn't it everyone's?). This year, though, I feel keenly aware of just how quickly it will pass. Not just because this time of year is full of events, parties, and celebrations on top of the everyday busyness, but because time just passes more quickly now than it used to. 
 

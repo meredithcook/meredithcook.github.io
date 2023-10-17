@@ -4,7 +4,7 @@ title: The Right Motivation for Habit Formation
 date: 2023-5-30
 description: Habit formation must be grounded in love of God and love of neighbor, which will allow us to obey the Great Commission. 
 image: '/images/habitformation.jpeg' # Add image post (optional)
-tags: [habits, habit-formation]
+tags: [habits]
 ---
 The other day, I was driving my kids to the playground when I almost made a wrong turn. As I corrected myself, I realized what I had done. The route I was driving to the playground went past the road I used to take to my husband's house, the one he lived in before we got married. I hadn't driven to that house in over seven years—I'd even lived halfway across the country for some of that time—yet an old habit resurfaced that day. 
 
