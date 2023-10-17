@@ -7,7 +7,7 @@ image: '/images/jenga.jpeg' # Add image post (optional)
 tags: [habits, time-management]
 ---
 
-A discussion on habit formation and time management would not be complete without considering the practical application of these conversations. If how we use time is determined primarily by our habits, then how do we practically apply the ideas from my previous two articles ([here](https://meredithcook.net/2023/04/27/how-we-spend-our-days/) and [here](https://meredithcook.net/2023/05/30/habit-formation-motivation/)) so that everything we do leads us to love God, love neighbor, and fulfill the Great Commission? 
+A discussion on habit formation and time management would not be complete without considering the practical application of these conversations. If how we use time is determined primarily by our habits, then how do we practically apply the ideas from my previous two articles ([here](https://www.meredithcook.net/how-we-spend-our-days) and [here](https://www.meredithcook.net/habit-formation-motivation)) so that everything we do leads us to love God, love neighbor, and fulfill the Great Commission? 
 
 Everyone's circumstances vary, so I can’t tell you specifically what to do. However, I can share some basic principles that you can apply to your unique circumstances. In this article, I'll discuss practical ways to begin habit formation. In the next and final article of this series, I will give examples of different habits and list some helpful resources on habits. 
 
@@ -41,11 +41,11 @@ Another step is deciding how you want to implement new habits. This involves dec
 
 Once you have a good handle on how you currently use your time and what habits you'd like to build, it's good to begin with one or two habits at a time. Change is hard, and changing deeply ingrained habits or creating new habits will take a decent amount of time. By starting small, we increase the likelihood of sticking to new patterns, and we can build in new habits over time. 
 
-James Clear calls this ["habit stacking."](https://jamesclear.com/habit-stacking) By practicing good habits and becoming efficient, we can take advantage of these patterns and begin building in new, desired habits. 
+James Clear calls this <a href= "https://jamesclear.com/habit-stacking" target= "blank">"habit stacking."</a> By practicing good habits and becoming efficient, we can take advantage of these patterns and begin building in new, desired habits. 
 
 ### Determine Your Keystone Habits
 
-In my first article of this series, I shared about "keystone habits." In [_The Power of Habit_](https://amzn.to/3Vdo2Jh), Charles Duhigg describes keystone habits as those that matter more than others in remaking lives. He writes, “Keystone habits start a process that, over time, transforms everything…The habits that matter most are ones that, when they start to shift, dislodge and remake other patterns.” (100, 101)
+In my first article of this series, I shared about "keystone habits." In <a href= "https://amzn.to/3Vdo2Jh" target= "blank">*The Power of Habit*</a>, Charles Duhigg describes keystone habits as those that matter more than others in remaking lives. He writes, “Keystone habits start a process that, over time, transforms everything…The habits that matter most are ones that, when they start to shift, dislodge and remake other patterns.” (100, 101)
 
 In other words, a keystone habit is a foundation on which all other habits build. Without it, we would either be less efficient at habit formation or, more extremely, unable to build any other habits at all. Again, my keystone habit is waking up early in the morning. Everything I do depends on waking up with enough time to pray, read my Bible, and get some work done before my kids get up.
 
