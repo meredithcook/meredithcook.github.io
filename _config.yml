@@ -13,7 +13,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 author:
   author__name: Meredith Cook
   author__bio: Mom. Grant Writer. Author.
-  author__avatar: '/menca/images/headshot_MC.png'
+  author__avatar: '/images/headshot_MC.png'
 
 social:
 - {icon: "ion-md-mail", link: "mailto:meredithcook@proton.me"}
@@ -31,7 +31,7 @@ social:
 hero:
   hero__title: Welcome! I'm Meredith Cook.
   hero__description: I'm a stay-at-home mom moonlighting as a writer of grants and children's books.
-  hero__image: '/menca/images/headshot_MC.png'
+  hero__image: '/images/headshot_MC.png'
 
 
 #-------------------------------
