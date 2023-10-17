@@ -61,7 +61,7 @@ Finally, here is a list of helpful resources for habit formation, time managemen
 
 ### Apps and Other Tools
 
-* <a href= "https://f-droid.org/en/packages/org.isoron.uhabits/L" target= "blank">Loop Habit Tracker</a>: I like this app because it is super bare-bones. There are no ads, you simply list your habits and check them off each day. It allows you to set reminders and view stats as you track your progress. 
+* <a href= "https://f-droid.org/en/packages/org.isoron.uhabits/" target= "blank">Loop Habit Tracker</a>: I like this app because it is super bare-bones. There are no ads, you simply list your habits and check them off each day. It allows you to set reminders and view stats as you track your progress. 
 
 	Note: This is an app that I downloaded from a privacy-minded, third-party app store called F-Droid. As far as I know, this can only be used on Android phones. If you're not able to use this particular app, there are lots of others that you can find in the app store for your phone. 
 
