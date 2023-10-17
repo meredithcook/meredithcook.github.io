@@ -45,7 +45,7 @@ James Clear calls this <a href= "https://jamesclear.com/habit-stacking" target= 
 
 ### Determine Your Keystone Habits
 
-In my first article of this series, I shared about "keystone habits." In <a href= "https://amzn.to/3Vdo2Jh" target= "blank">*The Power of Habit*</a>, Charles Duhigg describes keystone habits as those that matter more than others in remaking lives. I'll share his quote again: 
+[In my first article of this series](https://www.meredithcook.net/how-we-spend-our-days), I shared about "keystone habits." In <a href= "https://amzn.to/3Vdo2Jh" target= "blank">*The Power of Habit*</a>, Charles Duhigg describes keystone habits as those that matter more than others in remaking lives. I'll share his quote again: 
 
 >“Keystone habits start a process that, over time, transforms everything…The habits that matter most are ones that, when they start to shift, dislodge and remake other patterns.” (100, 101)
 
