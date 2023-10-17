@@ -7,7 +7,7 @@ image: '/images/kidbible.jpeg' # Add image post (optional)
 tags: [spiritual-disciplines, parenting]
 GA: G-DHPTC39GDF
 ---
-A few years ago, my husband and I both read <a href="https://amzn.to/3XWdu0A"><i>Family Worship</i></a>, by Donald Whitney. We already shared the conviction that we are the primary disciplers of our children, but this short book convinced us to begin incorporating patterns of worship and spiritual disciplines in our home as part of our kids' discipleship.
+A few years ago, my husband and I both read <a href="https://amzn.to/3XWdu0A" target= "blank">*Family Worship*</a>, by Donald Whitney. We already shared the conviction that we are the primary disciplers of our children, but this short book convinced us to begin incorporating patterns of worship and spiritual disciplines in our home as part of our kids' discipleship.
 
 At the time, our daughter was just a year old and I was pregnant with our son. We had no idea where to start—seriously, how do you teach spiritual disciplines to a squirmy toddler? But we felt it was vital to start incorporating these important habits in our kids' daily routines while they were still very young. After all, while our kids spend the majority of their time with us now, there are only a few short years before that drastically changes as they start school and extracurriculars. There was no better time to start building a foundation of biblical truth than then. 
 
@@ -15,9 +15,9 @@ Our kids are now three and two, and we've developed some habits in our routines 
 
 ## Bible Stories
 
-The first, and primary, thing we do is a family devotion time. It started around Christmas time a couple of years ago, after I had come across <a href="https://goodkind.shop/collections/christmas">Advent Blocks</a> on Twitter. We weren't sure if our one-year-old daughter would understand what was going on, but we decided to start with Advent Blocks to introduce Bible stories to her. It helped that my daughter has always loved books and being read to—so though the stories were longer than what she was used to, she (for the most part) sat and listened. 
+The first, and primary, thing we do is a family devotion time. It started around Christmas time a couple of years ago, after I had come across <a href="https://goodkind.shop/collections/christmas" target= "blank">Advent Blocks</a> on Twitter. We weren't sure if our one-year-old daughter would understand what was going on, but we decided to start with Advent Blocks to introduce Bible stories to her. It helped that my daughter has always loved books and being read to—so though the stories were longer than what she was used to, she (for the most part) sat and listened. 
 
-From there, we began reading a story out of the <a href="https://amzn.to/41ps1F1"><i>Jesus Storybook Bible</i></a> every night after dinner. Starting out, I would say we were probably not super committed to this practice. We would occasionally skip nights if we were traveling, or the babies were having a hard time, etc. However, as we increasingly became convicted about our role in our kids' spiritual development, we have made reading "the story" a non-negotiable part of our daily routine. 
+From there, we began reading a story out of the <a href="https://amzn.to/41ps1F1" target= "blank">*Jesus Storybook Bible*</a> every night after dinner. Starting out, I would say we were probably not super committed to this practice. We would occasionally skip nights if we were traveling, or the babies were having a hard time, etc. However, as we increasingly became convicted about our role in our kids' spiritual development, we have made reading "the story" a non-negotiable part of our daily routine. 
 
 It doesn't look the same every night. As the kids grow and as we become busier, our strategy for storytime changes. Where we used to read it at the table every night after dinner, for now we've found it best to read it right before the kids go to bed. 
 
@@ -25,15 +25,13 @@ For the times where we're out late at night or traveling, we purchased a digital
 
 Storytime is frequently loud and chaotic. To be quite honest, it is sometimes my least favorite part of the day. I've shouted the story over children screaming. I've wrestled a kid trying to run away with one hand while holding the book with the other. I've gotten carsick at times when I've had to read the story on-the-go. In those times, I sometimes just want to skip it for a night and often wonder if it's even making a difference. 
 
-But convenience, ease, and even immediate effectiveness are not the point. Justin Whitmel Earley writes in <a href="https://amzn.to/3m2n3xR"><i>Habits of the Household</i></a>, 
+But convenience, ease, and even immediate effectiveness are not the point. Justin Whitmel Earley writes in <a href="https://amzn.to/3m2n3xR" target= "blank">*Habits of the Household*</a>, 
 
 > "...the most significant thing about any household is what is considered normal. Why is this so important? Because the normal is what shapes us the most, though we notice it least." 
 
 My husband and I desire to make God's word a normal part of our daily routine. Though we don't yet regularly read the actual Bible to our kids, I do give them access to my Bible so they can become familiar with the look and feel of it. Every once in a while, they ask me to read a random passage that they've found, and I do. Sometimes my daughter will pick it up and pretend to read one of the stories she's heard us read every day from the <i>Jesus Storybook Bible</i>. I want the Bible to be accessible and familiar to them, even if they lose interest or have trouble understanding it right now. 
 
 Right now, though, we are teaching them Bible stories and helping them understand the Grand Narrative of Scripture. Already we're seeing our kids—particularly our daughter— remember details, characters, and connect the dots between stories. We will eventually begin reading the actual Bible with them as they get older, and by then they'll already be familiar with many of the stories contained in it. 
-
-
 
 ## Scripture Memorization
 
