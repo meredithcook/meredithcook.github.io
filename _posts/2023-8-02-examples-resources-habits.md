@@ -6,7 +6,7 @@ description: When determining what habits to practice, consider your schedule, c
 image: '/images/habittracking.jpeg' # Add image post (optional)
 tags: [habits, time-management]
 ---
-When choosing which habits to practice, consider your schedule, commitments, and values. Everyone has regular responsibilities. For me, my primary responsibilities include taking care of my family (particularly my children), working my paying job, and serving my church. I believe that habit formation and time management are vital to managing all of these responsibilities well. Additionally, as Christians, I believe our primary purpose for habit formation and good time management [should be to increasingly love God, neighbor, and obey the Great Commission](https://meredithcook.net/2023/05/30/habit-formation-motivation/). 
+When choosing which habits to practice, consider your schedule, commitments, and values. Everyone has regular responsibilities. For me, my primary responsibilities include taking care of my family (particularly my children), working my paying job, and serving my church. I believe that habit formation and time management are vital to managing all of these responsibilities well. Additionally, as Christians, I believe our primary purpose for habit formation and good time management [should be to increasingly love God, neighbor, and obey the Great Commission](https://www.meredithcook.net/habit-formation-motivation). 
 
 To get started, think of habit formation as a three-tiered system. Below, I've listed the habits I practice regularly (or attempt to practice regularly) as an example. I will also include links to some helpful resources at the end.
 
@@ -14,11 +14,11 @@ To get started, think of habit formation as a three-tiered system. Below, I've l
 
 The first tier of habit formation is keystone habits and spiritual disciplines. These are the habits most likely to lead us to love God, neighbor, and fulfill the Great Commission. I've also included my keystone habit (getting up early) in this tier. 
 
-* **Keystone Habit: Waking Up Early**: By itself, the habit of getting up early does not directly lead me to any of the purposes for habit formation listed above. However, this is the habit that allows me to accomplish every other first-tier habit listed below, and largely every habit in the second and third tiers. As a [stay-at-home mom](https://meredithcook.net/2022/05/30/the-stay-at-home-full-time-working-mom/) who also [works full-time from home](https://meredithcook.net/2022/06/28/the-stay-at-home-working-mom-part-2/), getting up around 4:15-4:30 every morning usually gives me enough time to pray, read my Bible, and get some work done for my job before my kids get up.  
+* **Keystone Habit: Waking Up Early**: By itself, the habit of getting up early does not directly lead me to any of the purposes for habit formation listed above. However, this is the habit that allows me to accomplish every other first-tier habit listed below, and largely every habit in the second and third tiers. As a [stay-at-home mom](https://www.meredithcook.net/the-stay-at-home-full-time-working-mom/) who also [works full-time from home](https://www.meredithcook.net/the-stay-at-home-working-mom-part-2/), getting up around 4:15-4:30 every morning usually gives me enough time to pray, read my Bible, and get some work done for my job before my kids get up.  
 
 * **Quiet Time**: The first thing I do in the morning is pray and read my Bible. The habits (or spiritual disciplines) are the reason I get up so early. Unhurried time to pray and read my Bible is vital to every other aspect of my daily life and the habits that most directly influence how i love God, others, and live on mission.
 
-* **The Story**: [I have written on this before](https://meredithcook.net/2023/02/25/spiritual-disciplines-toddlers-bible/), but in addition to our personal Bible study and prayer, my husband and I have been trying to develop a time of family worship with our kids. Right now, that looks like reading a story from [*The Jesus Storybook Bible*](https://amzn.to/41ps1F1)with them every night before bed. We have already seen our kids, particularly our oldest, become familiar with the stories and talk about them outside of this time. I believe this habit meets the "loving others" and "fulfill the Great Commission" motivations, as teaching my kids Bible stories is  both an act of love and evangelism. But it also fosters my love of God as I am continually reminded through simple stories of what He has done for me. 
+* **The Story**: [I have written on this before](https://www.meredithcook.net/spiritual-disciplines-toddlers-bible/), but in addition to our personal Bible study and prayer, my husband and I have been trying to develop a time of family worship with our kids. Right now, that looks like reading a story from <a href= "https://amzn.to/3rU16nW" target= "blank">*The Jesus Storybook Bible*</a> with them every night before bed. We have already seen our kids, particularly our oldest, become familiar with the stories and talk about them outside of this time. I believe this habit meets the "loving others" and "fulfill the Great Commission" motivations, as teaching my kids Bible stories is  both an act of love and evangelism. But it also fosters my love of God as I am continually reminded through simple stories of what He has done for me. 
 
 * **Fellowship**: I define fellowship as both attending/participating in corporate worship and hospitality in my own home. Corporate worship directly impacts my love for God and others, as well as spurs me on to obey the Great Commission. Though this does not happen frequently, when I am away from our church for a time (such as this summer when we missed three weeks for a mission trip and my niece's birthday), I notice a difference in my mindset. When my focus so easily shifts to myself during the week, participating in corporate worship points me back to Christ, serving points me back to others, and fellowship is both encouraging and helps me keep others' needs at the forefront of my mind. 
 	
@@ -50,27 +50,26 @@ Finally, here is a list of helpful resources for habit formation, time managemen
 
 ### Books
 
-* [*The Power of Habit*](https://amzn.to/3QlPVhG) by Charles Duhigg
-* [*Atomic Habits*](https://amzn.to/45dnMgO) by James Clear
-* [*Deep Work*](https://amzn.to/3QjYN7D) by Cal Newport
-* [*Smarter Faster Better: The Transformative Power of Real Productivity* ](https://amzn.to/3QhBP0S)by Charles Duhigg
-* [*The Common Rule*](https://amzn.to/43Tb4mB) by Justin Whitmel Earley
-* [*Habits of the Household*](https://amzn.to/47f7QMW) by Justin Whitmel Earley
-* [*Habits of Grace*](https://amzn.to/3DDhA6j) by David Mathis
-* [*Spiritual Disciplines for the Christian Life*](https://amzn.to/3YiHLbL) by Donald Whitney
-* [*Family Worship*](https://amzn.to/3DKjVfu) by Donald Whitney
+* <a href= "https://amzn.to/3QlPVhG" target= "blank">*The Power of Habit*</a> by Charles Duhigg
+* <a href= "https://amzn.to/3QjYN7D" target= "blank">*Deep Work*</a> by Cal Newport
+* <a href= "https://amzn.to/3QhBP0S" target= "blank">*Smarter Faster Better: The Transformative Power of Real Productivity*</a> by Charles Duhigg
+* <a href= "https://amzn.to/43Tb4mB" target= "blank">*The Common Rule*</a> by Justin Whitmel Earley
+* <a href= "https://amzn.to/47f7QMW" target= "blank">*Habits of the Household*</a> by Justin Whitmel Earley
+* <a href= "https://amzn.to/3DDhA6j" target= "blank">*Habits of Grace*</a> by David Mathis
+* <a href= "https://amzn.to/3YiHLbL" target= "blank">*Spiritual Disciplines for the Christian Life*</a> by Donald Whitney
+* <a href= "https://amzn.to/3DKjVfu" target= "blank">*Family Worship*</a> by Donald Whitney
 
 ### Apps and Other Tools
 
-* [Loop Habit Tracker](https://f-droid.org/en/packages/org.isoron.uhabits/): I like this app because it is super bare-bones. There are no ads, you simply list your habits and check them off each day. It allows you to set reminders and view stats as you track your progress. 
+* <a href= "https://f-droid.org/en/packages/org.isoron.uhabits/L" target= "blank">Loop Habit Tracker</a>: I like this app because it is super bare-bones. There are no ads, you simply list your habits and check them off each day. It allows you to set reminders and view stats as you track your progress. 
 
 	Note: This is an app that I downloaded from a privacy-minded, third-party app store called F-Droid. As far as I know, this can only be used on Android phones. If you're not able to use this particular app, there are lots of others that you can find in the app store for your phone. 
 
-* [Todoist](https://todoist.com/): Todoist is what I use to manage my daily and ongoing tasks. I like todoist because I can sort tasks by priority level, which helps me know what tasks are more urgent than others. Todoist also has several integrations. I use the one for Outlook, which means I can add work emails directly from Outlook to my task list. There is a habit tracking integration for those who may want to consolidate apps. (Full disclosure- I don't like the habit tracking function in todoist but it's there for those who may want to use it.)
+* <a href= "https://todoist.com/" target= "blank">Todoist</a>: Todoist is what I use to manage my daily and ongoing tasks. I like todoist because I can sort tasks by priority level, which helps me know what tasks are more urgent than others. Todoist also has several integrations. I use the one for Outlook, which means I can add work emails directly from Outlook to my task list. There is a habit tracking integration for those who may want to consolidate apps. (Full disclosure- I don't like the habit tracking function in todoist but it's there for those who may want to use it.)
 
-* [Eisenhower Matrix](https://www.eisenhower.me/eisenhower-matrix/#:~:text=What%20is%20the%20Eisenhower%20Matrix,or%20not%20do%20at%20all.): The Eisenhower Matrix "helps you decide on and prioritize tasks by urgency and importance, sorting out less urgent and important tasks which you should either delegate or not do at all." This is the framework I try to use when I sort my tasks. As someone who tends to overload myself with tasks and view all tasks as urgent, this is both a difficult and necessary tool that I use to help me manage my time well. Todoist's priority feature works well with this tool.
+* <a href= "https://www.eisenhower.me/eisenhower-matrix/#:~:text=What%20is%20the%20Eisenhower%20Matrix,or%20not%20do%20at%20all." target= "blank">Eisenhower Matrix</a>: The Eisenhower Matrix "helps you decide on and prioritize tasks by urgency and importance, sorting out less urgent and important tasks which you should either delegate or not do at all." This is the framework I try to use when I sort my tasks. As someone who tends to overload myself with tasks and view all tasks as urgent, this is both a difficult and necessary tool that I use to help me manage my time well. Todoist's priority feature works well with this tool.
 
-* [Predictable Success Styles Quiz](https://predictablesuccess.com/styles-quiz/): It may seem odd to put a personality test on a habit formation and time management resource list, but out of any personality test I've ever taken, this one has helped me become more self aware of how I view tasks (and therefore how I manage my time). 
+* <a href= "https://predictablesuccess.com/styles-quiz/" target= "blank">Predictable Success Styles Quiz</a>: It may seem odd to put a personality test on a habit formation and time management resource list, but out of any personality test I've ever taken, this one has helped me become more self aware of how I view tasks (and therefore how I manage my time). 
 
 	<sub>Photo by <a href="https://unsplash.com/@glenncarstenspeters?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Glenn Carstens-Peters</a> on <a href="https://unsplash.com/photos/RLw-UC03Gwc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></sub>
   
