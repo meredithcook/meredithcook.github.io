@@ -36,7 +36,7 @@ I listened to worship music, prayed, walked around my neighborhood, took a bath,
 >stream, are a limited resource to be  
 >purposefully mined or forever lost.*
 
-All the ways I spend my days matter, for once the day passes, I don't get it back. I know this, in theory. It's why I've spent so much time [reading about and developing habits](https://meredithcook.net/2023/04/27/how-we-spend-our-days/). Just like my physical health, finances, and opportunities, the day is something I should steward well, for it will soon be gone. 
+All the ways I spend my days matter, for once the day passes, I don't get it back. I know this, in theory. It's why I've spent so much time [reading about and developing habits](https://www.meredithcook.net/how-we-spend-our-days). Just like my physical health, finances, and opportunities, the day is something I should steward well, for it will soon be gone. 
 
 My fridge is full of pictures my daughter drew of our family, complete with curly hair on the drawing of her brother—a skill she developed seemingly overnight. Suddenly both of my kids are out of diapers. There are lines on my forehead and under my eyes that didn't used to be there. These are just a handful of the many reminders each day that time waits for no one. 
 
@@ -50,7 +50,7 @@ Tim Challies recently wrote an article called, <a href= "https://www.challies.co
 
 One day, these lines on my face will become deeper and new ones will appear. Soon, my kids won't be excited when the garbage truck drives by on Thursday mornings. They won't want to sit by me (or on me) at every meal. They won't run around the house in costumes anymore. The house will stay clean and quiet because, if the Lord allows it, they'll grow up and have their own homes and families. Except then, I won't care so much if it's clean or quiet. Someday, maybe soon, I'll have to say goodbye to my grandmothers who are now both in their nineties.
 
-The future holds a million unknown possibilities, and I don't even know what the rest of today holds. But I have a good Father in heaven for whom tomorrow, next year, ten years, and eternity is not a surprise. I can be confident that God's mercies are new every morning and His grace is sufficient for each new day. That confidence doesn't always come too easily. To be present and joyful requires a lot of work on my part and I frequently fail at it. But as the days grow shorter (in more than one way), I know that I must become a good steward of today to honor the Lord and the time He has given me. 
+The future holds a million unknown possibilities, and I don't even know what the rest of today holds. But I have a good Father in heaven for whom tomorrow, next year, ten years from now, and even eternity is not a surprise. I can be confident that God's mercies are new every morning and His grace is sufficient for each new day. That confidence doesn't always come too easily. To be present and joyful requires a lot of work on my part and I frequently fail at it. But as the days grow shorter (in more than one way), I know that I must become a good steward of today to honor the Lord and the time He has given me. 
 
 Today is a gift. *Rejoice.*
 
