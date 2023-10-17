@@ -16,7 +16,6 @@ author:
   author__avatar: '/images/headshot_MC.png'
 
 social:
-- {icon: "ion-md-mail", link: "mailto:meredithcook@proton.me"}
 - {icon: "ion-logo-twitter", link: "https://twitter.com/meredithcook716"}
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/meredithcook716/"}
 - {icon: "ion-logo-pinterest", link: "https://www.pinterest.com/meredithlcook/"}
