@@ -4,7 +4,7 @@ title: Introducing Spiritual Disciplines to Our Toddlers- Prayer
 date: 2023-3-31
 description: As parents, we are convinced that we are the primary disciplers of our children. We are stumbling our way through teaching our children how to pray.
 image: '/images/prayer.jpeg' # Add image post (optional)
-tags: [spiritual disciplines, parenting, prayer]
+tags: [spiritual-disciplines, parenting, prayer]
 ---
 
 I often hear friends and fellow church members express struggles with prayer as a spiritual discipline. Everyone seems to know that person who is a true prayer warrior, who prays two hours every morning while the rest of us stumble through for maybe ten or fifteen minutes. 
