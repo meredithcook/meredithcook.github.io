@@ -46,7 +46,7 @@ So, I cut it off. Over the course of last year, the number of television hours I
 
 I don't remember a lot of specifics about the conversations we had on our Big Bend trip. But I remember two things: I was afraid that I couldn't change but I also had to try.
 
-Trevin Wax [recently wrote something](https://www.thegospelcoalition.org/blogs/trevin-wax/spiritual-covid-and-losing-your-taste-for-god/) that helped me put words to something I had struggled with in that time—why, though I had continued to practice spiritual disciplines, I had spiraled so hard away from the truths of Scripture when it came to my emotions. He wrote:
+Trevin Wax <a href="https://www.thegospelcoalition.org/blogs/trevin-wax/spiritual-covid-and-losing-your-taste-for-god/" target="blank">recently wrote something</a> that helped me put words to something I had struggled with in that time—why, though I had continued to practice spiritual disciplines, I had spiraled so hard away from the truths of Scripture when it came to my emotions. He wrote:
 
 > And yet, whether through sin or suffering, it’s possible to lose the taste you once had for the Lord and his Word.
 

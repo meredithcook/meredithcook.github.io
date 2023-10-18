@@ -53,6 +53,7 @@ Finally, here is a list of helpful resources for habit formation, time managemen
 * <a href= "https://amzn.to/3QlPVhG" target= "blank">*The Power of Habit*</a> by Charles Duhigg
 * <a href= "https://amzn.to/3QjYN7D" target= "blank">*Deep Work*</a> by Cal Newport
 * <a href= "https://amzn.to/3QhBP0S" target= "blank">*Smarter Faster Better: The Transformative Power of Real Productivity*</a> by Charles Duhigg
+* <a href="https://amzn.to/3i4B2BG" target="blank">*Atomic Habits*</a> by James Clear
 * <a href= "https://amzn.to/43Tb4mB" target= "blank">*The Common Rule*</a> by Justin Whitmel Earley
 * <a href= "https://amzn.to/47f7QMW" target= "blank">*Habits of the Household*</a> by Justin Whitmel Earley
 * <a href= "https://amzn.to/3DDhA6j" target= "blank">*Habits of Grace*</a> by David Mathis

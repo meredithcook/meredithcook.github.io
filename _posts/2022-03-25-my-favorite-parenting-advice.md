@@ -22,7 +22,7 @@ I have heard some variation of this advice from family, friends, acquaintances, 
 
 There is a saying about parenting: "The days are long but the years are short." Lately that saying doesn't ring true. It all feels too short. Days and weeks pass and I can barely keep up with how big my kids are growing right before my eyes. 
 
-However, I felt that saying deeply in those first days and months of becoming a new mom. The first month after my daughter's was born felt like the longest month of my entire life. I did not enter motherhood gracefully. There was a combination of factors for this (one of which I wrote about [here](https://meredithcook.ml/2022/02/05/climbing-the-slide/)) but that's another post for another time. 
+However, I felt that saying deeply in those first days and months of becoming a new mom. The first month after my daughter's was born felt like the longest month of my entire life. I did not enter motherhood gracefully. There was a combination of factors for this (one of which I wrote about [here](https://www.meredithcook.net/climbing-the-slide)) but that's another post for another time. 
 
 Suffice it to say that I have spent a lot of time feeling guilty and regretting how much time I wasted when my daughter was a baby. Though I was with her every day, I was not very present. I did not enjoy her as much as I should have. Thankfully, the Lord graciously helped me realize this error sooner rather than later so that I wouldn't waste all of my kids' baby and toddler years. 
 

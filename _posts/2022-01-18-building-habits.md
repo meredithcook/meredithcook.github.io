@@ -12,7 +12,7 @@ The week between Christmas and New Year's has become one of my favorite weeks. T
 
 I have, for many years, set some type of New Year's resolution or goals. I never got caught up on terminology, I just liked having aspirations for the year. The problem is that I have never been  consistently disciplined. Like many people, I fall off the wagon pretty easily. (For instance, in the time it's taken me to write two paragraphs, I have consumed an entire bag of Sour Patch Kids.)
 
-But at the beginning of last year, I read Charles Duhigg's [*The Power of Habit*](https://amzn.to/3K1AplE). It turned out to be one of the most helpful books I've read in recent years. In it, Duhigg describes the science behind habit formation. He argues that the key to good habit formation is simply understanding how habits work.
+But at the beginning of last year, I read Charles Duhigg's <a href= "https://amzn.to/3QlPVhG" target= "blank">*The Power of Habit*</a>. It turned out to be one of the most helpful books I've read in recent years. In it, Duhigg describes the science behind habit formation. He argues that the key to good habit formation is simply understanding how habits work.
 
 The book is fascinating and I highly recommend it. Duhigg's research covers (among other things) how good and bad habits develop, how to change bad habits, and what type of habits are most important to build (called, "Keystone Habits"). (He also talks about how organizations tap into knowledge about consumer habits and it's pretty creepy. Looking at you, Target.) 
 
@@ -20,7 +20,7 @@ Reading *The Power of Habit* last year jump started a shift in the way I set goa
 
 ## Shifting Focus
 
-In another book of the same subject, [*Atomic Habits*](https://amzn.to/3rkmsGM), James Clear talks a bit about the difference between habits (what he calls "systems") and goals. You can [read an excerpt](https://jamesclear.com/goals-systems) from it on his website, where he explains why you should shift your focus from goal setting to designing systems to follow daily. (Disclaimer: though I have heard good things about it, I have not yet read Clear's book.)
+In another book of the same subject, <a href="https://amzn.to/3i4B2BG" target="blank">*Atomic Habits*</a>, James Clear talks a bit about the difference between habits (what he calls "systems") and goals. You can <a href="https://jamesclear.com/goals-systems" target="blank">read an excerpt</a> from it on his website, where he explains why you should shift your focus from goal setting to designing systems to follow daily. 
 
 Encouraged by Duhigg and Clear's explanation of habit building, I shifted my focus from setting "goals" to building "habits." It has made a huge difference in how I use my time. 
 
