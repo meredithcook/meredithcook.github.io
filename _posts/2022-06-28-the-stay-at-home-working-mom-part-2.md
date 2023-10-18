@@ -12,7 +12,7 @@ As a stay-at-home mom who also works a full-time job, I often feel overwhelmed a
 
 Another stewardship issue comes into play, however, when I am doing these two things at once. In order to be both a present mom and a faithful employee, I have to be diligent in how I manage my time. It is hard for me to evaluate myself as a mother (does anyone ever feel like they're doing a great job at this parenting thing?!), I do know that I prioritize my kids during the day. So, in order to evaluate myself as a worker, I have set measurable and immeasurable principles to determine how well I'm doing at my job.
 
-In my [last article](https://meredithcook.ml/2022/05/30/the-stay-at-home-full-time-working-mom/), I discussed the measurable principles I use to help me balance the see-saw from mom to employee. Today, I want to discuss the immeasurable principles I use. These are quite subjective and may change as my circumstances change (kids grow more independent, go to school, etc). However, these are the principles I use as benchmarks to help me determine how well I'm stewarding my opportunity to both work and stay at home with my kids.
+In my [last article](https://www.meredithcook.net/the-stay-at-home-full-time-working-mom), I discussed the measurable principles I use to help me balance the see-saw from mom to employee. Today, I want to discuss the immeasurable principles I use. These are quite subjective and may change as my circumstances change (kids grow more independent, go to school, etc). However, these are the principles I use as benchmarks to help me determine how well I'm stewarding my opportunity to both work and stay at home with my kids.
 
 ## Presence
 
