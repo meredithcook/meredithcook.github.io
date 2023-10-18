@@ -8,7 +8,7 @@ tags: [church] # add tag
 GA: U263725632
 ---
 
-*Note: I wrote a version of the   [devotional below](https://www.flipsnack.com/hcpninc/day-13-of-awaken-houston.html?fbclid=IwAR0I0EsUrXwRR17QsfuGcbIs2-JOVVHHLTUwhmMpwbDR5IgQ0ZRhuJ6Xow) for the Houston Church Planting Network's annual season of prayer last year. I've added to it and updated it for this website.* 
+*Note: I wrote a version of the <a href="https://www.flipsnack.com/hcpninc/day-13-of-awaken-houston.html" target="blank">devotional below</a> for the Houston Church Planting Network's annual season of prayer last year. I've added to it and updated it for this website.* 
 
 ---
 
