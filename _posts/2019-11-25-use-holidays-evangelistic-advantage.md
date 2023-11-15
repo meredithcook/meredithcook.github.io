@@ -7,7 +7,7 @@ image: '/images/holidays.jpeg' # Add image post (optional)
 tags: [evangelism] # add tag
 GA: U263725632
 ---
-[*This article was originally published by The Upstream Collective.*](https://www.theupstreamcollective.org/post/use-the-holidays-to-your-evangelistic-advantage)
+<a href= "https://www.theupstreamcollective.org/post/use-the-holidays-to-your-evangelistic-advantage" target= "blank">*This article was originally published by The Upstream Collective.*</a>
 
 Several years ago, I was in Japan on a short-term mission trip. We were visiting long-term missionaries in order to support their work and learn more about how to minister in a Japanese context. 
 
