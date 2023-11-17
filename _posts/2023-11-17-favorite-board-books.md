@@ -9,7 +9,9 @@ GA: G-DHPTC39GDF
 ---
 ![Board Books]({{site.baseurl}}/images/boardbooks.png)
 
-<img alt=”Image alt text” title=”Board Books” src=”meredithcook/meredithcook.github.io/images/boardbooks.png align=”center”/>
+<p align="center">
+  <img width="460" height="300" src="meredithcook/meredithcook.github.io/images/boardbooks.png">
+</p>
 
 In our few short years of parenting, we have read hundreds of books to our kids. Though both of our kids are almost past the target age of board books, we have kept most of them. Our kids still enjoy reading many of them, and our daughter is learning to read the simple words board books use. 
 
