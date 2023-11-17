@@ -6,9 +6,8 @@ description: When our kids were babies, these were their (and our) favorite boar
 image: '/images/read.jpeg' # Add image post (optional)
 tags: [resources, reading]
 GA: G-DHPTC39GDF
+published: false
 ---
-![Board Books]({{site.baseurl}}/images/boardbooks.png)
-
 <p align="center">
   <img width="460" height="300" src="meredithcook.github.io/images/boardbooks.png">
 </p>
