@@ -6,7 +6,6 @@ description: When our kids were babies, these were their (and our) favorite boar
 image: '/images/read.jpeg' # Add image post (optional)
 tags: [resources, reading]
 GA: G-DHPTC39GDF
-published: false
 ---
 <p align="center">
   <img width="460" height="300" src="meredithcook.github.io/images/boardbooks.png">
@@ -16,6 +15,19 @@ When our kids were born, we wanted to promote reading to them from the very begi
 
 I also love buying board books for friends who are having babies. We have many favorites, and I love sharing them with new parents. Because of this, I thought I would share some of our favorites here, in case you or someone you know is looking for a good book to read to your baby or gift to someone else. (And, yes, it's also a self-serving way to remind you that <a href= "https://amzn.to/3uwAqdK" target= "blank">my board book is now available for pre-order.</a>)
 
-Below is a list of our favorite board books. The criteria I used 
+Below is a list of our favorite board books. The criteria I used for this list boiled down to two things: the books my kids liked best and the books that I didn't mind reading 2413 times (seriously, we had to buy a new copy of several of these because we read them so much they completely fell apart). The books pictured above all made the cut, along with a few bonus suggestions included below. 
 
 <sub>Photo by <a href="https://unsplash.com/@benmullins?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ben Mullins</a> on <a href="https://unsplash.com/photos/two-childrens-reading-book-while-sitting-on-brown-sofa-5QTQz-oYk1A?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sub>
+
+<p align="center">
+  <img width="460" height="300" src="meredithcook.github.io/images/soundingjoy.jpg">
+</p>
+
+<a href= "https://amzn.to/3szb2Uq" target= "blank">*Sounding Joy*</a>
+Ellie Holcomb
+B&H Kids, 2022
+
+*Sounding Joy* is by far my favorite in this list. My kids think I'm nuts because I can't get through it without crying. Yes, it's a Christmas book and we don't typically read it year-round. However, the lyrics (<a href= "https://youtu.be/jthLvNgmFjA?si=RLjdXij_yHSIhNFE" target= "blank">it's got a corresponding song</a>) combined with the beautiful illustrations put this one at the top of my list. 
+
+
+
