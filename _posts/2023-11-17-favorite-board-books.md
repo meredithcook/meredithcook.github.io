@@ -16,4 +16,6 @@ When our kids were born, we wanted to promote reading to them from the very begi
 
 I also love buying board books for friends who are having babies. We have many favorites, and I love sharing them with new parents. Because of this, I thought I would share some of our favorites here, in case you or someone you know is looking for a good book to read to your baby or gift to someone else. (And, yes, it's also a self-serving way to remind you that <a href= "https://amzn.to/3uwAqdK" target= "blank">my board book is now available for pre-order.</a>)
 
+Below is a list of our favorite board books. The criteria I used 
+
 <sub>Photo by <a href="https://unsplash.com/@benmullins?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ben Mullins</a> on <a href="https://unsplash.com/photos/two-childrens-reading-book-while-sitting-on-brown-sofa-5QTQz-oYk1A?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sub>
