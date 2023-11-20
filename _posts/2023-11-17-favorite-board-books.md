@@ -22,17 +22,15 @@ Below is a list of our favorite board books. The criteria I used for this list b
   <br>B&H Kids, 2022
   <br>
   <br><i>Sounding Joy</i> is by far my favorite in this list. My kids think I'm nuts because I can't get through it without crying. Yes, it's a Christmas book and we don't typically read it year-round. However, the lyrics (<a href= "https://youtu.be/jthLvNgmFjA?si=RLjdXij_yHSIhNFE" target= "blank">it's got a corresponding song</a>) combined with the beautiful illustrations put this one at the top of my list.
-</p>
-  
-<br>
-<a href= "https://amzn.to/3szb2Uq" target= "blank"><i>Sounding Joy</i></a>
-  <br>Ellie Holcomb
-  <br>B&H Kids, 2022
-<p></p>
-<p></p>
-<p><i>Sounding Joy</i> is by far my favorite in this list. My kids think I'm nuts because I can't get through it without crying. Yes, it's a Christmas book and we don't typically read it year-round. However, the lyrics (<a href= "https://youtu.be/jthLvNgmFjA?si=RLjdXij_yHSIhNFE" target= "blank">it's got a corresponding song</a>) combined with the beautiful illustrations put this one at the top of my list.</p> 
+</p> 
 
-
+<a href="https://amzn.to/3szb2Uq" target="blank"><img src="meredithcook.github.io/images/shark.jpg" alt="Never Touch a Shark" style="width:250px;height:250px;padding:10px" align="left"></a>
+  <a href= "https://amzn.to/3G5K6yH" target= "blank"><i>Never Touch a Shark</i></a>
+  <br>Rosie Greening
+  <br>Make Believe Ideas, 2020
+  <br>
+  <br><i>Never Touch a Shark</i> is a touch-and-feel book that my daughter enjoyed from a very early age. She loved running her hands over all the textures and I thought the rhymes in this one were adorable. We read this one so much, it completely fell apart! It's part of the <a href= "https://amzn.to/3MPJocy" target= "blank">"Never Touch a" series <a> of over thirty books. We read a few in this series, but <i>Never Touch a Shark</i> was our favorite. 
+</p> 
 
 <p align="center">
   <img width="460" height="300" src="meredithcook.github.io/images/boardbooks.png">
