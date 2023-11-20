@@ -20,7 +20,7 @@ The criteria I used for this list boiled down to two things: the books my kids l
   <br>Ellie Holcomb
   <br>B&H Kids, 2022
   <br>
-  <br><i>Sounding Joy</i> is by far my favorite in this list. My kids think I'm nuts because I can't get through it without crying. Yes, it's a Christmas book and we don't typically read it year-round. However, the lyrics (<a href= "https://youtu.be/jthLvNgmFjA?si=RLjdXij_yHSIhNFE" target= "blank">it's got a corresponding song</a>) combined with the beautiful illustrations put this one at the top of my list.. 
+  <br><i>Sounding Joy</i> is by far my favorite in this list. My kids think I'm nuts because I can't get through it without crying. Yes, it's a Christmas book and we don't typically read it year-round. However, the lyrics (<a href= "https://youtu.be/jthLvNgmFjA?si=RLjdXij_yHSIhNFE" target= "blank">it's got a corresponding song</a>) combined with the beautiful illustrations put this one at the top of my list. My kids also loved her other two books, <a href= "https://amzn.to/47xE2L0" target= "blank"><i>Who Sang the First Song?</i></a> and <a href= "https://amzn.to/3MRJEYz" target= "blank"><i>Don't Forget to Remember</i></a>. 
 </p>
 
 <p align="center">
@@ -39,6 +39,60 @@ The criteria I used for this list boiled down to two things: the books my kids l
   <br>Feiwel & Friends, 2015
   <br>
   <br>The reason my kids know all their animal sounds is almost exclusively because of <i>Dada</i>. I'm sure we would've taught them animal sounds some other way, but we read this book so much that my daughter made all the animal sounds way before she started talking. Jimmy Fallon has written other renditions of this book, including <a href= "https://amzn.to/3R6PGqR" target= "blank"><i>Mama</i></a>, <a href= "https://amzn.to/3um2YqD" target= "blank"><i>Baby</i></a>, and <a href= "https://amzn.to/46pEWYO" target= "blank"><i>Nana</i></a>. All are adorable, but we loved <i>Dada</i> the best. Bonus- there is a <a href= "https://www.barnesandnoble.com/w/jimmy-fallon-your-babys-first-word-will-be-dada-jumbo-puzzle-jimmy-fallon/1131609699?ean=9780735361447" target= "blank">puzzle</a> that corresponds with the book. My kids love putting it together and it's easy enough that they can assemble it by themselves. 
+</p>
+
+<p align="center">
+<a href="https://amzn.to/3QJmaWN" target="blank"><img src="meredithcook.github.io/images/firstwords.jpg" alt="First 100 Words" style="width:250px;height:250px;padding:10px" align="center"></a><p>
+  <a href= "https://amzn.to/3QJmaWN" target= "blank"><i>First 100 Words</i></a>
+  <br>Roger Priddy
+  <br>Priddy Books US, 2005
+  <br>
+  <br>This was another well-loved book that fell apart, and still my kids would carry the individual pages around to look at. It's also <a href= "https://amzn.to/46w3yiY" target= "blank">part of a series</a>, of which we've owned two other versions. My kids liked the bigger board books the best, and would spread out on the floor to look at the pictures. This book also helped my son learn many of his first words. 
+</p>
+
+<p align="center">
+<a href="https://amzn.to/3QNoagL" target="blank"><img src="meredithcook.github.io/images/brownbear.jpg" alt="Brown Bear" style="width:250px;height:250px;padding:10px" align="center"></a><p>
+  <a href= "https://amzn.to/3QNoagL" target= "blank"><i>Brown Bear, Brown Bear, What Do You See?</i></a>
+  <br>Bill Martin, Jr.
+  <br>Henry Holt and Co., 2011
+  <br>
+  <br><i>My daughter particularly loved the <a href= "https://amzn.to/3QNoagL" target= "blank">slide-and-find version</a> of <i>Brown Bear, Brown Bear, What Do You See?</i>. There are several board book "classics" that my kids enjoyed. My son's favorite was always <a href= "https://amzn.to/3ugvIAP" target= "blank"><i>Goodnight Moon</i></a.
+</p>
+
+<p align="center">
+<a href="https://amzn.to/3szb2Uq" target="blank"><img src="meredithcook.github.io/images/soundingjoy.jpg" alt="Sounding Joy" style="width:250px;height:250px;padding:10px" align="center"></a><p>
+  <a href= "https://amzn.to/3szb2Uq" target= "blank"><i>Sounding Joy</i></a>
+  <br>Ellie Holcomb
+  <br>B&H Kids, 2022
+  <br>
+  <br><i>Sounding Joy</i> is by far my favorite in this list. My kids think I'm nuts because I can't get through it without crying. Yes, it's a Christmas book and we don't typically read it year-round. However, the lyrics (<a href= "https://youtu.be/jthLvNgmFjA?si=RLjdXij_yHSIhNFE" target= "blank">it's got a corresponding song</a>) combined with the beautiful illustrations put this one at the top of my list.. 
+</p>
+
+<p align="center">
+<a href="https://amzn.to/3szb2Uq" target="blank"><img src="meredithcook.github.io/images/soundingjoy.jpg" alt="Sounding Joy" style="width:250px;height:250px;padding:10px" align="center"></a><p>
+  <a href= "https://amzn.to/3szb2Uq" target= "blank"><i>Sounding Joy</i></a>
+  <br>Ellie Holcomb
+  <br>B&H Kids, 2022
+  <br>
+  <br><i>Sounding Joy</i> is by far my favorite in this list. My kids think I'm nuts because I can't get through it without crying. Yes, it's a Christmas book and we don't typically read it year-round. However, the lyrics (<a href= "https://youtu.be/jthLvNgmFjA?si=RLjdXij_yHSIhNFE" target= "blank">it's got a corresponding song</a>) combined with the beautiful illustrations put this one at the top of my list.. 
+</p>
+
+<p align="center">
+<a href="https://amzn.to/3szb2Uq" target="blank"><img src="meredithcook.github.io/images/soundingjoy.jpg" alt="Sounding Joy" style="width:250px;height:250px;padding:10px" align="center"></a><p>
+  <a href= "https://amzn.to/3szb2Uq" target= "blank"><i>Sounding Joy</i></a>
+  <br>Ellie Holcomb
+  <br>B&H Kids, 2022
+  <br>
+  <br><i>Sounding Joy</i> is by far my favorite in this list. My kids think I'm nuts because I can't get through it without crying. Yes, it's a Christmas book and we don't typically read it year-round. However, the lyrics (<a href= "https://youtu.be/jthLvNgmFjA?si=RLjdXij_yHSIhNFE" target= "blank">it's got a corresponding song</a>) combined with the beautiful illustrations put this one at the top of my list.. 
+</p>
+
+<p align="center">
+<a href="https://amzn.to/3szb2Uq" target="blank"><img src="meredithcook.github.io/images/soundingjoy.jpg" alt="Sounding Joy" style="width:250px;height:250px;padding:10px" align="center"></a><p>
+  <a href= "https://amzn.to/3szb2Uq" target= "blank"><i>Sounding Joy</i></a>
+  <br>Ellie Holcomb
+  <br>B&H Kids, 2022
+  <br>
+  <br><i>Sounding Joy</i> is by far my favorite in this list. My kids think I'm nuts because I can't get through it without crying. Yes, it's a Christmas book and we don't typically read it year-round. However, the lyrics (<a href= "https://youtu.be/jthLvNgmFjA?si=RLjdXij_yHSIhNFE" target= "blank">it's got a corresponding song</a>) combined with the beautiful illustrations put this one at the top of my list.. 
 </p>
 
 <p align="center">
