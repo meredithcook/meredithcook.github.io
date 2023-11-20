@@ -24,7 +24,7 @@ Below is a list of our favorite board books. The criteria I used for this list b
   <br><i>Sounding Joy</i> is by far my favorite in this list. My kids think I'm nuts because I can't get through it without crying. Yes, it's a Christmas book and we don't typically read it year-round. However, the lyrics (<a href= "https://youtu.be/jthLvNgmFjA?si=RLjdXij_yHSIhNFE" target= "blank">it's got a corresponding song</a>) combined with the beautiful illustrations put this one at the top of my list.
 </p> 
 
-<a href="https://amzn.to/3szb2Uq" target="blank"><img src="meredithcook.github.io/images/shark.jpg" alt="Never Touch a Shark" style="width:250px;height:250px;padding:10px"></a>
+<a href="https://amzn.to/3G5K6yH" target="blank"><img src="meredithcook.github.io/images/shark.jpg" alt="Never Touch a Shark" style="width:250px;height:250px;padding:10px"></a>
 <br>
   <a href= "https://amzn.to/3G5K6yH" target= "blank"><i>Never Touch a Shark</i></a>
   <br>Rosie Greening
@@ -32,6 +32,15 @@ Below is a list of our favorite board books. The criteria I used for this list b
   <br>
   <br><i>Never Touch a Shark</i> is a touch-and-feel book that my daughter enjoyed from a very early age. She loved running her hands over all the textures and I thought the rhymes in this one were adorable. We read this one so much, it completely fell apart! It's part of the <a href= "https://amzn.to/3MPJocy" target= "blank">"Never Touch a" series </a> of over thirty books. We read a few in this series, but <i>Never Touch a Shark</i> was our favorite. 
 
+<p>
+<a href="https://amzn.to/49Kwfex" target="blank"><img src="meredithcook.github.io/images/dada.jpg" alt="Dada" style="width:250px;height:250px;padding:10px" align="center"></a>
+<br>
+  <a href= "https://amzn.to/49Kwfex" target= "blank"><i>Dada</i></a>
+  <br>Jimmy Fallon
+  <br>Feiwel & Friends, 2015
+  <br>
+  <br>The reason my kids know all their animal sounds is almost exclusively because of <i>Dada</i>. I'm sure we would've taught them animal sounds some other way, but we read this book so much that my daughter made all the animal sounds way before she started talking. Jimmy Fallon has written other renditions of this book, including <a href= "https://amzn.to/3R6PGqR" target= "blank"><i>Mama</i></a>, <a href= "https://amzn.to/3um2YqD" target= "blank"><i>Baby</i></a>, and <a href= "https://amzn.to/46pEWYO" target= "blank"><i>Nana</i></a>. All are adorable, but we loved <i>Dada</i> the best. Bonus- there is a <a href= "https://www.barnesandnoble.com/w/jimmy-fallon-your-babys-first-word-will-be-dada-jumbo-puzzle-jimmy-fallon/1131609699?ean=9780735361447" target= "blank">puzzle</a> that corresponds with the book. My kids love putting it together and it's easy enough that they can assemble it by themselves. 
+</p>
 
 <p align="center">
   <img width="460" height="300" src="meredithcook.github.io/images/boardbooks.png">
