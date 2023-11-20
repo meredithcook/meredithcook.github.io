@@ -52,7 +52,7 @@ The criteria I used for this list boiled down to two things: the books my kids l
 </p>
 
 <p align="center">
-<a href="https://amzn.to/3QNoagL" target="blank"><img src="meredithcook.github.io/images/brownbear.jpg" alt="Brown Bear" style="width:250px;height:250px;padding:10px" align="center"></a><p>
+<a href="https://amzn.to/3QNoagL" target="blank"><img src="meredithcook.github.io/images/brownbear.jpg" alt="Brown Bear" style="width:250px;height:300px;padding:10px" align="center"></a><p>
   <a href= "https://amzn.to/3QNoagL" target= "blank"><i>Brown Bear, Brown Bear, What Do You See?</i></a>
   <br>Bill Martin, Jr.
   <br>Henry Holt and Co., 2011
@@ -61,12 +61,12 @@ The criteria I used for this list boiled down to two things: the books my kids l
 </p>
 
 <p align="center">
-<a href="https://amzn.to/3szb2Uq" target="blank"><img src="meredithcook.github.io/images/soundingjoy.jpg" alt="Sounding Joy" style="width:250px;height:250px;padding:10px" align="center"></a><p>
-  <a href= "https://amzn.to/3szb2Uq" target= "blank"><i>Sounding Joy</i></a>
-  <br>Ellie Holcomb
-  <br>B&H Kids, 2022
+<a href="https://amzn.to/3R8caYn" target="blank"><img src="meredithcook.github.io/images/bigdog.jpeg" alt="Big Dog, Little Dog" style="width:250px;height:300px;padding:10px" align="center"></a><p>
+  <a href= "https://amzn.to/3R8caYn" target= "blank"><i>Big Dog, Little Dog</i></a>
+  <br>P.D. Eastman
+  <br>Random House Books for Young Readers, 2006
   <br>
-  <br><i>Sounding Joy</i> is by far my favorite in this list. My kids think I'm nuts because I can't get through it without crying. Yes, it's a Christmas book and we don't typically read it year-round. However, the lyrics (<a href= "https://youtu.be/jthLvNgmFjA?si=RLjdXij_yHSIhNFE" target= "blank">it's got a corresponding song</a>) combined with the beautiful illustrations put this one at the top of my list.. 
+  <br>My kids love so many of the Bright & Early Board Books (our Target has a whole shelf of them in the kids' book section), but <i>Big Dog, Little Dog</i> is probably their favorite. I like these books because they're the perfect size for little toddler hands, which makes them good car books, too. 
 </p>
 
 <p align="center">
