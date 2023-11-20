@@ -6,6 +6,7 @@ description: When our kids were babies, these were their (and our) favorite boar
 image: '/images/read.jpeg' # Add image post (optional)
 tags: [resources, reading]
 GA: G-DHPTC39GDF
+published: false
 ---
 When our kids were born, we wanted to promote reading from the very beginning. We started reading board books to them almost before they could hold their own heads up. In our few short years of parenting, we have read hundreds of books to our kids. It seems to have paid off, at least so far. Both of our kids love books. Though they are almost past the target age of board books, they still enjoy reading many of their favorites. In fact, now that our daughter is starting to learn how to read, we find that board books are a great tool to help her with that. Because of their simplicity, she can recognize and read many words in the books she's loved since infancy. 
 
