@@ -14,13 +14,14 @@ I also love buying board books for friends who are having babies. We have many f
 Below is a list of our favorite board books. The criteria I used for this list boiled down to two things: the books my kids liked best and the books that I didn't mind reading 2413 times (seriously, we had to buy a new copy of several of these because we read them so much they completely fell apart). The books pictured below all made the cut, along with a few bonus suggestions included below. 
 
 <p style="display:inline-block;">
-<p align="left">
+<p align="right">
   <a href="https://amzn.to/3szb2Uq" target="blank"><img src="meredithcook.github.io/images/soundingjoy.jpg" alt="Sounding Joy" style="width:200px;height:200px;padding:10px" align="left"></a>
-  <br><i>Sounding Joy</i> is by far my favorite in this list. My kids think I'm nuts because I can't get through it without crying. Yes, it's a Christmas book and we don't typically read it year-round. However, the lyrics (<a href= "https://youtu.be/jthLvNgmFjA?si=RLjdXij_yHSIhNFE" target= "blank">it's got a corresponding song</a>) combined with the beautiful illustrations put this one at the top of my list.
-</p>
   <a href= "https://amzn.to/3szb2Uq" target= "blank"><i>Sounding Joy</i></a>
   <br>Ellie Holcomb
   <br>B&H Kids, 2022
+  <br><i>Sounding Joy</i> is by far my favorite in this list. My kids think I'm nuts because I can't get through it without crying. Yes, it's a Christmas book and we don't typically read it year-round. However, the lyrics (<a href= "https://youtu.be/jthLvNgmFjA?si=RLjdXij_yHSIhNFE" target= "blank">it's got a corresponding song</a>) combined with the beautiful illustrations put this one at the top of my list.
+</p>
+  
 <br>
 <a href= "https://amzn.to/3szb2Uq" target= "blank"><i>Sounding Joy</i></a>
   <br>Ellie Holcomb
