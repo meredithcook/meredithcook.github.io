@@ -16,11 +16,6 @@ Below is a list of our favorite board books. The criteria I used for this list b
 ## Favorite Board Books
 
 <p style="display:inline-block;" align="left">
-<figure>
-    <a href="https://amzn.to/3szb2Uq" target="blank"><img src="meredithcook.github.io/images/soundingjoy.jpg" alt="Sounding Joy" style="width:250px;height:250px;padding:10px" align="right">
-    <figcaption>Ellie Holcomb, B&H Kids, 2022</figcaption>
-</figure>
-
   <a href="https://amzn.to/3szb2Uq" target="blank"><img src="meredithcook.github.io/images/soundingjoy.jpg" alt="Sounding Joy" style="width:250px;height:250px;padding:10px" align="right"></a><figcaption>Ellie Holcomb, B&H Kids, 2022</figcaption>
   <a href= "https://amzn.to/3szb2Uq" target= "blank"><i>Sounding Joy</i></a>
   <br>Ellie Holcomb
