@@ -6,7 +6,6 @@ description: When our kids were babies, these were their (and our) favorite boar
 image: '/images/read.jpeg' # Add image post (optional)
 tags: [resources, reading]
 GA: G-DHPTC39GDF
-published: false
 ---
 When our kids were born, we wanted to promote reading from the very beginning. We started reading board books to them almost before they could hold their own heads up. In our few short years of parenting, we have read hundreds of books to our kids. It seems to have paid off, at least so far. Both of our kids love books. Though they are almost past the target age of board books, they still enjoy reading many of their favorites. In fact, now that our daughter is starting to learn how to read, we find that board books are a great tool to help her with that. Because of their simplicity, she can recognize and read many words in the books she's loved since infancy. 
 
@@ -70,13 +69,13 @@ The criteria I used for this list boiled down to two things: the books my kids l
 </p>
 
 <p align="center">
-<a href="https://amzn.to/3szb2Uq" target="blank"><img src="meredithcook.github.io/images/soundingjoy.jpg" alt="Sounding Joy" style="width:250px;height:250px;padding:10px" align="center"></a><p>
-  <a href= "https://amzn.to/3szb2Uq" target= "blank"><i>Sounding Joy</i></a>
-  <br>Ellie Holcomb
-  <br>B&H Kids, 2022
+<a href="https://amzn.to/49Jtv10" target="blank"><img src="meredithcook.github.io/images/bluehat.jpg" alt="Blue Hat, Green Hat" style="width:250px;height:250px;padding:10px" align="center"></a><p>
+  <a href= "https://amzn.to/49Jtv10" target= "blank"><i>Blue Hat, Green Hat</i></a>
+  <br>Sandra Boynton
+  <br>Boynton Bookworks, 1984
   <br>
-  <br><i>Sounding Joy</i> is by far my favorite in this list. My kids think I'm nuts because I can't get through it without crying. Yes, it's a Christmas book and we don't typically read it year-round. However, the lyrics (<a href= "https://youtu.be/jthLvNgmFjA?si=RLjdXij_yHSIhNFE" target= "blank">it's got a corresponding song</a>) combined with the beautiful illustrations put this one at the top of my list.. 
-</p>
+  <br>I love so many Sandra Boynton books, possibly even more than my kids. Though <a href="https://amzn.to/3QM0wBg" target="blank"><i>The Going to Bed Book</i></a> is my favorite, my kids much prefer <i>Blue Hat, Green Hat</i> is my kids' favorite. This is one that they grew to love as they got older and were able to find the humor in the mistakes the bird makes with his wardrobe. 
+  </p>
 
 <p align="center">
 <a href="https://amzn.to/3szb2Uq" target="blank"><img src="meredithcook.github.io/images/soundingjoy.jpg" alt="Sounding Joy" style="width:250px;height:250px;padding:10px" align="center"></a><p>
