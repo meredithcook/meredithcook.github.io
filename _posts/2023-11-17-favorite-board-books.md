@@ -34,7 +34,6 @@ Below is a list of our favorite board books. The criteria I used for this list b
 
 <p align="center">
 <a href="https://amzn.to/49Kwfex" target="blank"><img src="meredithcook.github.io/images/dada.jpg" alt="Dada" style="width:250px;height:250px;padding:10px" align="center"></a><p>
-<br>
   <a href= "https://amzn.to/49Kwfex" target= "blank"><i>Dada</i></a>
   <br>Jimmy Fallon
   <br>Feiwel & Friends, 2015
