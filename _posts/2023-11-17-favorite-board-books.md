@@ -32,8 +32,8 @@ Below is a list of our favorite board books. The criteria I used for this list b
   <br>
   <br><i>Never Touch a Shark</i> is a touch-and-feel book that my daughter enjoyed from a very early age. She loved running her hands over all the textures and I thought the rhymes in this one were adorable. We read this one so much, it completely fell apart! It's part of the <a href= "https://amzn.to/3MPJocy" target= "blank">"Never Touch a" series </a> of over thirty books. We read a few in this series, but <i>Never Touch a Shark</i> was our favorite. 
 
-<p>
-<a href="https://amzn.to/49Kwfex" target="blank"><img src="meredithcook.github.io/images/dada.jpg" alt="Dada" style="width:250px;height:250px;padding:10px" align="center"></a>
+<p align="center">
+<a href="https://amzn.to/49Kwfex" target="blank"><img src="meredithcook.github.io/images/dada.jpg" alt="Dada" style="width:250px;height:250px;padding:10px" align="center"></a><p>
 <br>
   <a href= "https://amzn.to/49Kwfex" target= "blank"><i>Dada</i></a>
   <br>Jimmy Fallon
