@@ -16,7 +16,7 @@ Below is a list of our favorite board books. The criteria I used for this list b
 <p style="display:inline-block;">
   <img src="meredithcook.github.io/images/soundingjoy.jpg" img width="230" height="150">
   Ellie Holcomb
-  B&H Kids, 2022
+  <p>B&H Kids, 2022</p>
 
   *Sounding Joy* is by far my favorite in this list. My kids think I'm nuts because I can't get through it without crying. Yes, it's a Christmas book and we don't typically read it year-round. However, the lyrics (<a href= "https://youtu.be/jthLvNgmFjA?si=RLjdXij_yHSIhNFE" target= "blank">it's got a corresponding song</a>) combined with the beautiful illustrations put this one at the top of my list. 
 </p>
