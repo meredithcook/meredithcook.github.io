@@ -25,13 +25,13 @@ Below is a list of our favorite board books. The criteria I used for this list b
 </p> 
 
 <a href="https://amzn.to/3szb2Uq" target="blank"><img src="meredithcook.github.io/images/shark.jpg" alt="Never Touch a Shark" style="width:250px;height:250px;padding:10px"></a>
-<p>
+<br>
   <a href= "https://amzn.to/3G5K6yH" target= "blank"><i>Never Touch a Shark</i></a>
   <br>Rosie Greening
   <br>Make Believe Ideas, 2020
   <br>
   <br><i>Never Touch a Shark</i> is a touch-and-feel book that my daughter enjoyed from a very early age. She loved running her hands over all the textures and I thought the rhymes in this one were adorable. We read this one so much, it completely fell apart! It's part of the <a href= "https://amzn.to/3MPJocy" target= "blank">"Never Touch a" series </a> of over thirty books. We read a few in this series, but <i>Never Touch a Shark</i> was our favorite. 
-</p> 
+
 
 <p align="center">
   <img width="460" height="300" src="meredithcook.github.io/images/boardbooks.png">
