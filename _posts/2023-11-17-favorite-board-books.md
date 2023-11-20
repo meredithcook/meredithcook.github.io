@@ -24,8 +24,9 @@ Below is a list of our favorite board books. The criteria I used for this list b
   <br><i>Sounding Joy</i> is by far my favorite in this list. My kids think I'm nuts because I can't get through it without crying. Yes, it's a Christmas book and we don't typically read it year-round. However, the lyrics (<a href= "https://youtu.be/jthLvNgmFjA?si=RLjdXij_yHSIhNFE" target= "blank">it's got a corresponding song</a>) combined with the beautiful illustrations put this one at the top of my list.
 </p> 
 
+<p align= "left">
+<a href="https://amzn.to/3szb2Uq" target="blank"><img src="meredithcook.github.io/images/shark.jpg" alt="Never Touch a Shark" style="width:250px;height:250px;padding:10px"></a></p>
 <p>
-<a href="https://amzn.to/3szb2Uq" target="blank"><img src="meredithcook.github.io/images/shark.jpg" alt="Never Touch a Shark" style="width:250px;height:250px;padding:10px" align="left"></a>
   <a href= "https://amzn.to/3G5K6yH" target= "blank"><i>Never Touch a Shark</i></a>
   <br>Rosie Greening
   <br>Make Believe Ideas, 2020
