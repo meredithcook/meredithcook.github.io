@@ -15,7 +15,7 @@ The criteria I used for this list boiled down to two things: the books my kids l
 
 ## Favorite Board Books
 <p align="center">
-<a href="https://amzn.to/3szb2Uq" target="blank"><img src="meredithcook.github.io/images/soundingjoy.jpg" alt="Sounding Joy" style="width:250px;height:250px;padding:10px" align="center"></a><p>
+<a href="https://amzn.to/3szb2Uq" target="blank"><img src="meredithcook.github.io/images/soundingjoy.jpg" alt="Sounding Joy" style="width:250px;height:250px;padding:10px" align="center"></a></p>
   <a href= "https://amzn.to/3szb2Uq" target= "blank"><i>Sounding Joy</i></a>
   <br>Ellie Holcomb
   <br>B&H Kids, 2022
@@ -24,7 +24,7 @@ The criteria I used for this list boiled down to two things: the books my kids l
 </p>
 
 <p align="center">
-<a href="https://amzn.to/3G5K6yH" target="blank"><img src="meredithcook.github.io/images/shark.jpg" alt="Never Touch a Shark" style="width:250px;height:250px;padding:10px" align="center"></a><p>
+<a href="https://amzn.to/3G5K6yH" target="blank"><img src="meredithcook.github.io/images/shark.jpg" alt="Never Touch a Shark" style="width:250px;height:250px;padding:10px" align="center"></a></p>
   <a href= "https://amzn.to/3G5K6yH" target= "blank"><i>Never Touch a Shark</i></a>
   <br>Rosie Greening
   <br>Make Believe Ideas, 2020
@@ -33,7 +33,7 @@ The criteria I used for this list boiled down to two things: the books my kids l
 </p>
 
 <p align="center">
-<a href="https://amzn.to/49Kwfex" target="blank"><img src="meredithcook.github.io/images/dada.jpg" alt="Dada" style="width:250px;height:250px;padding:10px" align="center"></a><p>
+<a href="https://amzn.to/49Kwfex" target="blank"><img src="meredithcook.github.io/images/dada.jpg" alt="Dada" style="width:250px;height:250px;padding:10px" align="center"></a></p>
   <a href= "https://amzn.to/49Kwfex" target= "blank"><i>Dada</i></a>
   <br>Jimmy Fallon
   <br>Feiwel & Friends, 2015
@@ -42,7 +42,7 @@ The criteria I used for this list boiled down to two things: the books my kids l
 </p>
 
 <p align="center">
-<a href="https://amzn.to/3QJmaWN" target="blank"><img src="meredithcook.github.io/images/firstwords.jpg" alt="First 100 Words" style="width:250px;height:250px;padding:10px" align="center"></a><p>
+<a href="https://amzn.to/3QJmaWN" target="blank"><img src="meredithcook.github.io/images/firstwords.jpg" alt="First 100 Words" style="width:250px;height:250px;padding:10px" align="center"></a></p>
   <a href= "https://amzn.to/3QJmaWN" target= "blank"><i>First 100 Words</i></a>
   <br>Roger Priddy
   <br>Priddy Books US, 2005
@@ -51,16 +51,16 @@ The criteria I used for this list boiled down to two things: the books my kids l
 </p>
 
 <p align="center">
-<a href="https://amzn.to/3QNoagL" target="blank"><img src="meredithcook.github.io/images/brownbear.jpg" alt="Brown Bear" style="width:250px;height:300px;padding:10px" align="center"></a><p>
+<a href="https://amzn.to/3QNoagL" target="blank"><img src="meredithcook.github.io/images/brownbear.jpg" alt="Brown Bear" style="width:250px;height:300px;padding:10px" align="center"></a></p>
   <a href= "https://amzn.to/3QNoagL" target= "blank"><i>Brown Bear, Brown Bear, What Do You See?</i></a>
   <br>Bill Martin, Jr.
   <br>Henry Holt and Co., 2011
   <br>
-  <br><i>My daughter particularly loved the <a href= "https://amzn.to/3QNoagL" target= "blank">slide-and-find version</a> of <i>Brown Bear, Brown Bear, What Do You See?</i>. There are several board book "classics" that my kids enjoyed. My son's favorite was always <a href= "https://amzn.to/3ugvIAP" target= "blank"><i>Goodnight Moon</i></a.
-</p>
+  <br>My daughter particularly loved the <a href= "https://amzn.to/3QNoagL" target= "blank">slide-and-find version</a> of <i>Brown Bear, Brown Bear, What Do You See?</i>. There are several board book "classics" that my kids enjoyed. My son's favorite was always <a href= "https://amzn.to/3ugvIAP" target= "blank"><i>Goodnight Moon</i></a>.
+  </p>
 
 <p align="center">
-<a href="https://amzn.to/3R8caYn" target="blank"><img src="meredithcook.github.io/images/bigdog.jpeg" alt="Big Dog, Little Dog" style="width:250px;height:300px;padding:10px" align="center"></a><p>
+<a href="https://amzn.to/3R8caYn" target="blank"><img src="meredithcook.github.io/images/bigdog.jpeg" alt="Big Dog, Little Dog" style="width:230px;height:300px;padding:10px" align="center"></a></p>
   <a href= "https://amzn.to/3R8caYn" target= "blank"><i>Big Dog, Little Dog</i></a>
   <br>P.D. Eastman
   <br>Random House Books for Young Readers, 2006
@@ -69,7 +69,7 @@ The criteria I used for this list boiled down to two things: the books my kids l
 </p>
 
 <p align="center">
-<a href="https://amzn.to/49Jtv10" target="blank"><img src="meredithcook.github.io/images/bluehat.jpg" alt="Blue Hat, Green Hat" style="width:250px;height:250px;padding:10px" align="center"></a><p>
+<a href="https://amzn.to/49Jtv10" target="blank"><img src="meredithcook.github.io/images/bluehat.jpg" alt="Blue Hat, Green Hat" style="width:250px;height:250px;padding:10px" align="center"></a></p>
   <a href= "https://amzn.to/49Jtv10" target= "blank"><i>Blue Hat, Green Hat</i></a>
   <br>Sandra Boynton
   <br>Boynton Bookworks, 1984
@@ -78,21 +78,21 @@ The criteria I used for this list boiled down to two things: the books my kids l
   </p>
 
 <p align="center">
-<a href="https://amzn.to/3szb2Uq" target="blank"><img src="meredithcook.github.io/images/soundingjoy.jpg" alt="Sounding Joy" style="width:250px;height:250px;padding:10px" align="center"></a><p>
-  <a href= "https://amzn.to/3szb2Uq" target= "blank"><i>Sounding Joy</i></a>
-  <br>Ellie Holcomb
-  <br>B&H Kids, 2022
+<a href="https://amzn.to/3QQCdC0" target="blank"><img src="meredithcook.github.io/images/poutpout.jpg" alt="Pout Pout Fish" style="width:250px;height:250px;padding:10px" align="center"></a></p>
+  <a href= "https://amzn.to/3QQCdC0" target= "blank"><i>The Pout-Pout Fish</i></a>
+  <br>Deborah Diesen
+  <br>Farrar, Straus and Giroux, 2013
   <br>
-  <br><i>Sounding Joy</i> is by far my favorite in this list. My kids think I'm nuts because I can't get through it without crying. Yes, it's a Christmas book and we don't typically read it year-round. However, the lyrics (<a href= "https://youtu.be/jthLvNgmFjA?si=RLjdXij_yHSIhNFE" target= "blank">it's got a corresponding song</a>) combined with the beautiful illustrations put this one at the top of my list.. 
+  <br>Our kids were no exception to the beloved <i>Pout-Pout Fish</i> book, particularly when we read it in funny voices. The rhymes are fun and easy to read aloud (I've found this is not always the case with rhyming books). It's the original book in a <a href= "https://amzn.to/3Rc8TYk" target= "blank">series</a> of <i>Pout-Pout Fish</i> books, and we have also found a few <i>Pout-Pout Fish</i>-themed beginning readers at the library. 
 </p>
 
 <p align="center">
-<a href="https://amzn.to/3szb2Uq" target="blank"><img src="meredithcook.github.io/images/soundingjoy.jpg" alt="Sounding Joy" style="width:250px;height:250px;padding:10px" align="center"></a><p>
-  <a href= "https://amzn.to/3szb2Uq" target= "blank"><i>Sounding Joy</i></a>
-  <br>Ellie Holcomb
-  <br>B&H Kids, 2022
+<a href="https://amzn.to/3GfROWN" target="blank"><img src="meredithcook.github.io/images/psalms.jpg" alt="Psalms of Praise" style="width:250px;height:250px;padding:10px" align="center"></a><p>
+  <a href= "https://amzn.to/3GfROWN" target= "blank"><i>Psalms of Praise</i></a>
+  <br>Danielle Hitchen
+  <br>Harvest Kids, 2018
   <br>
-  <br><i>Sounding Joy</i> is by far my favorite in this list. My kids think I'm nuts because I can't get through it without crying. Yes, it's a Christmas book and we don't typically read it year-round. However, the lyrics (<a href= "https://youtu.be/jthLvNgmFjA?si=RLjdXij_yHSIhNFE" target= "blank">it's got a corresponding song</a>) combined with the beautiful illustrations put this one at the top of my list.. 
+  <br>When I was pregnant with my firstborn, I was really excited to find the <a href= "https://amzn.to/3uqcjxu" target= "blank"><i>Baby Believer</i></a> series of board books. This series was the exact thing I wanted to read to my kids to begin introducing them to simple theology. They're also just beautiful books to look at. We have most of the books in this series, but <i>Psalms of Praise</i> was my daughter's favorite.
 </p>
 
 <p align="center">
