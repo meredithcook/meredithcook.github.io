@@ -15,6 +15,6 @@ Before grant writing, I was a content editor and writer for various missions org
 
 Now, I write mostly on lessons I'm learning about parenting, habit formation, and the general Christian life. Along the way, I may also share articles, videos, and other things I find helpful. 
 
-When I'm not supplying my kids with snacks, taking them to the playground, or requesting large sums of money from foundations, I enjoy copious amounts of coffee, hiking with my family, having people in my house, reading, and baking. You can also find me on <a href="https://twitter.com/meredithcook716" target="_blank">Twitter</a>, where I occasionally interrupt your timeline with really boring tweets. 
+When I'm not supplying my kids with snacks, taking them to the playground, or requesting large sums of money from foundations, I enjoy copious amounts of coffee, hiking with my family, hosting friends for dinner, reading, and baking. You can also find me on <a href="https://twitter.com/meredithcook716" target="_blank">Twitter</a>, where I occasionally interrupt your timeline with really boring tweets. 
 
 Thanks for stopping by!
