@@ -65,7 +65,7 @@ The criteria I used for this list boiled down to two things: the books my kids l
   <br>P.D. Eastman
   <br>Random House Books for Young Readers, 2006
   <br>
-  <br>My kids love so many of the Bright & Early Board Books (our Target has a whole shelf of them in the kids' book section), but <i>Big Dog, Little Dog</i> is probably their favorite. I like these books because they're the perfect size for little toddler hands, which makes them good car books, too. 
+  <br>We're big fans of the Bright & Early Board Books (our Target has a whole shelf of them in the kids' book section), but <i>Big Dog, Little Dog</i> is probably my kids' favorite. I like these books because they're the perfect size for little toddler hands, which makes them really good car books. 
 </p>
 
 <p align="center">
