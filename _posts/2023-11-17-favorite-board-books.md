@@ -29,7 +29,7 @@ The criteria I used for this list boiled down to two things: the books my kids l
   <br>Rosie Greening
   <br>Make Believe Ideas, 2020
   <br>
-  <br><i>Never Touch a Shark</i> is a touch-and-feel book that my daughter enjoyed from a very early age. She loved running her hands over all the textures and I thought the rhymes in this one were adorable. We read this one so much, it completely fell apart! It's part of the <a href= "https://amzn.to/3MPJocy" target= "blank">"Never Touch a" series </a> of over thirty books. We read a few in this series, but <i>Never Touch a Shark</i> was our favorite. 
+  <br><i>Never Touch a Shark</i> is a touch-and-feel book that my daughter enjoyed from a very early age. She loved running her hands over all the textures and I thought the rhymes in this one were adorable. We read this one so much, it completely fell apart! It's part of the <a href= "https://amzn.to/3MPJocy" target= "blank">Never Touch A series</a> of over thirty books. We read a few in this series, but <i>Never Touch a Shark</i> was our favorite. 
 </p>
 
 <p align="center">
@@ -74,7 +74,7 @@ The criteria I used for this list boiled down to two things: the books my kids l
   <br>Sandra Boynton
   <br>Boynton Bookworks, 1984
   <br>
-  <br>I love so many Sandra Boynton books, possibly even more than my kids. Though <a href="https://amzn.to/3QM0wBg" target="blank"><i>The Going to Bed Book</i></a> is my favorite, my kids much prefer <i>Blue Hat, Green Hat</i> is my kids' favorite. This is one that they grew to love as they got older and were able to find the humor in the mistakes the bird makes with his wardrobe. 
+  <br>I love so many Sandra Boynton books, possibly even more than my kids. Though <a href="https://amzn.to/3QM0wBg" target="blank"><i>The Going to Bed Book</i></a> is my favorite, my kids much prefer <i>Blue Hat, Green Hat</i>. This is one that they grew to love as they got older and were able to find the humor in the turkey's wardrobe mistakes. 
   </p>
 
 <p align="center">
@@ -83,7 +83,7 @@ The criteria I used for this list boiled down to two things: the books my kids l
   <br>Deborah Diesen
   <br>Farrar, Straus and Giroux, 2013
   <br>
-  <br>Our kids were no exception to the beloved <i>Pout-Pout Fish</i> book, particularly when we read it in funny voices. The rhymes are fun and easy to read aloud (I've found this is not always the case with rhyming books). It's the original book in a <a href= "https://amzn.to/3Rc8TYk" target= "blank">series</a> of <i>Pout-Pout Fish</i> books, and we have also found a few <i>Pout-Pout Fish</i>-themed beginning readers at the library. 
+  <br>Our kids were no exception to the beloved <i>Pout-Pout Fish</i> book, particularly when we read it in funny voices. The rhymes are fun and easy to read aloud (I've found this is not always the case with rhyming books). It's the original book in a <a href= "https://amzn.to/3Rc8TYk" target= "blank">series</a> of Pout-Pout Fish books, and we have also found a few Pout-Pout-Fish-themed beginning readers at the library. 
 </p>
 
 <p align="center">
@@ -92,7 +92,7 @@ The criteria I used for this list boiled down to two things: the books my kids l
   <br>Danielle Hitchen
   <br>Harvest Kids, 2018
   <br>
-  <br>When I was pregnant with my firstborn, I was really excited to find the <a href= "https://amzn.to/3uqcjxu" target= "blank"><i>Baby Believer</i></a> series of board books. This series was the exact thing I wanted to read to my kids to begin introducing them to simple theology. They're also just beautiful books to look at. We have most of the books in this series, but <i>Psalms of Praise</i> was my daughter's favorite.
+  <br>When I was pregnant with my firstborn, I was really excited to find the <a href= "https://amzn.to/3uqcjxu" target= "blank">Baby Believer</a> series of board books. This series was the exact thing I wanted to read to my kids to begin introducing them to simple theology. They're also just beautiful books to look at. We have most of the books in this series, but <i>Psalms of Praise</i> was my daughter's favorite.
 </p>
 
 <p align="center">
