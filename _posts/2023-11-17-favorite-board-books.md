@@ -95,9 +95,6 @@ The criteria I used for this list boiled down to two things: the books my kids l
   <br>When I was pregnant with my firstborn, I was really excited to find the <a href= "https://amzn.to/3uqcjxu" target= "blank">Baby Believer</a> series of board books. This series was the exact thing I wanted to read to my kids to begin introducing them to simple theology. They're also just beautiful books to look at. We have most of the books in this series, but <i>Psalms of Praise</i> was my daughter's favorite.
 </p>
 <p align="center">
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=19492210960409827" height="618" width="345" frameborder="0" scrolling="no" ></iframe>
-</p>
-<p align="center">
   <img width="460" height="300" src="meredithcook.github.io/images/boardbooks.png">
 </p>
 
