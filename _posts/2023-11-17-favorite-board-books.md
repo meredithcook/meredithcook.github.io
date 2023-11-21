@@ -56,7 +56,7 @@ The criteria I used for this list boiled down to two things: the books my kids l
   <br>Bill Martin, Jr.
   <br>Henry Holt and Co., 2011
   <br>
-  <br>My daughter particularly loved the <a href= "https://amzn.to/3QNoagL" target= "blank">slide-and-find version</a> of <i>Brown Bear, Brown Bear, What Do You See?</i>. There are several board book "classics" that my kids enjoyed. My son's favorite was always <a href= "https://amzn.to/3ugvIAP" target= "blank"><i>Goodnight Moon</i></a>.
+  <br>My daughter particularly loved the <a href= "https://amzn.to/480PZcv" target= "blank">slide-and-find version</a> of <i>Brown Bear, Brown Bear, What Do You See?</i>. There are several board book "classics" that my kids enjoyed. My son's favorite was always <a href= "https://amzn.to/3ugvIAP" target= "blank"><i>Goodnight Moon</i></a>.
   </p>
 
 <p align="center">
