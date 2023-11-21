@@ -15,7 +15,7 @@ The criteria I used for this list boiled down to two things: the books my kids l
 
 ## Favorite Board Books
 <p align="center">
-<a href="https://amzn.to/3szb2Uq" target="blank"><img src="meredithcook.github.io/images/soundingjoy.jpg" alt="Sounding Joy" style="width:250px;height:250px;padding:10px" align="center"></a></p>
+<a href="https://amzn.to/3szb2Uq" target="blank"><img src="meredithcook.github.io/images/soundingjoy.jpg" alt="Sounding Joy" style="width:250px;height:250px;padding:10px" align="center"></a><p>
   <a href= "https://amzn.to/3szb2Uq" target= "blank"><i>Sounding Joy</i></a>
   <br>Ellie Holcomb
   <br>B&H Kids, 2022
@@ -24,7 +24,7 @@ The criteria I used for this list boiled down to two things: the books my kids l
 </p>
 
 <p align="center">
-<a href="https://amzn.to/3G5K6yH" target="blank"><img src="meredithcook.github.io/images/shark.jpg" alt="Never Touch a Shark" style="width:250px;height:250px;padding:10px" align="center"></a></p>
+<a href="https://amzn.to/3G5K6yH" target="blank"><img src="meredithcook.github.io/images/shark.jpg" alt="Never Touch a Shark" style="width:250px;height:250px;padding:10px" align="center"></a><p>
   <a href= "https://amzn.to/3G5K6yH" target= "blank"><i>Never Touch a Shark</i></a>
   <br>Rosie Greening
   <br>Make Believe Ideas, 2020
@@ -33,7 +33,7 @@ The criteria I used for this list boiled down to two things: the books my kids l
 </p>
 
 <p align="center">
-<a href="https://amzn.to/49Kwfex" target="blank"><img src="meredithcook.github.io/images/dada.jpg" alt="Dada" style="width:250px;height:250px;padding:10px" align="center"></a></p>
+<a href="https://amzn.to/49Kwfex" target="blank"><img src="meredithcook.github.io/images/dada.jpg" alt="Dada" style="width:250px;height:250px;padding:10px" align="center"></a><p>
   <a href= "https://amzn.to/49Kwfex" target= "blank"><i>Dada</i></a>
   <br>Jimmy Fallon
   <br>Feiwel & Friends, 2015
@@ -42,7 +42,7 @@ The criteria I used for this list boiled down to two things: the books my kids l
 </p>
 
 <p align="center">
-<a href="https://amzn.to/3QJmaWN" target="blank"><img src="meredithcook.github.io/images/firstwords.jpg" alt="First 100 Words" style="width:250px;height:250px;padding:10px" align="center"></a></p>
+<a href="https://amzn.to/3QJmaWN" target="blank"><img src="meredithcook.github.io/images/firstwords.jpg" alt="First 100 Words" style="width:250px;height:250px;padding:10px" align="center"></a><p>
   <a href= "https://amzn.to/3QJmaWN" target= "blank"><i>First 100 Words</i></a>
   <br>Roger Priddy
   <br>Priddy Books US, 2005
@@ -51,7 +51,7 @@ The criteria I used for this list boiled down to two things: the books my kids l
 </p>
 
 <p align="center">
-<a href="https://amzn.to/3QNoagL" target="blank"><img src="meredithcook.github.io/images/brownbear.jpg" alt="Brown Bear" style="width:250px;height:300px;padding:10px" align="center"></a></p>
+<a href="https://amzn.to/3QNoagL" target="blank"><img src="meredithcook.github.io/images/brownbear.jpg" alt="Brown Bear" style="width:250px;height:300px;padding:10px" align="center"></a><p>
   <a href= "https://amzn.to/3QNoagL" target= "blank"><i>Brown Bear, Brown Bear, What Do You See?</i></a>
   <br>Bill Martin, Jr.
   <br>Henry Holt and Co., 2011
@@ -60,7 +60,7 @@ The criteria I used for this list boiled down to two things: the books my kids l
   </p>
 
 <p align="center">
-<a href="https://amzn.to/3R8caYn" target="blank"><img src="meredithcook.github.io/images/bigdog.jpeg" alt="Big Dog, Little Dog" style="width:230px;height:300px;padding:10px" align="center"></a></p>
+<a href="https://amzn.to/3R8caYn" target="blank"><img src="meredithcook.github.io/images/bigdog.jpeg" alt="Big Dog, Little Dog" style="width:230px;height:300px;padding:10px" align="center"></a><p>
   <a href= "https://amzn.to/3R8caYn" target= "blank"><i>Big Dog, Little Dog</i></a>
   <br>P.D. Eastman
   <br>Random House Books for Young Readers, 2006
@@ -69,7 +69,7 @@ The criteria I used for this list boiled down to two things: the books my kids l
 </p>
 
 <p align="center">
-<a href="https://amzn.to/49Jtv10" target="blank"><img src="meredithcook.github.io/images/bluehat.jpg" alt="Blue Hat, Green Hat" style="width:250px;height:250px;padding:10px" align="center"></a></p>
+<a href="https://amzn.to/49Jtv10" target="blank"><img src="meredithcook.github.io/images/bluehat.jpg" alt="Blue Hat, Green Hat" style="width:250px;height:250px;padding:10px" align="center"></a><p>
   <a href= "https://amzn.to/49Jtv10" target= "blank"><i>Blue Hat, Green Hat</i></a>
   <br>Sandra Boynton
   <br>Boynton Bookworks, 1984
@@ -78,7 +78,7 @@ The criteria I used for this list boiled down to two things: the books my kids l
   </p>
 
 <p align="center">
-<a href="https://amzn.to/3QQCdC0" target="blank"><img src="meredithcook.github.io/images/poutpout.jpg" alt="Pout Pout Fish" style="width:250px;height:250px;padding:10px" align="center"></a></p>
+<a href="https://amzn.to/3QQCdC0" target="blank"><img src="meredithcook.github.io/images/poutpout.jpg" alt="Pout Pout Fish" style="width:250px;height:250px;padding:10px" align="center"></a><p>
   <a href= "https://amzn.to/3QQCdC0" target= "blank"><i>The Pout-Pout Fish</i></a>
   <br>Deborah Diesen
   <br>Farrar, Straus and Giroux, 2013
