@@ -47,7 +47,7 @@ The criteria I used for this list boiled down to two things: the books my kids l
   <br>Roger Priddy
   <br>Priddy Books US, 2005
   <br>
-  <br>This was another well-loved book that fell apart, and still my kids would carry the individual pages around to look at. It's also <a href= "https://amzn.to/46w3yiY" target= "blank">part of a series</a>, of which we've owned two other versions. My kids liked the bigger board books the best, and would spread out on the floor to look at the pictures. This book also helped my son learn many of his first words. 
+  <br>This was another well-loved book that fell apart, and still my kids would carry around and look at the individual pages. There are a lot of books <a href= "https://amzn.to/46w3yiY" target= "blank">in this series</a>, of which we've owned two other versions. My kids liked the bigger board books the best, and would spread out on the floor to look at the pictures. This book also helped my son learn many of his first words. 
 </p>
 
 <p align="center">
