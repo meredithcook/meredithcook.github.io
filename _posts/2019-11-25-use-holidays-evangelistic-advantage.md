@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Use the holidays to Your Evangelistic Advantage
+title: Use the Holidays to Your Evangelistic Advantage
 date: 2019-11-25
 description: The holiday season is filled with opportunities to share the gospel with neighbors, friends, and family. Here are just a few ways each holiday offers us easy ways to share our faith. # Add post description (optional)
 image: '/images/holidays.jpeg' # Add image post (optional)
