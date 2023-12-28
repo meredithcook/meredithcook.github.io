@@ -29,13 +29,13 @@ Most of our circumstances aren’t quite that extreme, but being forced to stay 
 
 But Jesus won’t be left without a witness, and the gospel can still go forth in this time. 
 
-   *  I’m praying that the transition to virtual church, though hopefully temporary, will serve to reach those who may not be willing or able to set foot inside a church building.
+- I’m praying that the transition to virtual church, though hopefully temporary, will serve to reach those who may not be willing or able to set foot inside a church building.
 
-   * I’m praying that pastors will clearly proclaim the gospel every week to a larger audience than usual.
+- I’m praying that pastors will clearly proclaim the gospel every week to a larger audience than usual.
 
-   * I’m praying that church members will take this as an opportunity to proclaim truth (from six feet away, of course) to the people around them who need the hope of the gospel.
+- I’m praying that church members will take this as an opportunity to proclaim truth (from six feet away, of course) to the people around them who need the hope of the gospel.
 
-   * I’m praying the Lord will use this time to bring glory to His name and expand His kingdom.
+- I’m praying the Lord will use this time to bring glory to His name and expand His kingdom.
 
 ## 2. Missionary Care
 
