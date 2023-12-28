@@ -57,7 +57,7 @@ That conversation will go differently in every church and is likely to cause con
 
 A pastor in a city where social gatherings have been more highly restricted will likely take a different approach to reinstate corporate worship than a pastor in a small town.
 
-* I’m praying for wisdom for pastors, leaders, and churches as they determine when, and how, they should start gathering in-person again.
+    * I’m praying for wisdom for pastors, leaders, and churches as they determine when, and how, they should start gathering in-person again.
 
     *   I’m praying for grace-filled conversations as multiple perspectives, opinions, and strategies will abound.
 
