@@ -67,3 +67,6 @@ I imagine this time has been rather exhausting for pastors and perhaps extra bur
     * I’m praying these pastors won’t grow weary of doing the work God has called them to do.
     * I’m praying they’ll persevere when ministry is hard.
     * I’m praying they’ll find rest and strength in the Lord.
+
+<sub>Photo by <a href="https://unsplash.com/@jacksharp_photography?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jack Sharp</a> on <a href="https://unsplash.com/photos/men-touching-each-others-foreheads-ShCVvQbQBDk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sub>
+  
