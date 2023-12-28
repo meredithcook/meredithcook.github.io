@@ -59,9 +59,9 @@ A pastor in a city where social gatherings have been more highly restricted will
 
 * I’m praying for wisdom for pastors, leaders, and churches as they determine when, and how, they should start gathering in-person again.
 
-* I’m praying for grace-filled conversations as multiple perspectives, opinions, and strategies will abound.
+    *   I’m praying for grace-filled conversations as multiple perspectives, opinions, and strategies will abound.
 
-* I’m praying for faithful church members who’ll encourage and support their pastors and, eventually, wisely and joyfully return to corporate worship without fear.
+    *   I’m praying for faithful church members who’ll encourage and support their pastors and, eventually, wisely and joyfully return to corporate worship without fear.
 
 ## 4. Perseverance
 
