@@ -29,13 +29,13 @@ Most of our circumstances aren’t quite that extreme, but being forced to stay 
 
 But Jesus won’t be left without a witness, and the gospel can still go forth in this time. 
 
-*  I’m praying that the transition to virtual church, though hopefully temporary, will serve to reach those who may not be willing or able to set foot inside a church building.
+   *  I’m praying that the transition to virtual church, though hopefully temporary, will serve to reach those who may not be willing or able to set foot inside a church building.
 
-* I’m praying that pastors will clearly proclaim the gospel every week to a larger audience than usual.
+   * I’m praying that pastors will clearly proclaim the gospel every week to a larger audience than usual.
 
-* I’m praying that church members will take this as an opportunity to proclaim truth (from six feet away, of course) to the people around them who need the hope of the gospel.
+   * I’m praying that church members will take this as an opportunity to proclaim truth (from six feet away, of course) to the people around them who need the hope of the gospel.
 
-* I’m praying the Lord will use this time to bring glory to His name and expand His kingdom.
+   * I’m praying the Lord will use this time to bring glory to His name and expand His kingdom.
 
 ## 2. Missionary Care
 
@@ -43,11 +43,11 @@ My inbox is filled with updates from missionary friends all over the world who a
 
 These are uncertain times, but especially so for a lot of overseas workers who aren’t sure what the next few months hold, how long they’ll be in limbo, how their ministry will be affected, etc.
 
-* I’m praying that pastors and churches won’t forget these missionaries and will care for them well.
+   * I’m praying that pastors and churches won’t forget these missionaries and will care for them well.
 
-* I’m praying that pastors will be able to wisely counsel these missionaries as they determine how they should move forward.
+   * I’m praying that pastors will be able to wisely counsel these missionaries as they determine how they should move forward.
 
-* I’m praying the church will be the support system it needs to be for missionaries during this time.
+   * I’m praying the church will be the support system it needs to be for missionaries during this time.
 
 ## 3. Wisdom on Reopening
 
@@ -57,11 +57,11 @@ That conversation will go differently in every church and is likely to cause con
 
 A pastor in a city where social gatherings have been more highly restricted will likely take a different approach to reinstate corporate worship than a pastor in a small town.
 
-    * I’m praying for wisdom for pastors, leaders, and churches as they determine when, and how, they should start gathering in-person again.
+   * I’m praying for wisdom for pastors, leaders, and churches as they determine when, and how, they should start gathering in-person again.
 
-    *   I’m praying for grace-filled conversations as multiple perspectives, opinions, and strategies will abound.
+   *   I’m praying for grace-filled conversations as multiple perspectives, opinions, and strategies will abound.
 
-    *   I’m praying for faithful church members who’ll encourage and support their pastors and, eventually, wisely and joyfully return to corporate worship without fear.
+   *   I’m praying for faithful church members who’ll encourage and support their pastors and, eventually, wisely and joyfully return to corporate worship without fear.
 
 ## 4. Perseverance
 
@@ -71,11 +71,11 @@ Many pastors have been working overtime to make sure they’re caring well for t
 
 I imagine this time has been rather exhausting for pastors and perhaps extra burdensome as they help church members through potential sickness, job loss, discouragement, and loss of loved ones.
 
-* I’m praying these pastors won’t grow weary of doing the work God has called them to do.
+   * I’m praying these pastors won’t grow weary of doing the work God has called them to do.
 
-* I’m praying they’ll persevere when ministry is hard.
+   * I’m praying they’ll persevere when ministry is hard.
 
-* I’m praying they’ll find rest and strength in the Lord.
+   * I’m praying they’ll find rest and strength in the Lord.
 
 <sub>Photo by <a href="https://unsplash.com/@jacksharp_photography?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jack Sharp</a> on <a href="https://unsplash.com/photos/men-touching-each-others-foreheads-ShCVvQbQBDk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sub>
   
