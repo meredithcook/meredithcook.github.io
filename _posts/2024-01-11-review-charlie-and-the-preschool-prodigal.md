@@ -8,12 +8,12 @@ tags: [book-review]
 GA: G-DHPTC39GDF
 ---
 
-*Note: Periodically I'll review books I've read to serve as a resource for readers looking for book recommendations. I plan to include books for adults as well as kids' books. Almost none of these reviews will be on new releases. If you're like me and are about two to three years behind on your reading, then this section is for you!* 
+*Note: Periodically I'll post book reviews to serve as a resource for readers looking for recommendations. I plan to include books for adults as well as kids' books. Very few of these reviews will be on new releases. If you're like me and are about two to three years behind on your reading, then this section is for you!* 
 
 <p align="center">
 
 <a href="https://amzn.to/3vxTIQN" target="blank"><img src="meredithcook.github.io/images/charlie.jpg" alt="Charlie and the Preschool Prodigal" style="width:300px;height:300px;padding:10px" align="center"></a><p>
-
+<p>
 - <b>Book Review: <a href= "https://amzn.to/3vxTIQN" target= "blank"><i>Charlie and the Preschool Prodigal</i></a> by Ginger Blomberg </b>
 
 - **Crossway, 2024
@@ -37,3 +37,5 @@ GA: G-DHPTC39GDF
 
 - **Favorite Quotes:**
     - "Eddie could make trouble. He ate crayons. And ants." (This is my kids' favorite quote. They laugh every time.)
+
+    </p>
