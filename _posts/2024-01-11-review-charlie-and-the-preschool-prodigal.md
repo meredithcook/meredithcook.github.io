@@ -24,7 +24,7 @@ GA: G-DHPTC39GDF
     Charlie and Eddie are your classic older brother/younger brother archetypes of the Luke 15 parable, "The Prodigal Son." Charlie is neat and orderly, a rule-follower of the strictest kind. Eddie is messy and chaotic, a rebel without a cause. When Eddie decides to run away from home, his daddy is understandably panicked. Eddie quickly learns that independence—especially for a toddler—is not all it's cracked up to be. Charlie, on the other hand, learns an important lesson about grace.
 <br>
 <br>
-<h3>>Review</b></h3>
+<h3><b>Review</b></h3>
 <br>
 <br>
 <h4><b>Pros:</b></h4>
