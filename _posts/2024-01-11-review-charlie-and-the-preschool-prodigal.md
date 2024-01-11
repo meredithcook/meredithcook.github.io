@@ -6,7 +6,7 @@ description: My review of "Charlie and the Preschool Prodigal" by Ginger Blomber
 image: '/images/kidbookreview.jpg' # Add image post (optional)
 tags: [book-review]
 GA: G-DHPTC39GDF
-Published: false
+published: false
 ---
 
 *Note: Periodically I'll post book reviews to serve as a resource for readers looking for recommendations. I plan to include books for adults as well as kids' books. Very few of these reviews will be on new releases. If you're like me and are about two to three years behind on your reading, then this section is for you!* 
