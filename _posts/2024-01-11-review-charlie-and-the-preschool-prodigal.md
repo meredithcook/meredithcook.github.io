@@ -26,22 +26,25 @@ Crossway, 2024
 <br>
 <b>Review</b>
 <br>
+<br>
 Pros:
 <ul>
 <li>My kids love this book. They find the Eddie character funny, which I realize isn't exactly the point. However, I appreciate any element of a story (particularly one that teaches a biblical lesson) that draws my kids in and causes them to repeatedly return to a book. It only increases the opportunities for me to talk with my kids about the lesson the book is trying to teach.</li> 
 <br>
 <li>The book, rather than giving all the answers, calls kids and adults alike to critically consider the consequences of sin and the free gift of grace that is offered to all older and younger brothers.</li> 
 <br>
-<li>There is a "Note to Grown-Ups" on the last page that makes the Prodigal Son story accessible to the adults reading this story to young children, reminding us, too, of the gospel that saves "wild and tidy" children alike.</li> 
+<li>There is a "Note to Grown-Ups" on the last page that makes the Prodigal Son story accessible to the adults reading this story to young children, reminding us, too, of the gospel that saves "wild" and "tidy" children alike.</li> 
 </ul>
 <br>
 Cons:
+<br>
 <ul>
 <li>Because my kids find the Eddie character funny, I have some minor concerns that my kids will emulate some of his behaviors in the book. "Minor" is the operative word here, though, as it's really up to me to show them what is and is not appropriate behavior.</li>
 <br>
 <li>Though I appreciate the "Note to Grown-Ups" for how it might help adult readers apply the Prodigal Son story to their own lives, I would've appreciated a paragraph and/or some discussion questions that helped guide conversations with my kids about the story.</li>
 </ul>
 <br>
+<i>Charlie and the Preschool Prodigal</i> takes an important parable from the Bible and inserts it into a set of circumstances to which young kids can relate. Through Charlie and Eddie, readers learn that no matter our behavior, everyone is in need of a grace from a loving father. This book can help parents teach their children about the love of their heavenly Father and the grace that comes through Christ. I recommend this book as a great supplement to <a href= "https://www.meredithcook.net/spiritual-disciplines-toddlers-bible"> regular Bible reading with your children</a>.  
 <br>
 <b>Who Should Read This Book:</b>
 <br>
