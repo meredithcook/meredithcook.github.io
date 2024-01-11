@@ -14,7 +14,9 @@ GA: G-DHPTC39GDF
 
 <a href="https://amzn.to/3vxTIQN" target="blank"><img src="meredithcook.github.io/images/charlie.jpg" alt="Charlie and the Preschool Prodigal" style="width:300px;height:300px;padding:10px" align="center"></a></p>
 <p>
-<b><a href= "https://amzn.to/3vxTIQN" target= "blank"><i>Charlie and the Preschool Prodigal</i></a></b> by Ginger Blomberg
+<b><a href= "https://amzn.to/3vxTIQN" target= "blank"><i>Charlie and the Preschool Prodigal</i></a></b>
+<br> 
+Ginger Blomberg
 <br>
 Crossway, 2024
 <br>
@@ -37,6 +39,7 @@ Pros:
 </ul>
 <br>
 Cons:
+<br>
 <br>
 <ul>
 <li>Because my kids find the Eddie character funny, I have some minor concerns that my kids will emulate some of his behaviors in the book. "Minor" is the operative word here, though, as it's really up to me to show them what is and is not appropriate behavior.</li>
