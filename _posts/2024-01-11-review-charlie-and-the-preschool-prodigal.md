@@ -26,9 +26,9 @@ Crossway, 2024
 <br>
 <b>Review</b>
 <br>
-<b>Pros:</b>
 <br>
-<ul>
+<b>Pros:</b>
+<ul class= "default">
 <li>My kids love this book. They find the Eddie character funny, which I realize isn't exactly the point. However, I appreciate any element of a story (particularly one that teaches a biblical lesson) that draws my kids in and causes them to repeatedly return to a book. It only increases the opportunities for me to talk with my kids about the lesson the book is trying to teach. 
 <br>
 <li>The book, rather than giving all the answers, calls kids and adults alike to critically consider the consequences of sin and the free gift of grace that is offered to all older and younger brothers. 
