@@ -17,13 +17,12 @@ GA: G-DHPTC39GDF
 <h3><b><a href= "https://amzn.to/3vxTIQN" target= "blank"><i>Charlie and the Preschool Prodigal</i></a></b> by Ginger Blomberg </h3>
 <h4>Crossway, 2024</h4>
 <br>
-<br>
 <h4><b>Summary</b></h4>
 <br>
     Charlie and Eddie are your classic older brother/younger brother archetypes of the Luke 15 parable, "The Prodigal Son." Charlie is neat and orderly, a rule-follower of the strictest kind. Eddie is messy and chaotic, a rebel without a cause. When Eddie decides to run away from home, his daddy is understandably panicked. Eddie quickly learns that independence—especially for a toddler—is not all it's cracked up to be. Charlie, on the other hand, learns an important lesson about grace.
 <br>
-<h3><b>Review</b></h3>
-<h4><b>Pros:</b></h4>
+<h4><b>Review</b></h4>
+<h5><b>Pros:</b></h5>
 <ul>
 <li>My kids love this book. They find the Eddie character funny, which I realize isn't exactly the point. However, I appreciate any element of a story (particularly one that teaches a biblical lesson) that draws my kids in and causes them to repeatedly return to a book. It only increases the opportunities for me to talk with my kids about the lesson the book is trying to teach. 
 <br>
@@ -32,8 +31,7 @@ GA: G-DHPTC39GDF
 <li>There is a "Note to Grown-Ups" on the last page that makes the Prodigal Son story accessible to the adults reading this story to young children, reminding us, too, of the gospel that saves "wild and tidy" children alike. 
 </ul>
 <br>
-<br>
-<h4><b>Cons:</b></h4>
+<h5><b>Cons:</b></h5>
 <ul>
 <li>Because my kids find the Eddie character funny, I have some minor concerns that my kids will emulate some of his behaviors in the book. "Minor" is the operative word here, though, as it's really up to me to show them what is and is not appropriate behavior.
 <br>
