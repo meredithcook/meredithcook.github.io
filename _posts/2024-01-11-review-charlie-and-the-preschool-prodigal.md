@@ -14,7 +14,7 @@ GA: G-DHPTC39GDF
 
 <a href="https://amzn.to/3vxTIQN" target="blank"><img src="meredithcook.github.io/images/charlie.jpg" alt="Charlie and the Preschool Prodigal" style="width:300px;height:300px;padding:10px" align="center"></a><p>
 <p>
-<b><a href= "https://amzn.to/3vxTIQN" target= "blank"><i>Charlie and the Preschool Prodigal</i></b></a> by Ginger Blomberg
+<b><a href= "https://amzn.to/3vxTIQN" target= "blank"><i>Charlie and the Preschool Prodigal</i></a></b> by Ginger Blomberg
 <br>
 Crossway, 2024
 <br>
