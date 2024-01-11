@@ -16,17 +16,18 @@ GA: G-DHPTC39GDF
 <p>
 <b><a href= "https://amzn.to/3vxTIQN" target= "blank"><i>Charlie and the Preschool Prodigal</i></a> by Ginger Blomberg </b>
 <br>
-<br>
 Crossway, 2024
 <br>
 <br>
 <b>Summary:</b>
+<br>
     Charlie and Eddie are your classic older brother/younger brother archetypes of the Luke 15 parable, "The Prodigal Son." Charlie is neat and orderly, a rule-follower of the strictest kind. Eddie is messy and chaotic, a rebel without a cause. When Eddie decides to run away from home, his daddy is understandably panicked. Eddie quickly learns that independence—especially for a toddler—is not all it's cracked up to be. Charlie, on the other hand, learns an important lesson about grace.
 <br>
 <br>
 <b>Review</b>
 <br>
 <i>Charlie and the Preschool Prodigal</i> takes an important parable from the Bible and inserts it into a set of circumstances to which young kids can relate. Through Charlie and Eddie, readers learn that no matter our behavior, everyone is in need of a grace from a loving father. This book can help parents teach their children about the love of their heavenly Father and the grace that comes through Christ. I recommend this book as a great supplement to <a href= "https://www.meredithcook.net/spiritual-disciplines-toddlers-bible">regular Bible reading with your children</a>.
+<br>
 	- <b>Pros:</b>
     <br>
     <br>
@@ -46,10 +47,12 @@ Crossway, 2024
 <br>
 <br>
 <b>Who Should Read This Book:</b>
-	- This book is a helpful resource for parents and teachers of preschool-age children who desire to instill biblical truths in their kids in a compelling way. Christian parents of young children are most likely to pick up this book and read it to their kids. However, this book may make a good gift for parents who are interested in the gospel but have not yet believed, or for parents who send their kids to church but don't regularly go themselves. 
+<br>
+	This book is a helpful resource for parents and teachers of preschool-age children who desire to instill biblical truths in their kids in a compelling way. Christian parents of young children are most likely to pick up this book and read it to their kids. However, this book may make a good gift for parents who are interested in the gospel but have not yet believed, or for parents who send their kids to church but don't regularly go themselves. 
 <br>
 <br>
-<b>Favorite Quotes:</b
-    - "Eddie could make trouble. He ate crayons. And ants." (This is my kids' favorite quote. They laugh every time.)
+<b>Favorite Quotes:</b>
+<br>
+<i>"Eddie could make trouble. He ate crayons. And ants."</i> (This is my kids' favorite quote. They laugh every time.)
 <br>
     </p>
