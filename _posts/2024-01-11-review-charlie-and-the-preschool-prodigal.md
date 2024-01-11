@@ -15,6 +15,7 @@ GA: G-DHPTC39GDF
 <a href="https://amzn.to/3vxTIQN" target="blank"><img src="meredithcook.github.io/images/charlie.jpg" alt="Charlie and the Preschool Prodigal" style="width:300px;height:300px;padding:10px" align="center"></a></p>
 <p>
 <b><a href= "https://amzn.to/3vxTIQN" target= "blank"><i>Charlie and the Preschool Prodigal</i></a></b> by Ginger Blomberg
+<br>
 Crossway, 2024
 <br>
 <br>
@@ -25,7 +26,7 @@ Crossway, 2024
 <br>
 <b>Review</b>
 <br>
-<b>Pros:</b>
+Pros:
 <ul>
 <li>My kids love this book. They find the Eddie character funny, which I realize isn't exactly the point. However, I appreciate any element of a story (particularly one that teaches a biblical lesson) that draws my kids in and causes them to repeatedly return to a book. It only increases the opportunities for me to talk with my kids about the lesson the book is trying to teach.</li> 
 <br>
@@ -34,8 +35,7 @@ Crossway, 2024
 <li>There is a "Note to Grown-Ups" on the last page that makes the Prodigal Son story accessible to the adults reading this story to young children, reminding us, too, of the gospel that saves "wild and tidy" children alike.</li> 
 </ul>
 <br>
-<br>
-<b>Cons:</b>
+Cons:
 <ul>
 <li>Because my kids find the Eddie character funny, I have some minor concerns that my kids will emulate some of his behaviors in the book. "Minor" is the operative word here, though, as it's really up to me to show them what is and is not appropriate behavior.</li>
 <br>
