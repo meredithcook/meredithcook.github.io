@@ -28,7 +28,6 @@ Crossway, 2024
 <br>
 <b>Review</b>
 <br>
-<br>
 Pros:
 <ul>
 <li>My kids love this book. They find the Eddie character funny, which I realize isn't exactly the point. However, I appreciate any element of a story (particularly one that teaches a biblical lesson) that draws my kids in and causes them to repeatedly return to a book. It only increases the opportunities for me to talk with my kids about the lesson the book is trying to teach.</li> 
@@ -48,6 +47,7 @@ Cons:
 </ul>
 <br>
 <i>Charlie and the Preschool Prodigal</i> takes an important parable from the Bible and inserts it into a set of circumstances to which young kids can relate. Through Charlie and Eddie, readers learn that no matter our behavior, everyone is in need of a grace from a loving father. This book can help parents teach their children about the love of their heavenly Father and the grace that comes through Christ. I recommend this book as a great supplement to <a href= "https://www.meredithcook.net/spiritual-disciplines-toddlers-bible"> regular Bible reading with your children</a>.  
+<br>
 <br>
 <b>Who Should Read This Book:</b>
 <br>
