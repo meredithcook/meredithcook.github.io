@@ -6,7 +6,6 @@ description: My review of "Charlie and the Preschool Prodigal" by Ginger Blomber
 image: '/images/kidbookreview.jpg' # Add image post (optional)
 tags: [book-review]
 GA: G-DHPTC39GDF
-published: false
 ---
 
 *Note: Periodically I'll post book reviews to serve as a resource for readers looking for recommendations. I plan to include books for adults as well as kids' books. Very few of these reviews will be on new releases. If you're like me and are about two to three years behind on your reading, then this section is for you!* 
@@ -28,19 +27,19 @@ Crossway, 2024
 <br>
 <b>Pros:</b>
 <ul>
-<li>My kids love this book. They find the Eddie character funny, which I realize isn't exactly the point. However, I appreciate any element of a story (particularly one that teaches a biblical lesson) that draws my kids in and causes them to repeatedly return to a book. It only increases the opportunities for me to talk with my kids about the lesson the book is trying to teach. 
+<li>My kids love this book. They find the Eddie character funny, which I realize isn't exactly the point. However, I appreciate any element of a story (particularly one that teaches a biblical lesson) that draws my kids in and causes them to repeatedly return to a book. It only increases the opportunities for me to talk with my kids about the lesson the book is trying to teach.</li> 
 <br>
-<li>The book, rather than giving all the answers, calls kids and adults alike to critically consider the consequences of sin and the free gift of grace that is offered to all older and younger brothers. 
+<li>The book, rather than giving all the answers, calls kids and adults alike to critically consider the consequences of sin and the free gift of grace that is offered to all older and younger brothers.</li> 
 <br>
-<li>There is a "Note to Grown-Ups" on the last page that makes the Prodigal Son story accessible to the adults reading this story to young children, reminding us, too, of the gospel that saves "wild and tidy" children alike. 
+<li>There is a "Note to Grown-Ups" on the last page that makes the Prodigal Son story accessible to the adults reading this story to young children, reminding us, too, of the gospel that saves "wild and tidy" children alike.</li> 
 </ul>
 <br>
 <br>
 <b>Cons:</b>
 <ul>
-<li>Because my kids find the Eddie character funny, I have some minor concerns that my kids will emulate some of his behaviors in the book. "Minor" is the operative word here, though, as it's really up to me to show them what is and is not appropriate behavior.
+<li>Because my kids find the Eddie character funny, I have some minor concerns that my kids will emulate some of his behaviors in the book. "Minor" is the operative word here, though, as it's really up to me to show them what is and is not appropriate behavior.</li>
 <br>
-<li>Though I appreciate the "Note to Grown-Ups" for how it might help adult readers apply the Prodigal Son story to their own lives, I would've appreciated a paragraph and/or some discussion questions that helped guide conversations with my kids about the story.
+<li>Though I appreciate the "Note to Grown-Ups" for how it might help adult readers apply the Prodigal Son story to their own lives, I would've appreciated a paragraph and/or some discussion questions that helped guide conversations with my kids about the story.</li>
 </ul>
 <br>
 <br>
