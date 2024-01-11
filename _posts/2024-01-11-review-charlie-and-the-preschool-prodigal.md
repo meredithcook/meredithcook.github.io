@@ -19,12 +19,12 @@ GA: G-DHPTC39GDF
 Crossway, 2024
 <br>
 <br>
-<b>Summary:</b>
+<b>Summary</b>
 <br>
     Charlie and Eddie are your classic older brother/younger brother archetypes of the Luke 15 parable, "The Prodigal Son." Charlie is neat and orderly, a rule-follower of the strictest kind. Eddie is messy and chaotic, a rebel without a cause. When Eddie decides to run away from home, his daddy is understandably panicked. Eddie quickly learns that independence—especially for a toddler—is not all it's cracked up to be. Charlie, on the other hand, learns an important lesson about grace.
 <br>
 <br>
-<b>Review:</b>
+<b>Review</b>
 <br>
 <br>
 <b>Pros:</b>
@@ -39,8 +39,7 @@ Crossway, 2024
 			- There is a "Note to Grown-Ups" on the last page that makes the Prodigal Son story accessible to the adults reading this story to young children, reminding us, too, of the gospel that saves "wild and tidy" children alike. 
             <br>
             <br>
-	- <b>Cons:</b>
-    <br>
+	<b>Cons:</b>
     <br>
 		- Because my kids find the Eddie character funny, I have some minor concerns that my kids will emulate some of his behaviors in the book. "Minor" is the operative word here, though, as it's really up to me to show them what is and is not appropriate behavior.
         <br>
