@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Four Ways to Pray for Pastors During the Pandemic
+title: Why Our Spiritual Walk Needs Repetition
 date: 2020-03-31
 description: If Scripture frequently repeats itself, then maybe we should consider the value of repetition—not just in our worship songs but in all aspects of our life. # Add post description (optional)
 image: '/images/bible.jpg' # Add image post (optional)
