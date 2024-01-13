@@ -5,6 +5,7 @@ date: 2023-10-30
 description: The low-grade nostalgia and homesickness I feel for the homes I've had in my life are there to remind me that home is not here on this earth. It's with my Father in heaven.
 image: '/images/home.jpeg'
 tags: [home, perspective]
+GA: G-DHPTC39GDF
 ---
 "Where are you from?"
 

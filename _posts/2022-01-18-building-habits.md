@@ -5,7 +5,7 @@ date: 2022-01-19
 description: Rather focusing on a list of goals to achieve or New Year's resolutions to (not) follow, I have increasingly begun to speak and think in terms of habit building. # Add post description (optional)
 image: '/images/habits.jpeg' # Add image post (optional)
 tags: [habits, new-year, resolutions] # add tag
-GA: U263725632
+GA: G-DHPTC39GDF
 ---
 
 The week between Christmas and New Year's has become one of my favorite weeks. Though I'm always a little bummed when Christmas is over, I've grown to appreciate that last week of the year. It's a time to reflect on the months that have passed and set goals for the year to come. 

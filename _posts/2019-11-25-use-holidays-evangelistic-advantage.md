@@ -5,7 +5,7 @@ date: 2019-11-25
 description: The holiday season is filled with opportunities to share the gospel with neighbors, friends, and family. Here are just a few ways each holiday offers us easy ways to share our faith. # Add post description (optional)
 image: '/images/holidays.jpeg' # Add image post (optional)
 tags: [evangelism] # add tag
-GA: U263725632
+GA: G-DHPTC39GDF
 ---
 <a href= "https://www.theupstreamcollective.org/post/use-the-holidays-to-your-evangelistic-advantage" target= "blank">*This article was originally published by The Upstream Collective.*</a>
 

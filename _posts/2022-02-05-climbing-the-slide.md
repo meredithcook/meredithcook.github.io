@@ -5,7 +5,7 @@ date: 2022-02-05
 description: In 2020, I leaned into bad habits begun years earlier. It led me to the bottom of a downward spiral in my mental and emotional health. This is the difference changing my habits made to my spiritual, mental, and emotional well-being. # Add post description (optional)
 image: '/images/spiral.jpeg' # Add image post (optional)
 tags: [habits, spiritual-disciplines] # add tag
-GA: U263725632
+GA: G-DHPTC39GDF
 ---
 
 My photos app reminded me of a trip my family took at the end of 2020. Having spent most of the year at home because of the pandemic, we traveled to Big Bend National Park. We figured going to the middle of nowhere was just as "safe" if not safer than sticking around our mega-city home. 

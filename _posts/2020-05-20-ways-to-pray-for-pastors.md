@@ -5,7 +5,7 @@ date: 2020-05-20
 description: Here are some ways I’ve been praying for pastors and churches in this season. # Add post description (optional)
 image: '/images/praying.jpg' # Add image post (optional)
 tags: [prayer] # add tag
-GA: U263725632
+GA: G-DHPTC39GDF
 ---
 <a href= "https://research.lifeway.com/2020/05/11/4-ways-to-pray-for-pastors-right-now/" target= "blank">*This article was republished with permission from Lifeway Research.*</a>
 

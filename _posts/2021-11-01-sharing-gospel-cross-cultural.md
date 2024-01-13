@@ -5,7 +5,7 @@ date: 2021-11-01
 description: You don’t have to be an expert in other cultures to share the hope of the gospel with someone who is much different than you. # Add post description (optional)
 image: '/images/cross-cultural.jpeg' # Add image post (optional)
 tags: [evangelism] # add tag
-GA: U263725632
+GA: G-DHPTC39GDF
 ---
 <a href= "https://www.theupstreamcollective.org/post/sharing-the-gospel-cross-culturally-you-don-t-have-to-be-an-expert" target= "blank">*This article was originally published by The Upstream Collective.*</a>
 

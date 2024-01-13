@@ -5,7 +5,7 @@ date: 2021-08-20
 description: A compilation of resources to help guide your prayer for the nations. # Add post description (optional)
 image: '/images/nations.jpeg' # Add image post (optional)
 tags: [prayer, resources] # add tag
-GA: U263725632
+GA: G-DHPTC39GDF
 ---
 <a href= "https://www.theupstreamcollective.org/post/resources-to-help-guide-your-prayer-for-the-nations" target= "blank">*This article was originally published by The Upstream Collective.*</a>
 

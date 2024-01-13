@@ -5,7 +5,7 @@ date: 2022-04-30
 description: If we believe that Scripture is true, then we believe that the gospel has the power to unite us as fellow believers, regardless of our disagreements.  # Add post description (optional)
 image: '/images/race.jpeg' # Add image post (optional)
 tags: [church] # add tag
-GA: U263725632
+GA: G-DHPTC39GDF
 ---
 
 *Note: I wrote a version of the <a href="https://www.flipsnack.com/hcpninc/day-13-of-awaken-houston.html" target="blank">devotional below</a> for the Houston Church Planting Network's annual season of prayer last year. I've added to it and updated it for this website.* 

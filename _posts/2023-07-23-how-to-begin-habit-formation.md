@@ -5,6 +5,7 @@ date: 2023-7-23
 description: If how we use time is determined primarily by our habits, then how do we start building in good habits that ultimately lead us to use our time wisely for the purpose of loving God, neighbor, and fulfilling the Great Commission?
 image: '/images/jenga.jpeg' # Add image post (optional)
 tags: [habits, time-management]
+GA: G-DHPTC39GDF
 ---
 
 A discussion on habit formation and time management would not be complete without considering the practical application of these conversations. If how we use time is determined primarily by our habits, then how do we practically apply the ideas from my previous two articles ([here](https://www.meredithcook.net/how-we-spend-our-days) and [here](https://www.meredithcook.net/habit-formation-motivation)) so that everything we do leads us to love God, love neighbor, and fulfill the Great Commission? 

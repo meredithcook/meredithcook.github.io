@@ -5,7 +5,7 @@ date: 2022-03-26
 description: There is one piece of advice that, so far, I have received more than any other. It is always unsolicited. But I never get tired of hearing it. The phrasing may not always be the same but the message is. # Add post description (optional)
 image: '/images/parenting.jpeg' # Add image post (optional)
 tags: [parenting] # add tag
-GA: U263725632
+GA: G-DHPTC39GDF
 ---
 
 When I was pregnant with my first child, I started paying a lot of attention to blogs and social media posts about parenting. One theme I frequently came across, particularly on social media, was about unsolicited advice from other people. I found lots of articles and posts about moms' experiences with family members, friends, and strangers giving usually well-meaning but often unwanted advice. 

@@ -5,7 +5,7 @@ date: 2021-12-04
 description: Where you live, where you work, and your relationships are no accident. The Lord can, indeed, use you right where you are.  # Add post description (optional)
 image: '/images/arrow.jpeg' # Add image post (optional)
 tags: [calling] # add tag
-GA: U263725632
+GA: G-DHPTC39GDF
 ---
 <a href= "https://www.theupstreamcollective.org/post/god-can-use-me-right-where-i-am-encouragement-or-excuse" target= "blank">*This article was originally published by The Upstream Collective.*</a>
 

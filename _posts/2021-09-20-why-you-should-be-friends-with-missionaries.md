@@ -5,7 +5,7 @@ date: 2021-09-20
 description: Friendship is not bound by proximity, especially when the gospel is the foundation of that friendship. # Add post description (optional)
 image: '/images/long-distance.jpeg' # Add image post (optional)
 tags: [friendship] # add tag
-GA: U263725632
+GA: G-DHPTC39GDF
 ---
 <a href= "https://www.theupstreamcollective.org/post/why-everyone-should-be-friends-with-missionaries" target= "blank">*A version of this article was originally published by The Upstream Collective.*</a>
 

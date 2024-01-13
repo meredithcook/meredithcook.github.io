@@ -5,6 +5,7 @@ date: 2023-08-02
 description: When determining what habits to practice, consider your schedule, commitments, and values. I use a three-tiered system for habit formation and time management.
 image: '/images/habittracking.jpeg' # Add image post (optional)
 tags: [habits, time-management]
+GA: G-DHPTC39GDF
 ---
 When choosing which habits to practice, consider your schedule, commitments, and values. Everyone has regular responsibilities. For me, my primary responsibilities include taking care of my family (particularly my children), working my paying job, and serving my church. I believe that habit formation and time management are vital to managing all of these responsibilities well. Additionally, as Christians, I believe our primary purpose for habit formation and good time management [should be to increasingly love God, neighbor, and obey the Great Commission](https://www.meredithcook.net/habit-formation-motivation). 
 
