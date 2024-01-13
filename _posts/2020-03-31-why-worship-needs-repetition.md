@@ -8,7 +8,7 @@ tags: [habits, worship] # add tag
 GA: G-DHPTC39GDF
 ---
 
-This article was republished with permission from [Lifeway Research](https://research.lifeway.com/2020/03/31/why-our-worship-and-spiritual-walk-needs-repetition/){:target="_blank"}.
+*This article was republished with permission from [Lifeway Research](https://research.lifeway.com/2020/03/31/why-our-worship-and-spiritual-walk-needs-repetition/){:target="_blank"}.*
 
 I hate exercising. But I do it because—like eating vegetables, drinking water, and sleeping—it’s good for my health. So, the last time I was at the gym, I pulled up a worship music playlist and told myself just to make it through 4-5 songs on the elliptical machine. It seemed like a more attainable goal than setting a specific timeframe.
 
