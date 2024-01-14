@@ -7,7 +7,7 @@ image: '/images/evangelism.png' # Add image post (optional)
 tags: [evangelism] # add tag
 GA: G-DHPTC39GDF
 ---
-*This article was republished with permission from [Lifeway Research](hhttps://research.lifeway.com/2019/06/11/how-to-get-excited-about-jesus/?hootPostID=27e1ba20667ade69a738b2fe8cc34b0a/){:target="_blank"}.*
+*This article was republished with permission from [Lifeway Research](https://research.lifeway.com/2019/06/11/how-to-get-excited-about-jesus/?hootPostID=27e1ba20667ade69a738b2fe8cc34b0a/){:target="_blank"}.*
 
 My husband and I were looking for a doughnut shop en route from Houston to Dallas. Doughnut shops are a dime a dozen in Houston, so we chose one that was closest to our route. What we didn’t realize was although this place looked like every other local shop in the city, inside it held the holy grail of breakfast treats: the breakfast egg roll. Suffice it to say no other breakfast item holds a candle to this one. It’s a good thing this shop is almost an hour from where we live.
 
