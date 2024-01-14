@@ -4,10 +4,3 @@ title: Resources
 ---
 
 {% include tagPagesLoop.html tagName='resources' %}
-
-<h2>All {{ include.tagName }} posts</h2>
-
-{% for post in site.tags[include.tagName] %}
-<h3>{{ post.title }}</h3>
-other stuff here
-{% endfor %}
