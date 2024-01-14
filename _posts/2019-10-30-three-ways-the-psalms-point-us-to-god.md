@@ -23,18 +23,18 @@ The psalms are replete with memories of God’s faithfulness to his people. Psal
 
 The writer of Psalm 42 did likewise, writing in verses 5-8:
 
-    Why, my soul, are you so dejected?
-    Why are you in such turmoil?
-    Put your hope in God, for I will still praise him,
-    my Savior and my God.
-    I am deeply depressed;
-    therefore I remember you from the land of Jordan
-    and the peaks of Hermon, from Mount Mizar.
-    Deep calls to deep in the roar of your waterfalls;
-    all your breakers and your billows have swept over me.
-    The Lord will send his faithful love by day;
-    his song will be with me in the night—
-    a prayer to the God of my life.”
+*Why, my soul, are you so dejected?
+Why are you in such turmoil?
+Put your hope in God, for I will still praise him,
+my Savior and my God.
+I am deeply depressed;
+therefore I remember you from the land of Jordan
+and the peaks of Hermon, from Mount Mizar.
+Deep calls to deep in the roar of your waterfalls;
+all your breakers and your billows have swept over me.
+The Lord will send his faithful love by day;
+his song will be with me in the night—
+a prayer to the God of my life.”*
 
 These examples, along with many other Psalms, encourage us to remember God’s faithfulness to us—to dwell on the Lord’s provision.
 
@@ -46,8 +46,8 @@ When we remember God and dwell on His characteristics as described in Psalms, we
 
 At the end of Psalm 4, David wrote,
 
-    I will both lie down and sleep in peace,
-    for you alone, Lord, make me live in safety.”
+*I will both lie down and sleep in peace,
+for you alone, Lord, make me live in safety.”*
 
 When we sleep, we demonstrate trust that God is watching over us even when we’re in our most vulnerable state. But rest is more than just sleeping. It’s an indwelling peace that comes from knowing God and being known by Him. It’s confidence in His constant presence, knowing He’s our only hope (Psalm 62:5). The same God who delivered Israel, who rescued David, and who kept all of His promises to His people is the same God who’s near to us today.
 
@@ -59,14 +59,14 @@ Remembering God’s faithfulness and resting in His sovereignty allows us to wor
 
 When Saul’s men were pursuing David, he wrote Psalm 59, asking God to rescue him. But even in this precarious situation, David rejoiced, writing:
 
-    But I will sing of your strength
-    and will joyfully proclaim
-    your faithful love in the morning.
-    For you have been a stronghold for me,
-    a refuge in my day of trouble.
-    To you, my strength, I sing praises,
-    because God is my stronghold—
-    my faithful God.”
+*But I will sing of your strength
+and will joyfully proclaim
+your faithful love in the morning.
+For you have been a stronghold for me,
+a refuge in my day of trouble.
+To you, my strength, I sing praises,
+because God is my stronghold—
+my faithful God.”*
 
 Like David, we can rejoice in the face of anything because we know that one day, all will pass away, and we’ll dwell with the Lord forever (Psalm 16:11).
 
