@@ -3,7 +3,7 @@ layout: post
 title: Get Excited to Talk to Others About Jesus
 date: 2019-06-30
 description: What if I spoke to others with as much excitement about Jesus as I do about a host of other things? # Add post description (optional)
-image: '/images/evangelism.png' # Add image post (optional)
+image: '/images/evangelism.jpg' # Add image post (optional)
 tags: [evangelism] # add tag
 GA: G-DHPTC39GDF
 ---
