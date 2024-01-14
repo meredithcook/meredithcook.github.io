@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Three Things to Remember When You Teach the Bible
-date: 2019-07-30
+date: 2019-07-12
 description: Teaching God’s Word is a privilege. It’s a responsibility we should take seriously. # Add post description (optional)
 image: '/images/bible2.jpg' # Add image post (optional)
 tags: [bible] # add tag
