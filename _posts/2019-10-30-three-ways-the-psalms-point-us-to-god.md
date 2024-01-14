@@ -3,7 +3,7 @@ layout: post
 title: Three Ways the Psalms Point Us to God
 date: 2019-10-30
 description: Psalms helps us remember the God who is the beginning and end of all things, rest in His sovereignty, and have joy in all circumstances. # Add post description (optional)
-image: '/images/psalms2.jpeg' # Add image post (optional)
+image: '/images/psalms2.jpg' # Add image post (optional)
 tags: [bible] # add tag
 GA: G-DHPTC39GDF
 ---
