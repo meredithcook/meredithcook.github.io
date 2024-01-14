@@ -46,7 +46,7 @@ When we remember God and dwell on His characteristics as described in Psalms, we
 
 At the end of Psalm 4, David wrote,
 
-*I will both lie down and sleep in peace,
+>*I will both lie down and sleep in peace,
 for you alone, Lord, make me live in safety.”*
 
 When we sleep, we demonstrate trust that God is watching over us even when we’re in our most vulnerable state. But rest is more than just sleeping. It’s an indwelling peace that comes from knowing God and being known by Him. It’s confidence in His constant presence, knowing He’s our only hope (Psalm 62:5). The same God who delivered Israel, who rescued David, and who kept all of His promises to His people is the same God who’s near to us today.
@@ -59,7 +59,7 @@ Remembering God’s faithfulness and resting in His sovereignty allows us to wor
 
 When Saul’s men were pursuing David, he wrote Psalm 59, asking God to rescue him. But even in this precarious situation, David rejoiced, writing:
 
-*But I will sing of your strength
+>*But I will sing of your strength
 and will joyfully proclaim
 your faithful love in the morning.
 For you have been a stronghold for me,
