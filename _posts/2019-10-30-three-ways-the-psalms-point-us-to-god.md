@@ -23,18 +23,18 @@ The psalms are replete with memories of God’s faithfulness to his people. Psal
 
 The writer of Psalm 42 did likewise, writing in verses 5-8:
 
-*Why, my soul, are you so dejected?
-Why are you in such turmoil?
-Put your hope in God, for I will still praise him,
-my Savior and my God.
-I am deeply depressed;
-therefore I remember you from the land of Jordan
-and the peaks of Hermon, from Mount Mizar.
-Deep calls to deep in the roar of your waterfalls;
-all your breakers and your billows have swept over me.
-The Lord will send his faithful love by day;
-his song will be with me in the night—
-a prayer to the God of my life.”*
+>*Why, my soul, are you so dejected?
+>Why are you in such turmoil?
+>Put your hope in God, for I will still praise him,
+>my Savior and my God.
+>I am deeply depressed;
+>therefore I remember you from the land of Jordan
+>and the peaks of Hermon, from Mount Mizar.
+>Deep calls to deep in the roar of your waterfalls;
+>all your breakers and your billows have swept over me.
+>The Lord will send his faithful love by day;
+>his song will be with me in the night—
+>a prayer to the God of my life.”*
 
 These examples, along with many other Psalms, encourage us to remember God’s faithfulness to us—to dwell on the Lord’s provision.
 
