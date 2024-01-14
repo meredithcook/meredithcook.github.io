@@ -3,7 +3,7 @@ layout: post
 title: 6 Ways to Fight Frustration in the Church
 date: 2019-05-30
 description: What if I spoke to others with as much excitement about Jesus as I do about a host of other things? # Add post description (optional)
-image: '/images/[puzzle].jpg' # Add image post (optional)
+image: '/images/puzzle.jpg' # Add image post (optional)
 tags: [church, perspective] # add tag
 GA: G-DHPTC39GDF
 ---
