@@ -2,7 +2,7 @@
 layout: post
 title: 4 Reasons Why I Appreciate Expository Preaching
 date: 2019-04-30
-description: What if I spoke to others with as much excitement about Jesus as I do about a host of other things? # Add post description (optional)
+description: I will never stop learning about the Bible, which is why I appreciate expository preaching. # Add post description (optional)
 image: '/images/preach.jpg' # Add image post (optional)
 tags: [church, bible] # add tag
 GA: G-DHPTC39GDF
