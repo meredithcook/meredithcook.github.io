@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Four Ways to Pray for Pastors During the Pandemic
+title: 4 Ways to Pray for Pastors During the Pandemic
 date: 2020-05-20
 description: Here are some ways I’ve been praying for pastors and churches in this season. # Add post description (optional)
 image: '/images/praying.jpg' # Add image post (optional)
