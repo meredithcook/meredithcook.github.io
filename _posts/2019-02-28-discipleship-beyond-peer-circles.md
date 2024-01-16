@@ -2,7 +2,7 @@
 layout: post
 title: Discipleship Beyond Peer Circles
 date: 2019-02-28
-description: I’ve grown to love the Old Testament for these reasons. # Add post description (optional)
+description: It matters that members of the church body—made up of a diversity of people—practice intentional fellowship with each other. # Add post description (optional)
 image: '/images/discipleship.jpg' # Add image post (optional)
 tags: [church, discipleship] # add tag
 GA: G-DHPTC39GDF
