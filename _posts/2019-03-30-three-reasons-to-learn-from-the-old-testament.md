@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Reasons to Learn from the Old Testament
-date: 2019-04-30
+date: 2019-03-30
 description: I’ve grown to love the Old Testament for these reasons. # Add post description (optional)
 image: '/images/OT.jpg' # Add image post (optional)
 tags: [church, bible] # add tag
