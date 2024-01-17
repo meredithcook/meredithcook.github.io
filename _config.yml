@@ -20,7 +20,7 @@ social:
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/meredithcook716/"}
 - {icon: "ion-logo-pinterest", link: "https://www.pinterest.com/meredithlcook/"}
 - {icon: "ion-md-book", link: "https://amzn.to/45wlDh1"}
-- {icon: "ion-logo-rss", link: "meredithcook/meredithcook.github.io/feed.xml"}
+- {icon: "ion-logo-rss", link: "/feed.xml"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
