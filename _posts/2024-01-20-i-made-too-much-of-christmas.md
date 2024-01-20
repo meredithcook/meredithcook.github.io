@@ -2,11 +2,10 @@
 layout: post
 title: I Made Too Much of Christmas
 date: 2024-01-20
-description: I looked for Christmas in all the wrong places, but it brought me back 
-image: '/images/kidbookreview.jpg' # Add image post (optional)
-tags: [book-review]
+description: I looked for Christmas in all the wrong places, and it was a gracious reminder of why we celebrate Advent in the first place. 
+image: '/images/advent.jpg' # Add image post (optional)
+tags: [christmas]
 GA: G-DHPTC39GDF
-published: false
 ---
 
 I woke up the day after Christmas feeling a bit disoriented. For almost three months, I'd been in holiday mode—searching for Halloween costumes, decorating, planning Thanksgiving menus and Christmas parties, scouring community calendars for can't-miss events. So when it was suddenly a normal day, I didn't know what to do with myself. 
@@ -44,3 +43,6 @@ As Paul says to the Colossians:
 >*Since, then, you have been raised with Christ, set your hearts on things above, where Christ is, seated at the right hand of God. Set your minds on things above, not on earthly things. For you died, and your life is now hidden with Christ in God. **When Christ, who is your life, appears,** then you also will appear with him in glory*. (3: 1-4, emphasis mine)
 
 At the end of the day, I'm thankful I was left feeling disappointed by the holidays. It was a hard but gracious reminder that my joy is not determined by my circumstances, not found in checking off that Christmas bucket list I saw on Pinterest. That disappointment prompted me to turn my eyes back to the true source of satisfaction and fulfillment— the redemptive work of Christ and the hope of His return.
+
+<sub>Photo by <a href="https://unsplash.com/@kellysikkema?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Kelly Sikkema</a> on <a href="https://unsplash.com/photos/the-nativity-of-christ-themed-wooden-christmas-ornament-57_H5y498Yk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sub>
+  
