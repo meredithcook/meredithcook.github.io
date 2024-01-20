@@ -34,7 +34,6 @@ And if there are problems to be fixed, engaging in that ministry should give us 
 ## 3. Be Patient.
 
 Change takes a long time. Believers don’t always see eye to eye and emotions can run high when we’re discussing topics we deeply care about. Some will not want to change. Some may want different things to change. And some may simply disagree on methods and strategies. We all have our limitations and blind spots.
-See also  Pastors’ Wives Reveal the Worst Advice They’ve Received
 
 In these moments, remember it likely took years for a ministry to get to where it is now, and it will likely take years for it to change. Exercise patience and show grace as you work toward these changes.
 
