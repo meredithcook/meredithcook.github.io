@@ -40,7 +40,7 @@ That's exactly what makes Advent so sweet. Time and again, Scripture reveals the
 
 As Paul says to the Colossians: 
 
->*Since, then, you have been raised with Christ, set your hearts on things above, where Christ is, seated at the right hand of God. Set your minds on things above, not on earthly things. For you died, and your life is now hidden with Christ in God. **When Christ, who is your life, appears,** then you also will appear with him in glory*. (3: 1-4, emphasis mine)
+>*Since, then, you have been raised with Christ, set your hearts on things above, where Christ is, seated at the right hand of God. Set your minds on things above, not on earthly things. For you died, and your life is now hidden with Christ in God. **When Christ, who is your life, appears,** then you also will appear with him in glory*. (3:1-4, emphasis mine)
 
 At the end of the day, I'm thankful I was left feeling disappointed by the holidays. It was a hard but gracious reminder that my joy is not determined by my circumstances, not found in checking off that Christmas bucket list I saw on Pinterest. That disappointment prompted me to turn my eyes back to the true source of satisfaction and fulfillment— the redemptive work of Christ and the hope of His return.
 
