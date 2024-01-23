@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Meredith Cook
-logo: '/images/mainlogo3.png' # You can add own logo. For example '/images/logo.png'.
+logo: '/images/mainlogo4.png' # You can add own logo. For example '/images/logo.png'.
 description: Personal website and blog
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://meredithcook.net" # the base hostname & protocol for your site, e.g. http://example.com
