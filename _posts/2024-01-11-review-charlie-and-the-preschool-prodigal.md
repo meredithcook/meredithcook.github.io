@@ -48,7 +48,6 @@ Cons:
 <li>Though I appreciate the "Note to Grown-Ups" for how it might help adult readers apply the Prodigal Son story to their own lives, I would've appreciated a paragraph and/or some discussion questions that helped guide conversations with my kids about the story.</li>
 </ul> 
 <br>
-<br>
 <b>Who Should Read This Book:</b>
 <br>
 	This book is a helpful resource for parents and teachers of preschool-age children who desire to instill biblical truths in their kids in a compelling way. Christian parents of young children are most likely to pick up this book and read it to their kids. However, this book may make a good gift for parents who are interested in the gospel but have not yet believed, or for parents who send their kids to church but don't regularly go themselves. 
