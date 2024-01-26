@@ -3,6 +3,7 @@ layout: page
 title: Book
 permalink: /book/
 image: 
+published: false
 ---
 
 What happens if I do this?
