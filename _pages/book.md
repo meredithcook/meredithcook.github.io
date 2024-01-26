@@ -2,6 +2,6 @@
 layout: page
 title: Book
 permalink: /book/
-image: 
+image: /images/BH_GoTellEveryone_1200x900_Alt.jpg
 ---
-![GTE]({{site.baseurl}}/images/BH_GoTellEveryone_1200x900_Alt.jpg)
+
