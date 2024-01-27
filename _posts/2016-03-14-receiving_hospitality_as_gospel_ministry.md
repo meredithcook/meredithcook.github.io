@@ -10,7 +10,7 @@ GA: G-DHPTC39GDF
 
 *This article was republished with permission from [keelancook.com](https://keelancook.com/2016/03/14/receiving_hospitality_as_gospel_ministry/){:target="_blank"}.*
 
-Last week I wrote on [the importance of showing hospitality to those around us](http://blog.keelancook.com/2016/03/hospitality-is-hard-but-you-should-do-it-anyway.html). Hospitality is an important part of displaying Christ’s love, but there is another side to it that gets overlooked. We emphasize _showing_ hospitality, but I think that learning how to receive hospitality is equally important. This is especially true in cross-cultural ministry.
+Last week I wrote on [the importance of showing hospitality to those around us](https://www.meredithcook.net/hospitality-is-hard-but-you-should-do-it-anyway). Hospitality is an important part of displaying Christ’s love, but there is another side to it that gets overlooked. We emphasize _showing_ hospitality, but I think that learning how to receive hospitality is equally important. This is especially true in cross-cultural ministry.
 
 As I mentioned briefly in the last post, the highest expression of honor you can show someone of a different culture is to enter their home. It is difficult as Westerners to wrap our minds around this, though. Here are a few things to keep in mind, remembering that these things generally apply to cross-cultural ministry (although if you try these on Americans I would love to hear how it goes!). In addition, always remember that gospel proclamation is the primary goal of both showing and receiving hospitality.
 
