@@ -4,7 +4,7 @@ title: A Snapshot Biblical Theology of Missions
 date: 2016-10-28
 description: The local church should be the center of the missionary sending process and should take responsibility for providing member care to its members who it sends out. # Add post description (optional)
 image: '/images/bible3.jpg' # Add image post (optional)
-tags: [missions, Bible] # add tag
+tags: [missions, bible] # add tag
 GA: G-DHPTC39GDF
 ---
 *This article was republished with permission from [keelancook.com](https://keelancook.com/2016/10/28/a-snapshot-biblical-theology-of-missions/){:target="_blank"}.*
