@@ -7,6 +7,7 @@ image: "/images/write.jpeg" # Add image post (optional)
 tags:   [book, writing] # add tag
 GA: G-DHPTC39GDF
 ---
+<i>I wrote this shortly after signing the contract for my children's board book,</i> Go Tell Everyone: 9 Missionaries Who Shared the Good News, <i>which is <a href= "https://amzn.to/3HCNu4Y" target="blank">now available to order!</a></i> 
 
 I recently signed a contract to write a children's book with <a href="https://www.bhpublishinggroup.com/categories/kids/" target="blank">B&H Kids</a>. I'm thrilled for the opportunity to write this book. It's lived as a mere idea in my head for almost four years. To make a short story long, this is how this opportunity came about.  
 
