@@ -14,7 +14,7 @@ I've listed the articles below, but on this first roundup, I feel a need to make
 
 * Unfortunately, this digital culture in which we live defaults to the most uncharitable read of that which does not fit in our tiny echo chambers, so a disclaimer is in order. Just because an article is listed here does not mean that I concur with every single word of it. I will include articles that I think are worthwhile reads, even if I don't necessarily agree with it 100 percent. 
 
-* I started using Readwise last year to save, highlight, and annotate books and articles and I've become a big fan of their read-it-later app, Reader. If you're interested in trying it, you can get a second free month in your trial if you sign up for Readwise [using this link](https://readwise.io/i/meredith89) (There is nothing in this for me, I just really do like it.)
+* I started using Readwise last year to save, highlight, and annotate books and articles and I've become a big fan of their read-it-later app, Reader. If you're interested in trying it, you can get a second free month in your trial if you sign up for Readwise [using this link](https://readwise.io/i/meredith89). (There is nothing in this for me, I just really do like it.)
 
 Now that those are out of the way, here are the best articles I read in January (along with a bit of side commentary from yours truly):
 
