@@ -2,7 +2,7 @@
 layout: page
 title: Book
 permalink: /book/
-image: /images/BH_GoTellEveryone_1920x1280_Alt.jpg
+image: /images/GTE_4.jpg
 ---
 Jesus told Christians to go tell everyone the good news that He saved the world! *Go Tell Everyone: 9 Missionaries Who Shared the Good News* shows kids how missionaries have obeyed Jesus’s command to tell everyone throughout history. Beginning with the Great Commission, Christians have always followed the command to “Go tell everyone!”
 
