@@ -20,6 +20,6 @@ Ultimately, *Go Tell Everyone* helps kids understand that anyone can tell everyo
     <img src="/images/GTE_14.jpg">
     <img src="/images/GTE_15.jpg">
     <img src="/images/GTE_16.jpg">
-    <img src="/images/GTE_7.jpg">
+    <img src="/images/GTE_17.jpg">
   </div>
 </div>
