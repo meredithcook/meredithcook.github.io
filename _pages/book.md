@@ -8,7 +8,7 @@ Jesus told Christians to go tell everyone the good news that He saved the world!
 
 Kids will learn about how missionaries used their talents to connect with people all over the world and share the gospel with them. This interactive book introduces each missionary on the right side of the spread, asks where the child thinks that person went, and then reveals the country where they served is on the left side. Kids won’t be able to help but turn each page! Kids will meet missionaries Lottie Moon, George Liele, Marie Buhlmaier, Adoniram Judson, Lilias Trotter, William Carey, Betty Greene, Lough Ah Fook, and Betsy Stockton. The illustrations are bright, and the missionaries are adorable. Kids will learn a fact about each country and the missionaries who are diverse in gender, ethnicity, and country of origin. The book even shares about a missionary to the USA.
 
-Ultimately, Go Tell Everyone helps kids understand that anyone can tell everyone about Jesus!
+Ultimately, *Go Tell Everyone* helps kids understand that anyone can tell everyone about Jesus!
 
 <div class="gallery-box">
   <div class="gallery">
