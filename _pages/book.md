@@ -28,7 +28,7 @@ Ultimately, *Go Tell Everyone* helps kids understand that anyone can tell everyo
  <div class="post__share">
       <ul class="share__list list-reset">
         <li class="share__item">
-          <a class="share__link share__twitter" href="https://twitter.com/intent/tweet?text=Charlie%20and%20the%20Preschool%20Prodigal%20(Crossway,%202024)&amp;url=https://meredithcook.net/review-charlie-and-the-preschool-prodigal" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter" rel="nofollow"><i class="ion ion-logo-twitter"></i></a>
+          <a class="amazon" href="https://amzn.to/49mij9x" target="blank" title="Buy on Amazon"></a>
         </li>
         <li class="share__item">
           <a class="share__link share__facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://meredithcook.net/review-charlie-and-the-preschool-prodigal" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook" rel="nofollow"><i class="ion ion-logo-facebook"></i></a>
