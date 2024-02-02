@@ -13,9 +13,11 @@ Ultimately, *Go Tell Everyone* helps kids understand that anyone can tell everyo
 ## Ways to Purchase
 
 <div class="form__group">
+<div class="vertical-center">
 <form action="https://amzn.to/49mij9x" target="blank">
-      <button class="button button--primary" type="submit" align="center">Amazon</button>
+      <button class="button button--primary" type="submit">Amazon</button>
 </form>
+</div>
 </div>
 
 <div class="gallery-box">
