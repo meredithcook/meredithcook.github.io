@@ -24,6 +24,9 @@ Ultimately, *Go Tell Everyone* helps kids understand that anyone can tell everyo
 <form action="https://www.barnesandnoble.com/w/go-tell-everyone-meredith-cook/1143556551" target="blank" style="display: inline-block;">
       <button class="button button--primary" type="submit" data-inline="true">Barnes & Noble</button>
 </form>
+<form action="https://www.target.com/p/go-tell-everyone-by-meredith-cook-board-book/-/A-90032023" target="blank" style="display: inline-block;">
+      <button class="button button--primary" type="submit" data-inline="true">Target</button>
+</form>
 </div>
 
 
