@@ -14,23 +14,15 @@ Ultimately, *Go Tell Everyone* helps kids understand that anyone can tell everyo
 
 ## Ways to Purchase
 
-<div class="form__group">
-<form action="https://amzn.to/49mij9x" target="blank">
-      <button class="button button--primary" type="submit" data-inline="true">Amazon</button>
-</form>
-</div>
-<div class="form__group">
-<form action="https://www.lifeway.com/en/product/go-tell-everyone-P005845740" target="blank">
-      <button class="button button--primary" type="submit" data-inline="true">Lifeway</button>
-</form>
-</div>
-
 <div class="overflow: hidden;">
 <form action="https://amzn.to/49mij9x" target="blank" style="display: inline-block;">
       <button class="button button--primary" type="submit" data-inline="true">Amazon</button>
 </form>
 <form action="https://www.lifeway.com/en/product/go-tell-everyone-P005845740" target="blank" style="display: inline-block;">
       <button class="button button--primary" type="submit" data-inline="true">Lifeway</button>
+</form>
+<form action="https://www.barnesandnoble.com/w/go-tell-everyone-meredith-cook/1143556551" target="blank" style="display: inline-block;">
+      <button class="button button--primary" type="submit" data-inline="true">Barnes & Noble</button>
 </form>
 </div>
 
