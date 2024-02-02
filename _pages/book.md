@@ -6,8 +6,7 @@ image: /images/GTE_4.jpg
 ---
 <div class="form__group">
 <form action="https://amzn.to/49mij9x">
-      <button class="button button--primary" type="submit">Send Message</button>
-    <input type="submit" value="Amazon" />
+      <button class="button button--primary" type="submit">Amazon</button>
 </form>
 </div>
 
