@@ -13,29 +13,15 @@ Ultimately, *Go Tell Everyone* helps kids understand that anyone can tell everyo
 ## Ways to Purchase
 
 <div class="form__group">
-<div class="horizontal-center">
 <form action="https://amzn.to/49mij9x" target="blank">
       <button class="button button--primary" type="submit">Amazon</button>
 </form>
-</div>
+<form action="https://www.lifeway.com/en/product/go-tell-everyone-P005845740" target="blank">
+      <button class="button button--primary" type="submit">Amazon</button>
+</form>
 </div>
 
-<div class="form__group">
-      <ul class="button">
-        <li class=">
-          <a class="button" href="https://amzn.to/49mij9x"); return false;" title="Buy on Amazon" rel="nofollow"></a>
-        </li>
-        <li class="button">
-          <a class="share__link share__facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://meredithcook.net/reading-roundup-january-2024" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook" rel="nofollow"><i class="ion ion-logo-facebook"></i></a>
-        </li>
-        <li class="button">
-          <a class="share__link share__pinterest" href="http://pinterest.com/pin/create/button/?url=https://meredithcook.net/reading-roundup-january-2024&amp;media=https://meredithcook.net/images/roundup.jpg&amp;description=Reading%20Roundup-%20January%202024" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Pinterest" rel="nofollow"><i class="ion ion-logo-pinterest"></i></a>
-        </li>
-        <li class="button">
-          <a class="share__link share__linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://meredithcook.net/reading-roundup-january-2024&amp;title=Reading%20Roundup-%20January%202024&amp;summary=Every%20month,%20I%20offer%20a%20list%20of%20articles%20(and%20sometimes%20books)%20that%20I%20believe%20are%20worthwhile%20reads.&amp;source=Meredith%20Cook" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn" rel="nofollow"><i class="ion ion-logo-linkedin"></i></a>
-        </li>
-      </ul>
-    </div>
+
 
 <div class="gallery-box">
   <div class="gallery">
