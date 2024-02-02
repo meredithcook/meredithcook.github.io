@@ -5,7 +5,7 @@ permalink: /book/
 image: /images/GTE_4.jpg
 ---
 <div class="form__group">
-<form action="https://amzn.to/49mij9x">
+<form action="https://amzn.to/49mij9x" target="blank">
       <button class="button button--primary" type="submit">Amazon</button>
 </form>
 </div>
