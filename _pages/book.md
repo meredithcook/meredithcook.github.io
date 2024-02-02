@@ -10,14 +10,16 @@ Kids will learn about how missionaries used their talents to connect with people
 
 Ultimately, *Go Tell Everyone* helps kids understand that anyone can tell everyone about Jesus!
 
+*Go Tell Everyone: 9 Missionaries Who Shared the Good News* is accompanied by a Parent Connection that encourages interaction and discussion with your child about the book's themes. You can download this resource by [clicking here](https://www.lifeway.com/en/product/go-tell-everyone-P005845740){:target="_blank"}.
+
 ## Ways to Purchase
 
 <div class="form__group">
 <form action="https://amzn.to/49mij9x" target="blank">
-      <button class="button button--primary" type="submit">Amazon</button>
+      <button class="button button--primary" type="submit" data-inline="true">Amazon</button>
 </form>
 <form action="https://www.lifeway.com/en/product/go-tell-everyone-P005845740" target="blank">
-      <button class="button button--primary" type="submit">Amazon</button>
+      <button class="button button--primary" type="submit" data-inline="true">Lifeway</button>
 </form>
 </div>
 
