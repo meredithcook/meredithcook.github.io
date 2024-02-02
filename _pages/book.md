@@ -4,10 +4,12 @@ title: Book
 permalink: /book/
 image: /images/GTE_4.jpg
 ---
+<div class="form__group">
 <form action="https://amzn.to/49mij9x">
+      <button class="button button--primary" type="submit">Send Message</button>
     <input type="submit" value="Amazon" />
 </form>
-
+</div>
 
 Jesus told Christians to go tell everyone the good news that He saved the world! [*Go Tell Everyone: 9 Missionaries Who Shared the Good News*](https://amzn.to/480Oieo){:target="_blank"} shows kids how missionaries have obeyed Jesus’s command to tell everyone throughout history. Beginning with the Great Commission, Christians have always followed the command to “Go tell everyone!”
 
