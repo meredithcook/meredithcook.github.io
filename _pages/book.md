@@ -24,10 +24,10 @@ Ultimately, *Go Tell Everyone* helps kids understand that anyone can tell everyo
 </div>
 
 <div class="flex-parent jc-center">
-<form action="https://amzn.to/49mij9x" target="blank" style="display: inline-block;">
+<form action="https://amzn.to/49mij9x" target="blank" style="display: inline-center;">
       <button class="button button--primary" type="submit" data-inline="true">Amazon</button>
 </form>
-<form action="https://www.lifeway.com/en/product/go-tell-everyone-P005845740" target="blank" style="display: inline-block;">
+<form action="https://www.lifeway.com/en/product/go-tell-everyone-P005845740" target="blank" style="display: inline-center;">
       <button class="button button--primary" type="submit" data-inline="true">Lifeway</button>
 </form>
 </div>
