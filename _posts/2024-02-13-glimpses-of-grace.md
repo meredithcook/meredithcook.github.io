@@ -3,7 +3,7 @@ layout: post
 title: Glimpses of Grace
 date: 2024-02-13
 description: Though we may have to work to see it, God's grace is in each day.
-image: '/images/dailybread.jpg' # Add image post (optional)
+image: '/images/daily_bread.jpg' # Add image post (optional)
 tags: [grace, perspective]
 GA: G-DHPTC39GDF
 ---
