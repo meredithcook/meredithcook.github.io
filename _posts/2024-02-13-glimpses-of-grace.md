@@ -25,7 +25,7 @@ Though daily bread likely refers to God's provision of physical needs, I think i
 
 ## Small Moments of Grace
 
-The days are filled with reminders that we are sinful people who live in a fallen world. But for as many disruption, thorns-in-the-side, and trials that crop up in a day, there are as many reminders of God's daily presence and provision. As [Randy Alcorn wrote](https://www.epm.org/blog/2023/May/5/gratitude-multiples){:target="_blank"}, "God gives us hundreds of reasons to be grateful every hour—and if you think I’m exaggerating, ask Him to make you aware of His gracious provisions surrounding you."
+The days are filled with reminders that we are sinful people who live in a fallen world. But for as many disruptions, thorns-in-the-side, and trials that crop up in a day, there are as many reminders of God's daily presence and provision. As [Randy Alcorn wrote](https://www.epm.org/blog/2023/May/5/gratitude-multiples){:target="_blank"}, "God gives us hundreds of reasons to be grateful every hour—and if you think I’m exaggerating, ask Him to make you aware of His gracious provisions surrounding you."
 
 These are things I struggle most to recognize, but are the very reminders that point me back to the One who gives good gifts to His children. Consider:
 
