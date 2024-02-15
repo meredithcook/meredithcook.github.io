@@ -41,7 +41,7 @@ There are countless moments like these throughout my days, if I will only condit
 
 If I'm not careful, however, I could make the Lord out to be some kind of fairy godmother or immortal vending machine—and I'm not trying to preach a prosperity gospel here. Instead, we must look at a fuller picture of God's grace.
 
-There are other ways in which the Lord deals out His grace on us. Sometimes grace doesn't always feel like grace, at least in the moment. God may feel far away when sin struggles abound, when a family member is diagnosed with a terminal illness, or when a friend betrays us. There are countless types of trials we may experience, for sin knows no boundaries and permeates all of life on this earth. 
+There are other ways in which the Lord pours out His grace on us. Sometimes grace doesn't always feel like grace, at least in the moment. God may feel far away when sin struggles abound, when a family member is diagnosed with a terminal illness, or when a friend betrays us. There are countless types of trials we may experience, for sin knows no boundaries and permeates all of life on this earth. 
 
 Yet there is grace to be found, even in trials. Sometimes the grace in trials is:
 
