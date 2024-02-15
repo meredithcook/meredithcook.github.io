@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Glimpses of Grace
+title: Daily Bread, Eternal Joy
 date: 2024-02-13
-description: Though we may have to work to see it, God's grace is in each day.
+description: Though we may have to work to see it, God's grace is in each day. It should point us to the ultimate gift of grace, Christ Himself.
 image: '/images/daily_bread.jpg' # Add image post (optional)
 tags: [grace, perspective]
 GA: G-DHPTC39GDF
@@ -23,11 +23,9 @@ Since becoming a mom, I have meditated frequently on the concept of "daily bread
 
 Though daily bread likely refers to God's provision of physical needs, I think it's interesting that later in this same chapter, Jesus exhorts the disciples not to worry or be anxious. The Father knows that we have basic needs, like food and clothing. But the Father also knows we have bigger needs, bigger fears, bigger worries. Yet, "Don't worry about tomorrow," he says. He gives us what we need for each day—physical, emotional, and spiritual. 
 
-This provision is rooted in the gospel. At the end of the day (as a former pastor of mine used to say), our biggest problem has been solved and our biggest need has been met. Through Christ's death and resurrection, we are no longer separated from God. The gospel has saved us. This is His ultimate provision—the promise of eternal life and the confident hope that He will fulfill that promise upon Christ's return.
-
 ## Small Moments of Grace
 
-That hope is the umbrella under which we go about our days, yet so often we fail to train our minds on it. The days are filled with reminders that we are sinful people who live in a fallen world. But for as many disruption, thorns-in-the-side, and trials that crop up in a day, there are as many reminders of God's daily presence and provision. As [Randy Alcorn wrote](https://www.epm.org/blog/2023/May/5/gratitude-multiples){:target="_blank"}, "God gives us hundreds of reasons to be grateful every hour—and if you think I’m exaggerating, ask Him to make you aware of His gracious provisions surrounding you."
+The days are filled with reminders that we are sinful people who live in a fallen world. But for as many disruption, thorns-in-the-side, and trials that crop up in a day, there are as many reminders of God's daily presence and provision. As [Randy Alcorn wrote](https://www.epm.org/blog/2023/May/5/gratitude-multiples){:target="_blank"}, "God gives us hundreds of reasons to be grateful every hour—and if you think I’m exaggerating, ask Him to make you aware of His gracious provisions surrounding you."
 
 These are things I struggle most to recognize, but are the very reminders that point me back to the One who gives good gifts to His children. Consider:
 
@@ -63,6 +61,14 @@ we do not perish,
 for his mercies never end.  
 They are new every morning;  
 great is your faithfulness!
+
+## Ultimate Joy
+
+Indeed, evidences of God's grace fill our days. But, lest we look too low to find our joy, we must remember that these evidences of grace ultimately point us to Grace Himself. When we allow these small moments of grace—whether in times of plenty or in times of trial—to cause us to fix our eyes on the "author and perfector of our faith" (Hebrews 12:2), then we can say with Paul:
+
+>Whatever gain I had, I counted as loss for the sake of Christ. Indeed, I count everything as loss because of the surpassing worth of knowing Christ Jesus my Lord. (Philippians 3:7–8)
+
+Yes, God provides for our daily needs. But more than that, God has given us the ultimate gift in Christ. His provision is rooted in the gospel. At the end of the day (as a former pastor of mine used to say), our biggest problem has been solved and our biggest need has been met. Through Christ's death and resurrection, we are no longer separated from God. The gospel has saved us. This is His ultimate provision—the promise of eternal life and the confident hope that He will fulfill that promise upon Christ's return. That hope is the umbrella under which we go about our days.
 
 <sub>Photo by <a href="https://unsplash.com/@christellehayek?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Christelle Hayek</a> on <a href="https://unsplash.com/photos/man-in-blue-and-green-jacket-graffiti-LxByk_9cYZg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sub>
   
