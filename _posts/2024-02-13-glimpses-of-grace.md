@@ -15,7 +15,7 @@ That's all. He didn't linger. He didn't have to come talk to us in the first pla
 
 I didn't see him again after that and I have not thought about him in four and a half years. Why now?
 
-I think it's because lately, I've been struggling a lot with contentment, anxiety, and anticipatory fear. These are not new struggles, but lately they've been heightened. I frequently forget to fix my eyes on things above, even though little reminders of God's grace are littered across my days. Perhaps this is why this doctor came to mind for the first time since my daughter was born. How often do I overlook or forget small evidences of God's grace, just as I did this doctor?
+I think it's because I've been struggling a lot with contentment, anxiety, and anticipatory fear. These are not new struggles, but lately they've been heightened. I frequently forget to fix my eyes on things above, even though little reminders of God's grace are littered across my days. Perhaps this is why this doctor came to mind for the first time since my daughter was born. How often do I overlook or forget small evidences of God's grace, just as I did this doctor?
 
 ## Daily Bread
 
