@@ -16,8 +16,8 @@ Our kids are 4 and 3, and I have spent a lot of time reading and researching boo
 Most of these books fit in one of two categories: missionary biographies or general world knowledge. Missionary biographies help us tell stories to our kids that illustrate to them how others have obeyed the Great Commission. Books about the world give kids a frame of reference for a world outside of the small one in which they currently live. Who knows? God may call us or our child to take the gospel to one of the countries we have learned about in these books! 
 
 ## Age 0-4
-
-<a href="https://shop.scholastic.com/teachers-ecommerce/teacher/books/big-planet-small-world-people-on-the-go-9781338684377.html" target="blank"><img src="meredithcook.github.io/images/peopleonthego.jpg" alt="People on the Go" style="width:250px;height:250px;padding:10px" align="center"></a><p>
+<p align="center">
+<a href="https://shop.scholastic.com/teachers-ecommerce/teacher/books/big-planet-small-world-people-on-the-go-9781338684377.html" target="blank"><img src="meredithcook.github.io/images/peopleonthego.jpg" alt="People on the Go" style="width:250px;height:250px;padding:10px" align="center"></a></p>
 
 [*Big Planet, Small World: People on the Go*](https://shop.scholastic.com/teachers-ecommerce/teacher/books/big-planet-small-world-people-on-the-go-9781338684377.html){:target="_blank"}
 
