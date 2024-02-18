@@ -9,7 +9,7 @@ GA: G-DHPTC39GDF
 ---
 Our greatest desire for our kids is that they would believe the gospel. We pray for their salvation every day, specifically that the Lord would save them at a young age. 
 
-Beyond that, we desire to teach our kids about [gospel-centered obedience to the Great Commission](https://keelancook.com/2020/04/07/parents-lets-raise-up-missionaries/){:target="_blank"}. The Lord may or may not call them to missionary service, but we are convicted that all Christians should seek to obey the Great Commission. 
+Beyond that, we desire to teach our kids about [gospel-centered obedience to the Great Commission](https://keelancook.com/2020/04/07/parents-lets-raise-up-missionaries/){:target="_blank"}. The Lord may or may not call them to be full-time missionaries, but we are convicted that all Christians should seek to obey the Great Commission. 
 
 Our kids are 4 and 3, and I have spent a lot of time reading and researching books to help teach them about the nations in general and missions in specific. Below is a master list of books that I've read to my kids or look forward to reading to them as they grow older, sorted by age group. 
 
