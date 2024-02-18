@@ -21,7 +21,7 @@ I think it's because I've been struggling a lot with contentment, anxiety, and a
 
 Since becoming a mom, I have meditated frequently on the concept of "daily bread." We find it in the Lord's prayer, the one Jesus teaches to his disciples in the Sermon on the Mount (Matthew 6). It's a callback to the exodus, when God rescued Israel from slavery in Egypt. When the Israelites complained that they had no food, God provided manna for them—literally raining a bread-like substance from heaven to provide this basic need for His people. 
 
-Though daily bread likely refers to God's provision of physical needs, I think it's interesting that later in this same chapter, Jesus exhorts the disciples not to worry or be anxious. The Father knows that we have basic needs, like food and clothing. But the Father also knows we have bigger needs, bigger fears, bigger worries. Yet, "Don't worry about tomorrow," he says. He gives us what we need for each day—physical, emotional, and spiritual. And these daily provisions point us to a even greater reality.
+Though daily bread likely refers to God's provision of physical needs, I think it's interesting that later in this same chapter, Jesus exhorts the disciples not to worry or be anxious. The Father knows that we have basic needs, like food and clothing. But the Father also knows we have bigger needs, bigger fears, bigger worries. Yet, "Don't worry about tomorrow," he says. He gives us what we need for each day—physical, emotional, and spiritual. And these daily provisions point us to an even greater reality.
 
 ## Small Moments of Grace
 
