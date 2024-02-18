@@ -15,7 +15,7 @@ Our kids are 4 and 3, and I have spent a lot of time reading and researching boo
 
 Most of these books fit in one of two categories: missionary biographies or general world knowledge. Missionary biographies help us tell stories to our kids that illustrate to them how others have obeyed the Great Commission. Books about the world give kids a frame of reference for a world outside of the small one in which they currently live. Who knows? God may call us or our child to take the gospel to one of the countries we have learned about in these books! 
 
-## Age 0-4
+## Age 0 - 4
 <p align="center">
 <a href="https://shop.scholastic.com/teachers-ecommerce/teacher/books/big-planet-small-world-people-on-the-go-9781338684377.html" target="blank"><img src="meredithcook.github.io/images/peopleonthego.jpg" alt="People on the Go" style="width:250px;height:250px;padding:10px" align="center"></a></p>
 
@@ -23,23 +23,38 @@ Most of these books fit in one of two categories: missionary biographies or gene
 
 Disclaimer: I got this book for free at our local library, and I cannot find it anywhere but the Scholastic Teacher website. However, if you can find a copy, it's a great little book for exposing babies and toddlers to other countries. There are two others like it—one about celebrations and one about cuisine.
 
+<p align="center">
+<a href="https://amzn.to/3uCyRLZ" target="blank"><img src="meredithcook.github.io/images/GTE_6.jpg" alt="Go Tell Everyone" style="width:250px;height:250px;padding:10px" align="center"></a></p>
+
 [*Go Tell Everyone: 9 Missionaries Who Shared the Good News*](https://amzn.to/3uCyRLZ){:target="_blank"}
 
 This is my book, so I know it's a bit self-serving to list it here. However, [as I've written before](https://www.meredithcook.net/writing-a-children-book), one of the main reasons I wrote this book is because when my kids were babies, I had a hard time finding board books on missions or missionaries. I can't give you a neutral opinion on it, of course, so check it out and let me know what you think!
+
+<p align="center">
+<a href="https://amzn.to/3SJ8lIZ" target="blank"><img src="meredithcook.github.io/images/goodnightworld.jpg" alt="Good Night Our World" style="width:250px;height:250px;padding:10px" align="center"></a></p>
 
 [*Good Night Our World* series](https://amzn.to/3SJ8lIZ){:target="_blank"}
 
 My husband and I discovered this series while looking for a souvenir to bring from Virginia for our very young kids. This series is great for introducing kids to different places within the US, and there are a few international options, too.
 
-## Age 4-8
+## Age 4 - 8
+
+<p align="center">
+<a href="https://amzn.to/3OMBC45" target="blank"><img src="meredithcook.github.io/images/betsey.jpg" alt="Betsey Stockton" style="width:250px;height:300px;padding:10px" align="center"></a></p>
 
 [*Do Great Things for God series*](https://amzn.to/3OMBC45){:target="_blank"}
 
 The Good Book Company has produced several books on female missionaries (and other influential Christian women) that I've been excited to read to my kids. There are two that focus on women I included in my own book: [Betsey Stockton](https://amzn.to/3wbJSnO){:target="_blank"} and [Betty Greene](https://amzn.to/3OFzOtx){:target="_blank"}. I appreciate that there are [free downloads](https://www.thegoodbook.com/biography-freebies?fbclid=IwAR025SqwASQ38CNzpjvIP7kPLcPDiv0H9JHG9wyn1IL_zXndl2-0DFP3sxc){:target="_blank"} available for further discussion and study with older children. (Note: I actually emailed the Good Book Company and asked if they were developing a similar series for boys. They said yes, so I will add those in once they're available.)
 
+<p align="center">
+<a href="https://amzn.to/3SY3swN" target="blank"><img src="meredithcook.github.io/images/lottiemoon.jpg" alt="Lottie Moon" style="width:250px;height:300px;padding:10px" align="center"></a></p>
+
 [*Lottie Moon: The Girl Who Reached the World*](https://amzn.to/3SY3swN){:target="_blank"}
 
 My friend, Amy, wrote this book on the golden child of Southern Baptist missions. This book takes a closer look at Lottie Moon, describing how she shared the gospel in China and encouraged the American church to support missionaries—prayerfully and financially. Lottie paved the way for many others to become missionaries, so her story is worth telling to little girls and boys alike. 
+
+<p align="center">
+<a href="https://amzn.to/499v73z" target="blank"><img src="meredithcook.github.io/images/thisismyworld.jpg" alt="This is My World" style="width:250px;height:300px;padding:10px" align="center"></a></p>
 
 [*This is My World: Meet 84 Kids from Around the Globe*](https://amzn.to/499v73z){:target="_blank"}
 
@@ -47,13 +62,22 @@ This book, from Lonely Planet Kids, surveys kids from 84 different countries. I 
 
 ## Age 8 and up
 
+<p align="center">
+<a href="https://amzn.to/3T2u5kb" target="blank"><img src="meredithcook.github.io/images/hudsontaylor.jpg" alt="Hudson Taylor" style="width:250px;height:300px;padding:10px" align="center"></a></p>
+
 [*Christian Heroes: Then & Now* series](https://amzn.to/3T2u5kb){:target="_blank"}
 
 I'm looking forward to reading this series with my kids in a few years. It include almost 50 books, many on missionaries from Christian history—Adoniram Judson, Gladys Aylward, David Livingstone, and many others. This series builds on many of the same figures we read about in the books listed above. Through chapter books, older kids gain a broader picture of some of the complexities and hardships that come with the missionary life, while still understanding the joys of obedience to the Great Commission. 
 
+<p align="center">
+<a href="https://amzn.to/3uFZkIv" target="blank"><img src="meredithcook.github.io/images/kidatlas.jpg" alt="Children's Atlas" style="width:250px;height:300px;padding:10px" align="center"></a></p>
+
 [*Children's Illustrated Atlas*](https://amzn.to/3uFZkIv){:target="_blank"}
 
 Again, creating awareness of the world outside of the small one in which our kids live is always helpful in sparking conversations about missions. I would likely show this book to my kids earlier than age 8, but an atlas is a great way to help kids learn geography. An atlas like this one can help us focus on and learn details about specific countries.
+
+<p align="center">
+<a href="https://amzn.to/49Eckgv" target="blank"><img src="meredithcook.github.io/images/braveheroes.jpg" alt="Brave Heroes" style="width:250px;height:300px;padding:10px" align="center"></a></p>
 
 [*Brave Heroes and Bold Defenders: 50 True Stories of Daring Men of God*](https://amzn.to/49Eckgv){:target="_blank"}
 
