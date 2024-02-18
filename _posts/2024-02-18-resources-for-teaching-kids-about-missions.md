@@ -17,6 +17,8 @@ Most of these books fit in one of two categories: missionary biographies or gene
 
 ## Age 0-4
 
+<a href="https://shop.scholastic.com/teachers-ecommerce/teacher/books/big-planet-small-world-people-on-the-go-9781338684377.html" target="blank"><img src="meredithcook.github.io/images/peopleonthego.jpg" alt="People on the Go" style="width:250px;height:250px;padding:10px" align="center"></a><p>
+
 [*Big Planet, Small World: People on the Go*](https://shop.scholastic.com/teachers-ecommerce/teacher/books/big-planet-small-world-people-on-the-go-9781338684377.html){:target="_blank"}
 
 Disclaimer: I got this book for free at our local library, and I cannot find it anywhere but the Scholastic Teacher website. However, if you can find a copy, it's a great little book for exposing babies and toddlers to other countries. There are two others like it—one about celebrations and one about cuisine.
