@@ -8,9 +8,9 @@ tags: [reading, resources]
 GA: G-DHPTC39GDF
 ---
 
-February's reading roundup includes a bit of variety combined with several articles from Desiring God that really convicted me (Desiring God was rather rude to me this month!). The list also includes some articles that I didn't necessarily enjoy, but felt were important reads. 
+February's reading roundup includes a bit of variety combined with several articles from Desiring God that really convicted me (Desiring God was rather rude to me this month!). I'm also rarely triggered by what I see on the internet, but the last article in this list made me want to punch something. 
 
-And here they are: 
+Without further ado, here they are: 
 
 ### [Vetting Kids' Entertainment Isn't a One-and-Done](https://www.thegospelcoalition.org/article/vetting-kids-entertainment/){:target="_blank"}
 Brett McCracken
@@ -72,7 +72,7 @@ If there was an article that poked on one of my biggest idols, this would be it.
 Jennifer Valentino-DeVries and Michael H. Keller
 <br>New York Times
 
-I included a similar article last month, but to be quite honest, I think that articles like this are so important. They bring to light the effects that social media, and particularly influencer culture, are having on our children. To be quite honest, this one made me want to punch a wall—and not because the article itself exists but because of the exploitation of children described in it. So I'll keep my hot-take commentary to myself and just recommend that you read it, despite how uncomfortable it might make you feel. 
+I included a similar article last month, but to be quite honest, I think that articles like this are so important. They bring to light the effects that social media, and particularly influencer culture, are having on our children. To be quite honest, this article infuriated me—and not because the article itself exists but because of the exploitation of children described in it. So I'll keep my hot-take commentary to myself and just recommend that you read it, despite how uncomfortable it might make you feel. 
 
 
 *You can find last month's roundup [here](https://www.meredithcook.net/reading-roundup-january-2024).*
