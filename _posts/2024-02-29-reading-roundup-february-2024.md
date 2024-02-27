@@ -44,7 +44,7 @@ This article has lived rent-free in my head since I read it. If anyone has a rea
 
 *"I will not coddle anything that helped drive the nails deeper. I relinquished my right to complain so that I might glorify Almighty God through my hardships. Anything less shrinks my soul."*
 
-## [Start the Day Happy in God: The Lost Art of Bible Meditation](https://www.desiringgod.org/articles/start-the-day-happy-in-god){:target="_blank"}
+### [Start the Day Happy in God: The Lost Art of Bible Meditation](https://www.desiringgod.org/articles/start-the-day-happy-in-god){:target="_blank"}
 David Mathis
 <br>Desiring God
 
