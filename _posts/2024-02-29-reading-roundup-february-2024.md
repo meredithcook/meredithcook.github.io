@@ -36,8 +36,6 @@ This article is almost 10 years old, but I only just discovered it this month. I
 
 *"The sloth is a comfort control freak — an illusion of power that robs all our true joy... When we get overly comfortable with something, we start to sink into spiritual slumber. And then lightning falls from the sky. The comfort is taken away, and we are jolted back to spiritual alertness.”*
 
-Related: [How to Fight the Anxiety That Makes You Want to Hover](https://letgrow.org/fight-anxiety/){:target="_blank"}
-
 ### [Worse Than Any Affliction: Why I Refuse to Grumble](https://www.desiringgod.org/articles/worse-than-any-affliction){:target="_blank"}
 Joni Eareckson Tada
 <br>Desiring God
