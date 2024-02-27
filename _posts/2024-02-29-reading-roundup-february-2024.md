@@ -16,7 +16,9 @@ Without further ado, here they are:
 Brett McCracken
 <br>TGC
 
-Media and screentime can be a hot button issue among parents. Full disclosure—we've chosen to go the extremely minimalist route and our kids get very little screentime (typically only 30 minutes per week). I'd love to write more on our approach and why we chose that method, but that's a different article for a different time. I realize that most families are not quite as extreme in their approach, which is why I appreciate McCracken's article. As we and other families continuously reevaluate how we handle media and screens with our kids, McCracken gives some helpful guidelines that encourage parents to make that an ongoing conversation and process, that can guide us even through the teen years. Here is a key quote:
+Media and screentime can be a hot button issue among parents. Full disclosure—we've chosen to go the extremely minimalist route and our kids get very little screentime (typically only 30 minutes per week). I'd love to write more on our approach and why we chose that method, but that's a different article for a different time. 
+
+I realize that most families are not quite as extreme in their approach, which is why I appreciate McCracken's article. As we and other families continuously reevaluate how we handle media and screens with our kids, McCracken gives some helpful guidelines that encourage parents to make that an ongoing conversation and process, that can guide us even through the teen years. Here is a key quote:
 
 *"Be concerned for the formative power of media on your soul too, and let that be part of the conversation with your kids."*
 
