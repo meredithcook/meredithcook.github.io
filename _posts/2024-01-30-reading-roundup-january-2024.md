@@ -4,7 +4,7 @@ title: Reading Roundup- January 2024
 date: 2024-01-30
 description: Every month, I offer a list of articles (and sometimes books) that I believe are worthwhile reads.
 image: '/images/roundup.jpg' # Add image post (optional)
-tags: [reading, resources]
+tags: [reading, articles]
 GA: G-DHPTC39GDF
 ---
 
