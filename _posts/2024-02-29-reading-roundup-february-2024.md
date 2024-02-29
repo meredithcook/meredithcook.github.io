@@ -75,4 +75,4 @@ Jennifer Valentino-DeVries and Michael H. Keller
 I included a similar article last month, but to be quite honest, I think that articles like this are so important. They bring to light the effects that social media, and particularly influencer culture, are having on our children. To be quite honest, this article infuriated me—and not because the article itself exists but because of the exploitation of children described in it. So I'll keep my hot-take commentary to myself and just recommend that you read it, despite how uncomfortable it might make you feel. 
 
 
-*You can find last month's roundup [here](https://www.meredithcook.net/reading-roundup-january-2024).*
+*You can find previous roundups [here](https://www.meredithcook.net/tags/#articles).*
