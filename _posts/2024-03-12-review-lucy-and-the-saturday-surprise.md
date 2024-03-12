@@ -33,7 +33,7 @@ Crossway, 2023
 <br>
 <b>Pros:</b>
 <ul>
-<li>After <a href= "https://www.meredithcook.net/review-charlie-and-the-preschool-prodigal"><i>Charlie and the Preschool Prodigal</i></a>, this is probably my kids' favorite out of the <a href= "https://amzn.to/3wNxKd3" target= "blank"><i>TGC Kids</i></a> book series. They enjoy pointing out the "easter eggs" of characters from other books in the series. (Arlo, of <a href= "https://amzn.to/3PhGxKG" target= "blank"><i>Arlo and the Great Big Cover-Up</i></a> shows up in the background of this one and Lucy shows up in *Charlie and the Preschool Prodigal*.)</li> 
+<li>After <a href= "https://www.meredithcook.net/review-charlie-and-the-preschool-prodigal"><i>Charlie and the Preschool Prodigal</i></a>, this is probably my kids' favorite out of the <a href= "https://amzn.to/3wNxKd3" target= "blank"><i>TGC Kids</i></a> book series. They enjoy pointing out the "easter eggs" of characters from other books in the series. (Arlo, of <a href= "https://amzn.to/3PhGxKG" target= "blank"><i>Arlo and the Great Big Cover-Up</i></a> shows up in the background of this one and Lucy shows up in <i>Charlie and the Preschool Prodigal</i>.)</li> 
 <br>
 <li>In this season with my kids, <i>Lucy and the Saturday Surprise</i> is the book I've called back to most often when talking to my kids about their character. It helps to have a tangible example from a book they love when they're struggling with lying or jealousy.</li> 
 <br>
