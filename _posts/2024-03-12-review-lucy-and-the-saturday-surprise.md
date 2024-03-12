@@ -37,7 +37,7 @@ Crossway, 2023
 <br>
 <li>In this season with my kids, <i>Lucy and the Saturday Surprise</i> is the book I've called back to most often when talking to my kids about their character. It helps to have a tangible example from a book they love when they're struggling with lying or jealousy.</li> 
 <br>
-<li>I like that the book emphasized confession as an important part of turning from coveting—and not just confession to God but confession to the person you wronged through your coveting. There is freedom in bringing sin to light in the community of fellow believers. </li> 
+<li>I like that the book emphasized confession as an important part of turning from coveting, and not just confession to God but confession to the person you wronged through your coveting. There is freedom in bringing sin to light in the community of fellow believers. </li> 
 <br>
 <li>I appreciate that these books also show positive examples of how we should respond when someone does something wrong. For example, Lucy's dad helps her understand her own actions, graciously corrects her, and encourages her to do the right thing by confessing to Lewis what she had done. Likewise, Lewis is gracious in his response and gives kids an example of how they should respond when someone wrongs them.</li> 
 </ul>
