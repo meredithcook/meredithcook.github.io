@@ -17,7 +17,7 @@ When I'm not supplying my kids with snacks, taking them to the playground, or re
 
 ## Writing
 
-* [Lifeway Research](ttps://research.lifeway.com/2020/03/31/why-our-worship-and-spiritual-walk-needs-repetition/){:target="_blank"}
+* [Lifeway Research](https://research.lifeway.com/2024/03/13/7-ideas-for-teaching-children-in-your-church-about-missions/){:target="_blank"}
 * [Center for Great Commission Studies](https://www.thecgcs.org/resources/post/how-parents-can-teach-kids-about-missions/){:target="_blank"}
 * [IMB](https://www.imb.org/?s=meredith+cook&sort=relevant&filter_type=post%2Carticles){:target="_blank"}
 * [The Upstream Collective](https://www.theupstreamcollective.org/post/use-the-holidays-to-your-evangelistic-advantage){:target="_blank"}
