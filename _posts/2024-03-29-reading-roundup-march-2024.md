@@ -18,6 +18,7 @@ Challies points out how those who seemed to be most used by God or revered by Sc
 
 *"The fact is, the God who used spit and dust to cure a man of his blindness can most certainly make use of you...Contentment comes when we accept what God has given us and commit it to his cause, no matter how great or how small it seems to our eyes."*
 
+---
 ### [Share Even What's Sparse](https://biblestudynerd.home.blog/2024/02/06/share-even-whats-sparse/){:target="_blank"}
 Cindy Matson
 <br>Bible Study Nerd
@@ -26,6 +27,7 @@ Cindy Matson confronts the lie that we can only share what we have in abundance.
 
 *"Our job is not to weigh out the cost and benefit. Our responsibility is merely to be faithful stewards of what He’s entrusted to us, whether in plenty or scarcity."*
 
+---
 ### [Redeem Your Free Time](https://redeemingproductivity.com/redeem-your-free-time/){:target="_blank"}
 Reagan Rose
 <br>Redeeming Productivity
@@ -34,6 +36,7 @@ We have a theme here. The last few years have forced me to reckon with my idea o
 
 *"The less time I spend on devices in my free time, the less busy I feel and, therefore, the more rested I feel."*
 
+---
 ### [God Is Good and Does Good—Even in Our Pain](https://www.thegospelcoalition.org/article/god-good-pain/){:target="_blank"}
 Garrett Kell
 <br>TGC
@@ -42,6 +45,7 @@ George Mueller, a man famous for his work with orphans and writing on prayer, wa
 
 *"If God gave us Jesus, what good would he ever withhold from us?"*
 
+---
 ### [Patrick of Ireland: The Unlikely Hero of Church History](https://www.thegospelcoalition.org/article/patrick-ireland-hero-history/){:target="_blank"}
 Bradley Bell
 <br>TGC
@@ -50,6 +54,7 @@ St. Patrick is one of my favorite missionary stories from church history. Kidnap
 
 *"Patrick’s deepest troubles only served to heighten his greatest triumphs. God’s strength was perfected in his weakness.”*
 
+---
 ### [If a Millennial Is Born and No One Records It on Their Phone, Do They Really Exist?](https://www.digitalliturgies.net/p/if-a-millennial-is-born-and-no-one?utm_campaign=email-post&r=2u6bq&utm_source=substack&utm_medium=email){:target="_blank"}
 Samuel D. James
 <br>Digital Liturgies
@@ -58,6 +63,7 @@ But I remember, in college, feeling like if I didn't post something I did to Fac
 
 *"Either you are becoming more visible, more vulnerable, more active, more engaged, and more 'accessible'—or you may not exist at all."*
 
+---
 ### [Why We Can Be Patient When Sleep Deprived](https://www.thegospelcoalition.org/article/patient-sleep-deprived/){:target="_blank"}
 Rachel McIntosh
 <br>TGC
@@ -66,6 +72,7 @@ I am not good at being tired. But I am still responsible for how I act, respond 
 
 *"When I give in to impatience, it’s because I chose to, not because I couldn’t help it. Sin is not a foregone conclusion because we have the Spirit in us."*
 
+---
 ### [I Feel I Think I Believe](https://www.challies.com/articles/i-feel-i-think-i-believe/){:target="_blank"}
 Tim Challies
 <br>challies.com
@@ -74,12 +81,14 @@ This is one from the archives, but still relevant for us today. I constantly use
 
 *"Feelings will not sustain us when the world turns against us. Feelings will not sustain us when enemies rise up to oppose our faith. Feelings will not sustain us in the face of compelling arguments against the Bible, against creation, against the resurrection. Only strong convictions grounded upon well-formed thoughts will be enough in that day."*
 
+---
 ### [‘Ghost Army’ that fooled Hitler will receive Congress’s highest honor](https://www.washingtonpost.com/history/2024/03/18/ghost-army-wwii-congressional-gold-medal/){:target="_blank"}
 Christopher Klein
 <br>The Washington Post
 
 This was probably my favorite article I read this month. I'm fascinated by World War II and this was a story I had never heard before. It sounds like this group is finally getting the recognition they deserve. (Side note- did anyone else get "The Battle of Schrute Farms" vibes reading this?)
 
+---
 ### [Why Children Need Risk, Fear, and Excitement in Play](https://www.afterbabel.com/p/why-children-need-risk-fear-and-excitement){:target="_blank"}
 Mariana Brussoni
 <br>After Babel
