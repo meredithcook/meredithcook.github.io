@@ -24,7 +24,8 @@ When I'm not supplying my kids with snacks, taking them to the playground, or re
 * [The Center for Faith and Culture](https://cfc.sebts.edu/faith-and-work/women-seminary-professors/"){:target="_blank"}
 * [keelancook.com](https://keelancook.com/2016/04/29/your-churchs-continued-responsibility-for-its-sent-ones/){:target="_blank"}
 
-## Podcasts
+## Interviews
 
 * [The Sent Life](https://www.thecgcs.org/resources/podcast/how-to-talk-to-our-kids-about-missions/"){:target="_blank"}
 * [More Than Money](https://www.artrainer.com/podcast/episode/7a0a2eb3/episode-244-or-6-ways-parents-can-teach-kids-about-missions-or-guest-meredith-cook){:target="_blank"}
+* [Hope Today](https://ctvn.org/episodepages/hope-today-ht040424/){target="_blank"}
