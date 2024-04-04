@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Lucy and the Saturday Surprise (Crossway, 2023)
+title: Lucy and the Saturday Surprise (B&H Kids, 2023)
 date: 2024-03-12
 description: My review of "Lucy and the Saturday Surprise" by Melissa B. Kruger.
 image: '/images/kidbookreview.jpg' # Add image post (optional)
 tags: [book-review]
 GA: G-DHPTC39GDF
+published: false
 ---
 
 *Note: Periodically I'll post book reviews to serve as a resource for readers looking for recommendations. I plan to include books for adults as well as kids' books. Very few of these reviews will be on new releases. If you're like me and are about two to three years behind on your reading, then this section is for you! You can find other book reviews [here](https://www.meredithcook.net/tags/#book-review).* 
