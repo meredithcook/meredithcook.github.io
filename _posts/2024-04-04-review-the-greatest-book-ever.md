@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Lucy and the Saturday Surprise (B&H Kids, 2023)
+title: The Greates Book Ever (B&H Kids, 2023)
 date: 2024-03-12
-description: My review of "Lucy and the Saturday Surprise" by Melissa B. Kruger.
+description: My review of "The Greatest Book Ever" by Teresa Joyelle Krager.
 image: '/images/kidbookreview.jpg' # Add image post (optional)
 tags: [book-review]
 GA: G-DHPTC39GDF
@@ -13,24 +13,22 @@ published: false
 
 <p align="center">
 
-<a href="https://amzn.to/48TsrGq" target="blank"><img src="meredithcook.github.io/images/lucycover.jpg" alt="Lucy and the Saturday Surprise" style="width:300px;height:300px;padding:10px" align="center"></a></p>
+<a href="https://amzn.to/3U5qWRa" target="blank"><img src="meredithcook.github.io/images/greatestbook.jpg" alt="The Greatest Book Ever" style="width:300px;height:300px;padding:10px" align="center"></a></p>
 <p>
-<b><a href= "https://amzn.to/48TsrGq" target= "blank"><i>Lucy and the Saturday Surprise</i></a></b>
+<b><a href= "https://amzn.to/3U5qWRa" target= "blank"><i>The Greatest Book Ever</i></a></b>
 <br> 
-Melissa B. Kruger
+Teresa Joyelle Krager
 <br>
-Crossway, 2023
+B&H Kids, 2023
 <br>
 <br>
 <b>Summary</b>
 <br>
-    On a lazy Saturday morning, Lucy and her brother go to the grocery store with their dad to buy supplies for dad's famous french toast. Dad lets Lucy and Lewis each choose a treat, but on the way home Lucy's chocolate melts! Lucy is jealous that her brother gets to enjoy his lollipop all day. She grows increasingly bitter, coveting Lewis's treat and eventually sneaks a bite of it. As she tries to hide her actions, she learns an important lesson about jealousy, confession, and forgiveness.
-<br>
+<i>The Greatest Book Ever</i> is a book about the <i>actual</i> greatest book ever, the Bible! Krager's book outlines stories of heroes (or anti-heroes) and their adventures, kings and queens, important battles, floods, miracles, and of course, good news for the whole world—all of which are contained in God's word. <i>The Greatest Book Ever</i> refers to forty Bible stories through catchy rhymes, all the while pointing kids to the greatest story ever: the gospel of Jesus Christ. Krager encourages kids ages four to eight to read God's word for themselves to find out more about the stories listed in her book.
 <br>
 <b>Review</b>
 <br>
-<i>Lucy and the Saturday Surprise</i> illustrates to kids the toll that jealousy and coveting take on us. Left unchecked, covetous desires affect every relationship we have—with God, with others, and with ourselves. <i>Lucy</i> teaches kids 1) that we must live with our choices, even if they don't work out quite like we'd hoped and 2) actions have consequences and owning up to our mistakes (instead of hiding them) leads to freedom. This book is helpful for parents whose kids are struggling with jealousy and lying.
-<br>
+In <i>The Greatest Book Ever</i>, Teresa Joyelle Krager somehow manages to illustrate how Bible stories both stand alone as testaments to God's character and sustaining grace throughout redemptive history, while still illustrating that Scripture is a grand narrative that ultimately points to Christ. The book is chock-full of references to Bible stories in the Old Testament and then turns its focus to Jesus for the remainder of the book. Though the book lacks any references to New Testament stories past Jesus, it is ultimately a celebration of Scripture with vibrant, adorable illustrations and easy-to-read rhymes that make it an enjoyable read aloud for parents and kids alike.
 <br>
 <b>Pros:</b>
 <ul>
