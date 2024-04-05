@@ -6,7 +6,6 @@ description: My review of "The Greatest Book Ever" by Teresa Joyelle Krager.
 image: '/images/kidbookreview.jpg' # Add image post (optional)
 tags: [book-review]
 GA: G-DHPTC39GDF
-published: false
 ---
 
 *Note: Periodically I'll post book reviews to serve as a resource for readers looking for recommendations. I plan to include books for adults as well as kids' books. Very few of these reviews will be on new releases. If you're like me and are about two to three years behind on your reading, then this section is for you! You can find other book reviews [here](https://www.meredithcook.net/tags/#book-review).* 
@@ -28,33 +27,31 @@ B&H Kids, 2023
 <br>
 <b>Review</b>
 <br>
-In <i>The Greatest Book Ever</i>, Teresa Joyelle Krager somehow manages to illustrate how Bible stories both stand alone as testaments to God's character and sustaining grace throughout redemptive history, while still illustrating that Scripture is a grand narrative that ultimately points to Christ. The book is chock-full of references to Bible stories in the Old Testament and then turns its focus to Jesus for the remainder of the book. Though the book lacks any references to New Testament stories past Jesus, it is ultimately a celebration of Scripture with vibrant, adorable illustrations and easy-to-read rhymes that make it an enjoyable read aloud for parents and kids alike.
+In <i>The Greatest Book Ever</i>, Teresa Joyelle Krager somehow manages to illustrate how Bible stories both stand alone as testaments to God's character and sustaining grace throughout redemptive history, while still illustrating that Scripture is a grand narrative that ultimately points to Christ. The book is chock-full of references to Bible stories in the Old Testament and then turns its focus to Jesus for the remainder of the book. Though the book lacks any references to New Testament stories past Jesus, it is ultimately a celebration of Scripture with vibrant illustrations and easy-to-read rhymes that make it an enjoyable read aloud for parents and kids alike.
 <br>
 <b>Pros:</b>
 <ul>
-<li>After <a href= "https://www.meredithcook.net/review-charlie-and-the-preschool-prodigal"><i>Charlie and the Preschool Prodigal</i></a>, this is probably my kids' favorite out of the <a href= "https://amzn.to/3wNxKd3" target= "blank"><i>TGC Kids</i></a> book series. They enjoy pointing out the "easter eggs" of characters from other books in the series. (Arlo, of <a href= "https://amzn.to/3PhGxKG" target= "blank"><i>Arlo and the Great Big Cover-Up</i></a> shows up in the background of this one and Lucy shows up in <i>Charlie and the Preschool Prodigal</i>.)</li> 
+<li>I love that this book points out stories and Bible characters that are not included in some of the other books we've read to our kids about the Bible. Krager mentions Deborah, Elisha, Esther, Gideon, and others. I'm sure there are other kids' books that mention these characters, but we just haven't read those to our kids, so I appreciated the introduction to what are lesser known characters to my kids.</li> 
 <br>
-<li>In this season with my kids, <i>Lucy and the Saturday Surprise</i> is the book I've called back to most often when talking to my kids about their character. It helps to have a tangible example from a book they love when they're struggling with lying or jealousy.</li> 
+<li>The rhymes are catchy and the illustrations are amazing. This makes it a fun book to read out loud. It also really does show how exciting the Bible is and can draw kids towards reading more about these stories for themselves. </li> 
 <br>
-<li>I like that the book emphasized confession as an important part of turning from coveting, and not just confession to God but confession to the person you wronged through your coveting. There is freedom in bringing sin to light in the community of fellow believers. </li> 
-<br>
-<li>I appreciate that these books also show positive examples of how we should respond when someone does something wrong. For example, Lucy's dad helps her understand her own actions, graciously corrects her, and encourages her to do the right thing by confessing to Lewis what she had done. Likewise, Lewis is gracious in his response and gives kids an example of how they should respond when someone wrongs them.</li> 
+<li>The last pages include a list of all the Scripture references to the stories listed in the book and a parent connection to help facilitate discussion about the book with your child. The list of Scripture references is the highlight of the book. It makes it so easy for parents to find each story in the Bible and read it to their kids. I also like that the parent connection is included in the book so I don't have to take the extra step of looking for it online (lazy, I know). </li> 
 </ul>
 <b>Cons:</b>
 <br>
 <br>
 <ul>
-<li>I'm not convinced that the book defines the word "coveting" in a way that really makes sense to kids. I frequently feel like I need to simplify the language even further for my kids, even though they're both within the age range for this book.</li>
+<li>Overall, I enjoy reading rhyming books to my kids. But I thought this one, like most other rhyming books, sometimes just missed the mark, either by forcing rhymes or getting off-rhythm. I often wonder if I'm just not reading the rhythm correctly, but this is always a challenge with rhyming books.</li>
 <br>
-<li>As I mentioned in my review of <i>Charlie and the Preschool Prodigal</i>, I appreciate the "Note to Grown-Ups," but I think these books would benefit from a few discussion questions for parents who might not know how to help their kids critically think about the principals in this book.</li>
+<li>I would have liked to see more stories from the New Testament after the church was established, but I realize space constraints and the ultimate purpose of the book lend toward ending it with Jesus. This is how it should have ended, but I wonder if the parent connection or Scripture listing could have been tailored to encourage further reading in the New Testament. </li>
 </ul> 
 <br>
 <b>Who Should Read This Book:</b>
 <br>
-	This book is a helpful resource for parents and teachers of preschool-age children who desire to instill biblical truths in their kids in a compelling way. Christian parents of young children are most likely to pick up this book and read it to their kids.
+	Any parent who wishes to spark curiosity and instill a love of the Bible in their kids will find this book a great resource. This book would also be a great resource for families who are interested in, but not as familiar, with the Bible. Parents can learn where to find these stories alongside their kids!
 <br>
 <br>
 <b>Favorite Quotes:</b>
 <br>
-<i>"When you feel envy toward someone, it's best to confess what you are feeling to someone you trust."</i>
+<i>"Read how God's Son died for everyone's sin. Men, women, and children, all heroes need Him."</i>
 <br>
