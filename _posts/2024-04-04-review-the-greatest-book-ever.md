@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Greates5 Book Ever (B&H Kids, 2023)
+title: The Greatest Book Ever (B&H Kids, 2023)
 date: 2024-04-05
 description: My review of "The Greatest Book Ever" by Teresa Joyelle Krager.
 image: '/images/kidbookreview.jpg' # Add image post (optional)
