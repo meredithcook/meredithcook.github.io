@@ -29,3 +29,4 @@ When I'm not supplying my kids with snacks, taking them to the playground, or re
 * [The Sent Life](https://www.thecgcs.org/resources/podcast/how-to-talk-to-our-kids-about-missions/"){:target="_blank"}
 * [More Than Money](https://www.artrainer.com/podcast/episode/7a0a2eb3/episode-244-or-6-ways-parents-can-teach-kids-about-missions-or-guest-meredith-cook){:target="_blank"}
 * [Hope Today (Cornerstone Television Network)](https://ctvn.org/episodepages/hope-today-ht040424/){:target="_blank"}
+* [Significant Women Podcast with Carol McLeod](https://www.carolmcleodministries.com/significant-podcast/2024/4/19/whats-the-great-commission-episode-16)){:target="_blank"}
