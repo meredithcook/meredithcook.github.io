@@ -2,7 +2,7 @@
 layout: post
 title: Introducing Spiritual Disciplines to Our Toddlers- Worship
 date: 2024-04-22
-description: I realized recently is that we've been teaching our kids the spiritual discipline of worship, often without realizing it. Spoiler alert- we're not doing a great job at this!
+description: I realized recently that we've been teaching our kids the spiritual discipline of worship, often without realizing it. Spoiler alert- we're not doing a great job at this! So this is my attempt at processing what we are doing and how we can improve.
 image: '/images/worship2.jpg' # Add image post (optional)
 tags: [spiritual-disciplines, parenting]
 GA: G-DHPTC39GDF
