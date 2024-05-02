@@ -9,7 +9,7 @@ GA: G-DHPTC39GDF
 ---
 I'm a few days behind on this one, thanks to our family passing around what my 3-year-old calls, the "bug in my tummy." Sharing is caring...until it's not! 
 
-This month's articles included a lot of encouraging reminders that seemed to specifically address my struggles this month plus a few good entertainment pieces listed at the bottom. 
+April's articles included a lot of encouraging reminders that seemed to specifically address my struggles this month plus a few good entertainment pieces listed at the bottom. 
 
 ### [Run to the Rock When Life Causes You to Faint in Psalm 61](https://facinglossblog.com/run-to-the-rock-when-life-causes-you-to-faint-in-psalm-61/){:target="_blank"}
 D. Ray Davis
