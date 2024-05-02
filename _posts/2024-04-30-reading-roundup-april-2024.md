@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Reading Roundup- April 2024
-date: 2024-04-30
+date: 2024-05-02
 description: Every month, I offer a list of articles (and sometimes books) that I believe are worthwhile reads.
 image: '/images/roundup.jpg' # Add image post (optional)
 tags: [reading, articles]
 GA: G-DHPTC39GDF
 ---
+I'm a few days behind on this one, thanks to our family passing around what my 3-year-old calls, the "bug in my tummy." Sharing is caring...until it's not! 
 
+This month's articles included a lot of encouraging reminders that seemed to specifically address my struggles this month plus a few good entertainment pieces listed at the bottom. 
 
 ### [Run to the Rock When Life Causes You to Faint in Psalm 61](https://facinglossblog.com/run-to-the-rock-when-life-causes-you-to-faint-in-psalm-61/){:target="_blank"}
 D. Ray Davis
@@ -47,7 +49,7 @@ This is an older one I came across while looking for something else. But it's a 
 Tim Challies
 <br>challies.com
 
-I told you there were a few Challies articles this month. As I considered my response to a younger friend who asked me if life would ever get less busy, this article was a great encouragement to answer her with grace and honesty. As I move into an age where I look at people in their 20s and am tempted to dismiss or scoff at their perspective of busyness, this was a much needed read from someone more mature than me. Also, the hyperlink to this article made me laugh. I don't know if that was his original title and he changed it without changing the hyperlink, but it struck me as funny nonetheless. 
+There were a few Challies articles this month. As I considered my response to a younger friend who asked me if life would ever get less busy, this article was a great encouragement to answer her with grace and honesty. As I move into an age where I look at people in their 20s and am tempted to dismiss or scoff at their perspective of busyness, this was a much needed read from someone more mature than me. Also, the hyperlink to this article made me laugh. I don't know if that was his original title and he changed it without changing the hyperlink, but it struck me as funny nonetheless. 
 
 *"It’s wrong of me to make light of their little sorrows by comparing them to their future greater sorrows. It’s right of me to support them as they build the strength and endurance that will carry them into and through the trials to come.”*
 
