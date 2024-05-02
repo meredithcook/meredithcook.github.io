@@ -84,19 +84,19 @@ Daily life with two little ones is full of a thousand interruptions, and I admit
 
 I read several fascinating and/or entertaining articles this month that I'm listing below: 
 
-### [How do you get siblings to be nice to each other? These Latino families have an answer](https://www.washingtonpost.com/history/2024/03/18/ghost-army-wwii-congressional-gold-medal/){:target="_blank"}
+[How do you get siblings to be nice to each other? These Latino families have an answer](https://www.washingtonpost.com/history/2024/03/18/ghost-army-wwii-congressional-gold-medal/){:target="_blank"}
 NPR
 <br>
 
-### [Nothing Could Prepare Me for the Bizarre "Live Birth" Experience at Babyland Hospital](https://www.thrillist.com/travel/nation/cabbage-patch-kids-babyland-general-hospital-georgia){:target="_blank"}
+[Nothing Could Prepare Me for the Bizarre "Live Birth" Experience at Babyland Hospital](https://www.thrillist.com/travel/nation/cabbage-patch-kids-babyland-general-hospital-georgia){:target="_blank"}
 Thrillist
 <br>
 
-### [The Day I Put $50,000 in a Shoe Box and Handed It to a Stranger](https://www.thecut.com/article/amazon-scam-call-ftc-arrest-warrants.html){:target="_blank"}
+[The Day I Put $50,000 in a Shoe Box and Handed It to a Stranger](https://www.thecut.com/article/amazon-scam-call-ftc-arrest-warrants.html){:target="_blank"}
 The Cut
 <br>
 
-### [Chicken Littles are Ruining America](https://www.theatlantic.com/ideas/archive/2024/01/cultural-pessimism-america-self-fulfilling-effects/677261/?utm_source=pocket_saves){:target="_blank"}
+[Chicken Littles are Ruining America](https://www.theatlantic.com/ideas/archive/2024/01/cultural-pessimism-america-self-fulfilling-effects/677261/?utm_source=pocket_saves){:target="_blank"}
 The Atlantic
 <br>
 
