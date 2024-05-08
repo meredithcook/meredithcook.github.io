@@ -12,7 +12,7 @@ GA: G-DHPTC39GDF
 
 <p align="center">
 
-<a href="https://amzn.to/4a9jhGu" target="blank"><img src="meredithcook.github.io/images/habitsofthehousehold.jpg" alt="Habits of the Household" style="width:300px;height:500px;padding:10px" align="center"></a></p>
+<a href="https://amzn.to/4a9jhGu" target="blank"><img src="meredithcook.github.io/images/habitsofthehousehold.jpg" alt="Habits of the Household" style="width:300px;height:400px;padding:10px" align="center"></a></p>
 <p>
 <b><a href= "https://amzn.to/4a9jhGu" target= "blank"><i>Habits of the Household: Practicing the Story of God in Everyday Family Rhythms</i></a></b>
 <br> 
@@ -28,18 +28,17 @@ Zondervan, 2021
 <br>
 <b>Review</b>
 <br>
-<i>I'm convinced that the funniest and least true thing a family can say is any sentence that starts with "When life calms down..." for life seems to be full of increasing busyness with very brief moments of calm in between. That is why it is vital to be proactive about stewarding our time well. That can start with implementing habits that allow us to create healthy rhythms in our households. <i> Habits of the Household </i> is a helpful book that gives parents theoretical and practical tips to proactively use parts of their day—such as waketimes, meals, playtime, bedtime, and more—to teach and disciple their kids to know and love God, and to love and serve others. While most readers may not find all of Earley's categories applicable, <i>Habits</i> is a great resource for families seeking to become better stewards of their time.
+I'm convinced that the funniest and least true thing a family can say is any sentence that starts with "When life calms down...", for life seems to be full of increasing busyness with very brief moments of calm in between. That is why it is vital to be proactive about stewarding our time well. That can start with implementing habits that allow us to create healthy rhythms in our households. <i>Habits of the Household</i> is a helpful book that gives parents theoretical and practical tips to proactively use parts of their day—such as waketimes, meals, playtime, bedtime, and more—to teach and disciple their kids to know and love God, and to love and serve others. While most readers may not find all of Earley's categories applicable, <i>Habits</i> is a great resource for families seeking to become better stewards of their time.
 <br>
 <br>
 <b>Pros:</b>
 <ul>
-<li>I've read a lot of books on habits and habit formation, but this is the first I've seen that's written specifically for Christian families that's not just about spiritual disciplines (not that there's anything wrong with spiritual discipline books, of course!). The book addresses the broader category of habit formation in other areas of family life, but tailored for a more niche audience.</li> 
+<li>I've read a lot of books on habits and habit formation, but this is the first I've seen that's written specifically for Christian families—that's not just about spiritual disciplines (not that there's anything wrong with spiritual discipline books, of course!). The book addresses the broader category of habit formation in other areas of family life, but tailored for a more niche audience.</li> 
 <br>
 <li>Earley's framework is accessible and addresses categories that likely fit most families. He also combines the theoretical with practical tips and ideas on how to tailor his categories for your family in different seasons or for families with different needs.</li> 
 <br>
 <li>Many books on habit formation can, intentionally or not, encourage self-centered motivations and somewhat insulated living for the sake of productivity, growth, etc. <i>Habits of the Household</i> pushes back on this notion and shows how habit formation can be both spurred on by love of God and others and foster more of it in our families. </li> 
 <br>
-<li>I appreciate that these books also show positive examples of how we should respond when someone does something wrong. For example, Lucy's dad helps her understand her own actions, graciously corrects her, and encourages her to do the right thing by confessing to Lewis what she had done. Likewise, Lewis is gracious in his response and gives kids an example of how they should respond when someone wrongs them.</li> 
 </ul>
 <b>Cons:</b>
 <br>
