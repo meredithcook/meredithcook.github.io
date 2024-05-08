@@ -12,7 +12,7 @@ GA: G-DHPTC39GDF
 
 <p align="center">
 
-<a href="https://amzn.to/4a9jhGu" target="blank"><img src="meredithcook.github.io/images/habitsofthehousehold.jpg" alt="Habits of the Household" style="width:300px;height:400px;padding:10px" align="center"></a></p>
+<a href="https://amzn.to/4a9jhGu" target="blank"><img src="meredithcook.github.io/images/habitsofthehousehold.jpg" alt="Habits of the Household" style="width:300px;height:425px;padding:10px" align="center"></a></p>
 <p>
 <b><a href= "https://amzn.to/4a9jhGu" target= "blank"><i>Habits of the Household: Practicing the Story of God in Everyday Family Rhythms</i></a></b>
 <br> 
