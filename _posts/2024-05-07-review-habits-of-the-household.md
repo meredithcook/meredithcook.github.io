@@ -38,7 +38,6 @@ I'm convinced that the funniest and least true thing a family can say is any sen
 <li>Earley's framework is accessible and addresses categories that likely fit most families. He also combines the theoretical with practical tips and ideas on how to tailor his categories for your family in different seasons or for families with different needs.</li> 
 <br>
 <li>Many books on habit formation can, intentionally or not, encourage self-centered motivations and somewhat insulated living for the sake of productivity, growth, etc. <i>Habits of the Household</i> pushes back on this notion and shows how habit formation can be both spurred on by love of God and others and foster more of it in our families. </li> 
-<br>
 </ul>
 <b>Cons:</b>
 <br>
