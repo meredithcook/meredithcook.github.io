@@ -8,7 +8,7 @@ tags: [parenting]
 comments: true
 GA: G-DHPTC39GDF
 ---
-In honor of Mother's Day yesterday, I thought I'd publish a list of thoughts I've been writing down as I spend the days with my kids.They're personal, mostly gleaned from my own experience but some from conversations with other moms. This is not meant to be parenting advice, unless you just want to it to be! Instead, these are simply reflections, reminders, and (some) hot takes I've developed over the last 4.5 years of being a mom. 
+In honor of Mother's Day yesterday, I thought I'd publish a list of thoughts I've been writing down as I spend the days with my kids. They're personal, mostly gleaned from my own experience but some from conversations with other moms. This is not meant to be parenting advice, unless you just want to it to be! Instead, these are simply reflections, reminders, and (some) hot takes I've developed over the last 4.5 years of being a mom. 
 
 ---
 **1)** I did not realize how much I would love being able to have conversations with my children. They're young enough that I remember the days when they couldn't talk, so I still have moments where I think about how much fun, and often hilarious, it is to talk with them.
