@@ -5,6 +5,7 @@ date: 2024-05-13
 description: In honor of Mother's Day yesterday, I thought I'd publish a list of thoughts I've been writing down as I spend the days with my kids.
 image: '/images/motherhood.jpg' # Add image post (optional)
 tags: [parenting]
+comments: true
 GA: G-DHPTC39GDF
 ---
 In honor of Mother's Day yesterday, I thought I'd publish a list of thoughts I've been writing down as I spend the days with my kids.They're personal, mostly gleaned from my own experience but some from conversations with other moms. This is not meant to be parenting advice, unless you just want to it to be! Instead, these are simply reflections, reminders, and (some) hot takes I've developed over the last 4.5 years of being a mom. 
