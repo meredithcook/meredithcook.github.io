@@ -39,6 +39,9 @@ In honor of Mother's Day yesterday, I thought I'd publish a list of thoughts I'v
 
 **14)** The common thread in it all, though, is this: God is sovereign and His grace is sufficient for each day. He loves my kids more than me and He loves them perfectly. So I can raise my kids with hope and in His truth, knowing that they are a gift from Him to steward to the best of my ability. 
 
+---
+*In lieu of comments, please [contact me](https://www.meredithcook.net/contact/) with questions or feedback.*  
+
 <sub>Photo by <a href="https://unsplash.com/@benjaminmanley?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Benjamin Manley</a> on <a href="https://unsplash.com/photos/woman-between-two-childrens-sitting-on-brown-wooden-bench-during-daytime-QkflfhJn1KA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sub>
 
 *In lieu of comments, please [contact me](https://www.meredithcook.net/contact/) with questions or feedback.*  
