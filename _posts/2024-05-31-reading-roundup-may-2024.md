@@ -10,7 +10,7 @@ GA: G-DHPTC39GDF
 
 I have to admit that I've been in a bit of a reading funk this year. I'm way behind on my reading goal for books. Part of the reason I started this monthly series is to keep myself accountable to reading *something,* and there are lots of great writers and articles out there. Here is a list of my favorite articles from May.
 
-Also, just a reminder that if you're a preacher, professor, researcher, student, or anyone who likes to highlight and take notes on what they're reading, Readwise (and its corrensponding reading app, Reader) has been a great too. You can sign up for a free trial and get an extra month [with this link](https://readwise.io/i/meredith89){:target="_blank"}. (I get nothing from sharing this link, I just really like this tool.)
+Also, just a reminder that if you're a preacher, professor, researcher, student, or anyone who likes to highlight and take notes on what they're reading, Readwise (and its corrensponding reading app, Reader) has been a great tool. You can sign up for a free trial and get an extra month [with this link](https://readwise.io/i/meredith89){:target="_blank"}. (I get nothing from sharing this link, I just really like this tool.)
 
 ### [10 Ways to Know We're Leaning Toward the Son](https://chucklawless.com/2024/05/10-ways-to-know-were-leaning-toward-the-son/){:target="_blank"}
 Chuck Lawless
@@ -68,7 +68,7 @@ I'll just leave this one here with this quote:
 Tim Challies
 <br>Challies.com
 
-Since publishing [my book](https://amzn.to/3KpI5iN), I've been asked quite a few times on how I got published. And I'm the least helpful person when it comes to answering that question (you can read about it [here](https://www.meredithcook.net/writing-a-children-book)). That's why I was glad to come across this article by Tim Challies. I still find the publishing world confusing and complicated, but Challies breaks it down in a way that's helpful and encouraging to potential authors. 
+Since publishing [my book](https://amzn.to/3KpI5iN){:target="_blank"}, I've been asked quite a few times on how I got published. And I'm the least helpful person when it comes to answering that question (you can read about it [here](https://www.meredithcook.net/writing-a-children-book)). That's why I was glad to come across this article by Tim Challies. I still find the publishing world confusing and complicated, but Challies breaks it down in a way that's helpful and encouraging to potential authors. 
 
 ---
 ### [25 Christian Books I Love to Recommend](https://www.desiringgod.org/articles/25-christian-books-i-love-to-recommend){:target="_blank"}
@@ -80,14 +80,14 @@ I mentioned above that I'm in a bit of a reading funk this year, so after I fini
 ## Other Good Reads
 
 [A Letter from CS Lewis](https://x.com/nathanbaugh27/status/1793313002910798170){:target="_blank"}
-(Twitter) (Because "X" is still so dumb.)
+<br>(Twitter) (Because "X" is still so dumb.)
 
 I never really know if quotes attributed to CS Lewis are actually from CS Lewis, and I didn't look this one up to confirm, but I still love this writing advice. 
 
 <br>
 
 *[You Are Not Forgotten: Discovering the God Who Sees the Overlooked and Disregarded](https://amzn.to/3wY3jBh){:target="_blank"}*
-(Christine Hoover, B&H, 2024)
+<br>(Christine Hoover, B&H, 2024)
 
 This month, I had the opportunity to read and review Hoover's new book for [Lifeway Research](https://research.lifeway.com/2024/05/31/navigating-seasons-of-feeling-unseen/){:target="_blank"}.
 <br>
