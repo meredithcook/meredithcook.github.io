@@ -25,7 +25,7 @@ Amanda Martinson
 
 I've been on a years long quest to learn the true meaning and art of rest, and the longer I'm on this quest, the more convinced I become that soul rest is at the center. No matter how rested or tired my physical self is, my soul my first be at rest before I can rest in any other way. Amanda Martinson writes a helpful article on this idea. 
 
-*While our minds may default to thinking rest is only physical, you may also need mental, emotional, and spiritual rest at times."*
+*"While our minds may default to thinking rest is only physical, you may also need mental, emotional, and spiritual rest at times."*
 
 ---
 ### [The Christian's Keystone Habit](https://redeemingproductivity.com/the-christians-keystone-habit/){:target="_blank"}
