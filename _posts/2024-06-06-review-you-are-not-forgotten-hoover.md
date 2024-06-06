@@ -60,5 +60,7 @@ Hoover combines a refreshing vulnerability and honesty about her own period of u
 <br>
 <i>"So when the psalmist says that God is our refuge, he's saying there is only one perfect place of emotional, relational, and spiritual safety—it's int he person of Christ Himself." (114)</i>
 <br>
+<br>
+<br>
 <sub>Photo by <a href="https://unsplash.com/@alexmedia?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Alex Ivashenko</a> on <a href="https://unsplash.com/photos/grayscale-photography-of-woman-facing-window-RLdcScGQEJ4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sub>
   
