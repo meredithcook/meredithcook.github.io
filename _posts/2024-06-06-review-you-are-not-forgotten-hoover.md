@@ -24,7 +24,7 @@ B&H, 2024
 <br>
 <b>Summary</b>
 <br>
-    In <i>>You Are Not Forgotten</i>, Hoover shares how God used an oft-overlooked story in Genesis—Hagar’s—to comfort her during a long season of feeling unseen by those closest to her. Hagar’s name for God (<i>El-Roi</i>, God sees me) is the inspiration for the book. But Hoover uses the stories of Sarai, David, Jonah, Mary, Martha, and others to show how God doesn’t forget His people, even (and especially) in their suffering. Unseenness manifests in five categories: being misunderstood, disregard, having unfulfilled desires, injustice, and lack of appreciation. In the ensuing chapters, Hoover describes our emotional response to unseenness, how we are tempted to deal with it, how God deals with us, and how to move forward.
+    In <i>You Are Not Forgotten</i>, Hoover shares how God used an oft-overlooked story in Genesis—Hagar’s—to comfort her during a long season of feeling unseen by those closest to her. Hagar’s name for God (<i>El-Roi</i>, God sees me) is the inspiration for the book. But Hoover uses the stories of Sarai, David, Jonah, Mary, Martha, and others to show how God doesn’t forget His people, even (and especially) in their suffering. Unseenness manifests in five categories: being misunderstood, disregard, having unfulfilled desires, injustice, and lack of appreciation. In the ensuing chapters, Hoover describes our emotional response to unseenness, how we are tempted to deal with it, how God deals with us, and how to move forward.
 <br>
 <br>
 <b>Review</b>
