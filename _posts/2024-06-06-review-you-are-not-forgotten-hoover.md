@@ -15,21 +15,21 @@ GA: G-DHPTC39GDF
 
 <a href="https://amzn.to/4eeHU7F" target="blank"><img src="meredithcook.github.io/images/hoover.jpg" alt="You Are Not Forgotten" style="width:300px;height:425px;padding:10px" align="center"></a></p>
 <p>
-<b><a href= "https://amzn.to/4eeHU7F" target= "blank"><i>You Are Not Forgotten: Discovering the God Who Sees the Overlooked at Disregarded</i></a></b>
+<b><a href= "https://amzn.to/4eeHU7F" target= "blank"><i>You Are Not Forgotten: Discovering the God Who Sees the Overlooked and Disregarded</i></a></b>
 <br> 
 Christine Hoover
 <br>
-Zondervan, 2021
+B&H, 2024
 <br>
 <br>
 <b>Summary</b>
 <br>
-    In *You Are Not Forgotten*, Hoover shares how God used an oft-overlooked story in Genesis—Hagar’s—to comfort her during a long season of feeling unseen by those closest to her. Hagar’s name for God (*El-Roi*, God sees me) is the inspiration for the book. But Hoover uses the stories of Sarai, David, Jonah, Mary, Martha, and others to show how God doesn’t forget His people, even (and especially) in their suffering. Unseenness manifests in five categories: being misunderstood, disregard, having unfulfilled desires, injustice, and lack of appreciation. In the ensuing chapters, Hoover describes our emotional response to unseenness, how we are tempted to deal with it, how God deals with us, and how to move forward.
+    In <i>>You Are Not Forgotten</i>, Hoover shares how God used an oft-overlooked story in Genesis—Hagar’s—to comfort her during a long season of feeling unseen by those closest to her. Hagar’s name for God (<i>El-Roi</i>, God sees me) is the inspiration for the book. But Hoover uses the stories of Sarai, David, Jonah, Mary, Martha, and others to show how God doesn’t forget His people, even (and especially) in their suffering. Unseenness manifests in five categories: being misunderstood, disregard, having unfulfilled desires, injustice, and lack of appreciation. In the ensuing chapters, Hoover describes our emotional response to unseenness, how we are tempted to deal with it, how God deals with us, and how to move forward.
 <br>
 <br>
 <b>Review</b>
 <br>
-Hoover combines a refreshing vulnerability and honesty about her own period of unseenness with a focus on the only true way forward—resting in the truth that God sees us, loves us, and is for us. She rightly encourages the reader to process our emotions in light of God's truth, take responsibility for moving forward, and seek an improved perspective of our difficult circumstances over improving our circumstances. This is no fluffy, pick-yourself-up-by-your-bootstraps, self-help manual. Hoover leads the reader to rest in the biblical truth that will encourage and help him or her move forward in hope and healing.  Ultimately, *You Are Not Forgotten* is a resource that encourages readers struggling to feel seen to look higher than people to the God of all comfort, who looks upon us and after us.
+Hoover combines a refreshing vulnerability and honesty about her own period of unseenness with a focus on the only true way forward—resting in the truth that God sees us, loves us, and is for us. She rightly encourages the reader to process our emotions in light of God's truth, take responsibility for moving forward, and seek an improved perspective of our difficult circumstances over improving our circumstances. This is no fluffy, pick-yourself-up-by-your-bootstraps, self-help manual. Hoover leads the reader to rest in the biblical truth that will encourage and help him or her move forward in hope and healing.  Ultimately, <i>You Are Not Forgotten</i> is a resource that encourages readers struggling to feel seen to look higher than people to the God of all comfort, who looks upon us and after us.
 <br>
 <br>
 <b>Pros:</b>
@@ -49,7 +49,6 @@ Hoover combines a refreshing vulnerability and honesty about her own period of u
 <li>Because of the statement above, I don't believe this book is for everyone who feels unseen. There is not much distinction between actually being unseen and merely feeling unseen. There is a difference. For those who are more inclined to blame others, who struggle with forgiveness, and who generally have an external locus of control, it could be easy to overlook Hoover's example of self-awareness and personal responsibility. Those who remain withdrawn from community or withhold forgiveness may ultimately have a hard time finding healing in the truths Hoover outlines.</li>
 <br>
 <li>This may be odd to list in the cons, but Hoover's happy ending could lead readers to expect the same. Nowhere does Hoover explicitly set up the expectation that those who feel unseen will get a happy ending like hers (in fact, she sets up the opposite expectation several times throughout the book). However, readers should be cautious and not let another’s story set their expectations. We must always trust God to write our story however He wills.</li>
-<br>
 </ul> 
 <br>
 <b>Who Should Read This Book:</b>
@@ -59,7 +58,7 @@ Hoover combines a refreshing vulnerability and honesty about her own period of u
 <br>
 <b>Favorite Quotes:</b>
 <br>
-<i>"So when the psalmist says that God is our refuge, he's saying there is only one perfect place of emotional, relational, and spiritual safety—it's int he person of Christ Himself."(114)</i>
+<i>"So when the psalmist says that God is our refuge, he's saying there is only one perfect place of emotional, relational, and spiritual safety—it's int he person of Christ Himself." (114)</i>
 <br>
 <sub>Photo by <a href="https://unsplash.com/@alexmedia?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Alex Ivashenko</a> on <a href="https://unsplash.com/photos/grayscale-photography-of-woman-facing-window-RLdcScGQEJ4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sub>
   
