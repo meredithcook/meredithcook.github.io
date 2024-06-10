@@ -21,7 +21,7 @@ When I'm not supplying my kids with snacks, taking them to the playground, or re
 * [Center for Great Commission Studies](https://www.thecgcs.org/resources/post/how-parents-can-teach-kids-about-missions/){:target="_blank"}
 * [IMB](https://www.imb.org/?s=meredith+cook&sort=relevant&filter_type=post%2Carticles){:target="_blank"}
 * [The Upstream Collective](https://www.theupstreamcollective.org/post/use-the-holidays-to-your-evangelistic-advantage){:target="_blank"}
-* [The Center for Faith and Culture](https://cfc.sebts.edu/faith-and-work/women-seminary-professors/"){:target="_blank"}
+* [The Center for Faith and Culture](https://cfc.sebts.edu/faith-and-culture/3-tips-for-introducing-spiritual-disciplines-to-our-family/){:target="_blank"}
 * [keelancook.com](https://keelancook.com/2016/04/29/your-churchs-continued-responsibility-for-its-sent-ones/){:target="_blank"}
 
 ## Interviews
