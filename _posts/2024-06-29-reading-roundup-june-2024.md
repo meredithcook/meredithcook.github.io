@@ -22,7 +22,7 @@ John Koning
 To be quite honest, I'm not totally sure what I think about this one. But I included it here because I think it's worth reading. The article may be a bit reductionistic, but like the author, I do think that many individual's struggles are often elevated to the counseling level when they should likely first be addressed at the habit-formation-spiritual-disciplines level.
 
 ---
-### [One Day Leads to Another](https://sethlewis.ie/2024/06/12/one-day-leads-to-another/)){:target="_blank"}
+### [One Day Leads to Another](https://sethlewis.ie/2024/06/12/one-day-leads-to-another/){:target="_blank"}
 Seth Lewis
 <br>sethlewis.ie
 
