@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reading Roundup- May 2024
-date: 2024-05-31
+date: 2024-06-29
 description: Every month, I offer a list of articles (and sometimes books) that I believe are worthwhile reads.
 image: '/images/roundup.jpg' # Add image post (optional)
 tags: [reading, articles]
