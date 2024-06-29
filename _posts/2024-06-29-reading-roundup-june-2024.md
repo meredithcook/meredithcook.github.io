@@ -65,7 +65,7 @@ Challies lists some reasons why God may not be answering our prayers in a needed
 *"God will not rob us of experiencing blessings by lifting us past the means through which they can be ours."*
 
 ---
-### [Be Quick to Listen, Slow to 'Therapy Speak'](https://www.desiringgod.org/articles/25-christian-books-i-love-to-recommend){:target="_blank"}
+### [Be Quick to Listen, Slow to 'Therapy Speak'](https://www.christianitytoday.com/ct/2024/may-web-only/quick-to-listen-slow-to-therapy-speak-toxic-trauma-abuse.html?share=9Itgqw7s%2b9t8pWkIicgvP9jc1ip2Ia47&utm_medium=widgetsocial){:target="_blank"}
 Mia Staub
 <br>Christianity Today
 
@@ -74,7 +74,7 @@ We have a bit of a theme for this month. This time, the concerns about therapy-s
 *"Overusing a word can take away its severity, making light of the heaviness it holds for those walking through dark valleys."*
 
 ---
-[It's Not a Life of Ease](https://www.challies.com/articles/its-not-a-life-of-ease/){:target="_blank"}
+### [It's Not a Life of Ease](https://www.challies.com/articles/its-not-a-life-of-ease/){:target="_blank"}
 Tim Challies
 <br>Challies.com
 
