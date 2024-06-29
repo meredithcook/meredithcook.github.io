@@ -47,7 +47,7 @@ Scott Hildreth
 Some good advice from my friend on best practices for short-term mission trips.
 
 ---
-### [When therapy-speak enters the real word](https://www.crossway.org/articles/the-secret-of-contentment-in-motherhood/){:target="_blank"}
+### [When therapy-speak enters the real word](https://theweek.com/feature/briefing/1025706/therapy-speak-real-world){:target="_blank"}
 Theara Coleman
 <br>The Week
 
