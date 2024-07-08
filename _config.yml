@@ -30,7 +30,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Welcome! I'm Meredith Cook.
-  hero__description: I'm a stay-at-home mom moonlighting as an author and writer of grants.
+  hero__description: I'm a stay-at-home mom moonlighting as an author and writer of grants. Subscribe to my work-in-progress newsletter below.
   hero__image: '/images/headshot_MC.png'
 
 
@@ -38,7 +38,7 @@ hero:
 # Newsletter
 mailchimp: 'enable' # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
 mailchimp__identifier: meredithcook.us12.list-manage.com/subscribe/post?u=e58ac29bcb5ab686e0619253e&amp;id=cf9a2ddfd1 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
-mailchimp__input__text: Subscribe to my newsletter here.
+mailchimp__input__text: Email address
 mailchimp__button__text: Subscribe
 
 
