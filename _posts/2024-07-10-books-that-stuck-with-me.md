@@ -64,5 +64,6 @@ These books have all stuck with me over the years, having a significant impact o
   <br>
   <br>I read an earlier version of Whitney's book years ago and have recommended it countless times since. <i>Spiritual Disciplines for the Christian Life</i> really laid the foundation for my journey towards <a href= "https://www.meredithcook.net/climbing-the-slide">habit formation</a> and broadened my view of spiritual disciplines beyond Bible reading and prayer.
 
-
+<br>
+<br>
 <sub>Photo by <a href="https://unsplash.com/@priscilladupreez?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Priscilla Du Preez 🇨🇦</a> on <a href="https://unsplash.com/photos/woman-reading-book-on-sofa-qinMdTWh1V0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sub>
