@@ -23,7 +23,7 @@ These books have all stuck with me over the years, having a significant impact o
 
 <p align="center">
 <a href="https://amzn.to/3W1S4Ae" target="blank"><img src="meredithcook.github.io/images/insanity.jpg" alt="The Insanity of God" style="width:250px;height:300px;padding:10px" align="center"></a><p>
-  <a href= "https://amzn.to/3W1S4Ae6yH" target= "blank"><i>The Insanity of God: A True Story of Faith Resurrected</i></a>
+  <a href= "https://amzn.to/3W1S4Ae" target= "blank"><i>The Insanity of God: A True Story of Faith Resurrected</i></a>
   <br>Nik Ripken
   <br>B&H Books, 2013
   <br>
@@ -31,19 +31,19 @@ These books have all stuck with me over the years, having a significant impact o
 </p>
 
 <p align="center">
-<a href="https://amzn.to/49Kwfex" target="blank"><img src="meredithcook.github.io/images/dada.jpg" alt="Dada" style="width:250px;height:250px;padding:10px" align="center"></a><p>
-  <a href= "https://amzn.to/49Kwfex" target= "blank"><i>Dada</i></a>
-  <br>Jimmy Fallon
-  <br>Feiwel & Friends, 2015
+<a href="https://amzn.to/3LhL8tM" target="blank"><img src="meredithcook.github.io/images/questioning.jpg" alt="Questioning Evangelism" style="width:250px;height:300px;padding:10px" align="center"></a><p>
+  <a href= "https://amzn.to/3LhL8tM" target= "blank"><i>Questioning Evangelism: Engaging People's Hearts the Way Jesus Did</i></a>
+  <br>Randy Newman
+  <br>Kregel Publications, 2015
   <br>
-  <br>The reason my kids know all their animal sounds is almost exclusively because of <i>Dada</i>. Jimmy Fallon has written other renditions of this book, including <a href= "https://amzn.to/3R6PGqR" target= "blank"><i>Mama</i></a>, <a href= "https://amzn.to/3um2YqD" target= "blank"><i>Baby</i></a>, and <a href= "https://amzn.to/46pEWYO" target= "blank"><i>Nana</i></a>. All are adorable, but we loved <i>Dada</i> the best. Bonus- there is a <a href= "https://www.barnesandnoble.com/w/jimmy-fallon-your-babys-first-word-will-be-dada-jumbo-puzzle-jimmy-fallon/1131609699?ean=9780735361447" target= "blank">puzzle</a> that corresponds with the book. My kids love putting it together and it's easy enough that they can assemble it by themselves. 
+  <br>I've read a lot of books on evangelism, but this one was by far the most practical and helpful book about how to share the gospel with others. Newman helps the reader learn how to engage nonbelievers in conversations about Jesus, the Bible, and the Christian faith in a way that seems less intimidating than other evangelism methods. While no evangelism book will help us share the gospel if we're simply not willing to (I certainly do not share the gospel as much as I should), <i>Questioning Evangelism</i> is my go-to recommendation for people who are not sure where to start.
 </p>
 
 <p align="center">
 <a href="https://amzn.to/3QJmaWN" target="blank"><img src="meredithcook.github.io/images/firstwords.jpg" alt="First 100 Words" style="width:250px;height:250px;padding:10px" align="center"></a><p>
   <a href= "https://amzn.to/3QJmaWN" target= "blank"><i>First 100 Words</i></a>
   <br>Roger Priddy
-  <br>Priddy Books US, 2005
+  <br>Priddy Books US, 2023
   <br>
   <br>This was another well-loved book that fell apart, and still my kids would carry around and look at the individual pages. There are a lot of books <a href= "https://amzn.to/46w3yiY" target= "blank">in this series</a>, of which we've owned two other versions. My kids liked the bigger board books the best, and would spread out on the floor to look at the pictures. This book also helped my son learn many of his first words. 
 </p>
