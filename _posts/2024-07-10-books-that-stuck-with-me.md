@@ -7,7 +7,7 @@ image: '/images/reading1.jpg' # Add image post (optional)
 tags: [resources, reading]
 GA: G-DHPTC39GDF
 ---
-I have read a lot of books over the last decade. I have always enjoyed reading, but I don't <i>love</i> reading like some love reading. I've not made it through many "classics," I have never been the type that read anything I could get my hands on, I read slow, and have pretty poor reading comprehension. However, going to seminary changed a lot of my reading habits and whetted my appetite for books that were spiritually formative. For the last decade, I've read a lot of books like this. Some were assigned reading for my classes, some came at the recommendation of friends, and others I just happened upon in various ways. 
+I have always enjoyed reading, but I don't <i>love</i> reading like some love reading. I've not made it through many "classics," I have never been the type that read anything I could get my hands on, I read slow, and don't have great retention. Despite all that, however, going to seminary changed a lot of my reading habits and whetted my appetite for books that were spiritually formative. For the last decade, I've read a lot of books like this. Some were assigned reading for my classes, some came at the recommendation of friends, and others I just happened upon in various ways. 
 
 These books have all stuck with me over the years, having a significant impact on how I think, act, and live. Though none is elevated above God's word itself, many of these have helped me understand Scripture and love God more. These books have edified and encouraged me over the years, and I highly recommend these to you to read for the first time or read again.
 
