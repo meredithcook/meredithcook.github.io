@@ -3,10 +3,9 @@ layout: post
 title: Books That Have Stuck with Me Over the Years
 date: 2023-07-10
 description: I've read a lot of books over the years, but these are a few that have been the most impactful over the years.
-image: '/images/read.jpeg' # Add image post (optional)
+image: '/images/reading1.jpeg' # Add image post (optional)
 tags: [resources, reading]
 GA: G-DHPTC39GDF
-published: false
 ---
 I have read a lot of books over the last decade. I have always enjoyed reading, but I don't <i>love</i> reading like some love reading. I've not made it through many "classics," I have never been the type that read anything I could get my hands on, I read slow, and have pretty poor reading comprehension. However, going to seminary changed a lot of my reading habits and whetted my appetite for books that were spiritually formative. For the last decade, I've read a lot of books like this. Some were assigned reading for my classes, some came at the recommendation of friends, and others I just happened upon in various ways. 
 
@@ -58,42 +57,12 @@ These books have all stuck with me over the years, having a significant impact o
   </p>
 
 <p align="center">
-<a href="https://amzn.to/3R8caYn" target="blank"><img src="meredithcook.github.io/images/bigdog.jpeg" alt="Big Dog, Little Dog" style="width:230px;height:300px;padding:10px" align="center"></a><p>
-  <a href= "https://amzn.to/3R8caYn" target= "blank"><i>Big Dog, Little Dog</i></a>
-  <br>P.D. Eastman
-  <br>Random House Books for Young Readers, 2006
+<a href="https://amzn.to/3XYwYVZ" target="blank"><img src="meredithcook.github.io/images/spiritualdisciplines.jpeg" alt="Spiritual Disciplines" style="width:230px;height:300px;padding:10px" align="center"></a><p>
+  <a href= "https://amzn.to/3XYwYVZ" target= "blank"><i>Spiritual Disciplines for the Christian Life</i></a>
+  <br>Donald S. Whitney
+  <br>NavPress, 2024
   <br>
-  <br>We're big fans of the Bright & Early Board Books (our Target has a whole shelf of them in the kids' book section), but <i>Big Dog, Little Dog</i> is probably my kids' favorite. I like these books because they're the perfect size for little toddler hands, which makes them really good car books. 
-</p>
+  <br>I read an earlier version of Whitney's book years ago and have recommended it countless times since. <i>Spiritual Disciplines for the Christian Life</i> really laid the foundation for my journey towards <a href= "https://www.meredithcook.net/climbing-the-slide">habit formation</a> and broadened my view of spiritual disciplines beyond Bible reading and prayer.
 
-<p align="center">
-<a href="https://amzn.to/49Jtv10" target="blank"><img src="meredithcook.github.io/images/bluehat.jpg" alt="Blue Hat, Green Hat" style="width:250px;height:250px;padding:10px" align="center"></a><p>
-  <a href= "https://amzn.to/49Jtv10" target= "blank"><i>Blue Hat, Green Hat</i></a>
-  <br>Sandra Boynton
-  <br>Boynton Bookworks, 1984
-  <br>
-  <br>I love so many Sandra Boynton books, possibly even more than my kids. Though <a href="https://amzn.to/3QM0wBg" target="blank"><i>The Going to Bed Book</i></a> is my favorite, my kids much prefer <i>Blue Hat, Green Hat</i>. This is one that they grew to love as they got older and were able to find the humor in the turkey's wardrobe mistakes. 
-  </p>
 
-<p align="center">
-<a href="https://amzn.to/3QQCdC0" target="blank"><img src="meredithcook.github.io/images/poutpout.jpg" alt="Pout Pout Fish" style="width:250px;height:250px;padding:10px" align="center"></a><p>
-  <a href= "https://amzn.to/3QQCdC0" target= "blank"><i>The Pout-Pout Fish</i></a>
-  <br>Deborah Diesen
-  <br>Farrar, Straus and Giroux, 2013
-  <br>
-  <br>Our kids were no exception to the beloved <i>Pout-Pout Fish</i> book, particularly when we read it in funny voices. The rhymes are fun and easy to read aloud (I've found this is not always the case with rhyming books). It's the original book in a <a href= "https://amzn.to/3Rc8TYk" target= "blank">series</a> of Pout-Pout Fish books, and we have also found a few Pout-Pout-Fish-themed beginning readers at the library. 
-</p>
-
-<p align="center">
-<a href="https://amzn.to/3GfROWN" target="blank"><img src="meredithcook.github.io/images/psalms.jpg" alt="Psalms of Praise" style="width:250px;height:250px;padding:10px" align="center"></a><p>
-  <a href= "https://amzn.to/3GfROWN" target= "blank"><i>Psalms of Praise</i></a>
-  <br>Danielle Hitchen
-  <br>Harvest Kids, 2018
-  <br>
-  <br>When I was pregnant with my firstborn, I was really excited to find the <a href= "https://amzn.to/3uqcjxu" target= "blank">Baby Believer</a> series of board books. This series was the exact thing I wanted to read to my kids to begin introducing them to simple theology. They're also just beautiful books to look at. We have most of the books in this series, but <i>Psalms of Praise</i> was my daughter's favorite.
-</p>
-<p align="center">
-  <img width="460" height="300" src="meredithcook.github.io/images/boardbooks.png">
-</p>
-
-<sub>Photo by <a href="https://unsplash.com/@benmullins?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ben Mullins</a> on <a href="https://unsplash.com/photos/two-childrens-reading-book-while-sitting-on-brown-sofa-5QTQz-oYk1A?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sub>
+<sub>Photo by <a href="https://unsplash.com/@priscilladupreez?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Priscilla Du Preez 🇨🇦</a> on <a href="https://unsplash.com/photos/woman-reading-book-on-sofa-qinMdTWh1V0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sub>
