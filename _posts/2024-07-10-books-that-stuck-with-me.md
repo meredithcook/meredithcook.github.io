@@ -12,7 +12,7 @@ I have always enjoyed reading, but I don't <i>love</i> reading like some love re
 These books have all stuck with me over the years, having a significant impact on how I think, act, and live. Though none is elevated above God's word itself, many of these have helped me understand Scripture and love God more. These books have edified and encouraged me over the years, and I highly recommend these to you to read for the first time or read again.
 
 <p align="center">
-<a href="https://amzn.to/4cT9B4p" target="blank"><img src="meredithcook.github.io/images/hidingplace.jpg" alt="The Hiding Place" style="width:250px;height:300px;padding:10px" align="center"></a><p>
+<a href="https://amzn.to/4cT9B4p" target="blank"><img src="meredithcook.github.io/images/hidingplace.jpg" alt="The Hiding Place" style="width:250px;height:350px;padding:10px" align="center"></a><p>
   <a href= "https://amzn.to/4cT9B4p" target= "blank"><i>The Hiding Place</i></a>
   <br>Corrie Ten Boom
   <br>Chosen Books, 2006
@@ -21,7 +21,7 @@ These books have all stuck with me over the years, having a significant impact o
 </p>
 
 <p align="center">
-<a href="https://amzn.to/3W1S4Ae" target="blank"><img src="meredithcook.github.io/images/insanity.jpg" alt="The Insanity of God" style="width:250px;height:300px;padding:10px" align="center"></a><p>
+<a href="https://amzn.to/3W1S4Ae" target="blank"><img src="meredithcook.github.io/images/insanity.jpg" alt="The Insanity of God" style="width:250px;height:350px;padding:10px" align="center"></a><p>
   <a href= "https://amzn.to/3W1S4Ae" target= "blank"><i>The Insanity of God: A True Story of Faith Resurrected</i></a>
   <br>Nik Ripken
   <br>B&H Books, 2013
@@ -30,7 +30,7 @@ These books have all stuck with me over the years, having a significant impact o
 </p>
 
 <p align="center">
-<a href="https://amzn.to/3LhL8tM" target="blank"><img src="meredithcook.github.io/images/questioning.jpg" alt="Questioning Evangelism" style="width:250px;height:300px;padding:10px" align="center"></a><p>
+<a href="https://amzn.to/3LhL8tM" target="blank"><img src="meredithcook.github.io/images/questioning.jpg" alt="Questioning Evangelism" style="width:250px;height:350px;padding:10px" align="center"></a><p>
   <a href= "https://amzn.to/3LhL8tM" target= "blank"><i>Questioning Evangelism: Engaging People's Hearts the Way Jesus Did</i></a>
   <br>Randy Newman
   <br>Kregel Publications, 2015
@@ -39,7 +39,7 @@ These books have all stuck with me over the years, having a significant impact o
 </p>
 
 <p align="center">
-<a href="https://amzn.to/4bGgiGj" target="blank"><img src="meredithcook.github.io/images/housekey.jpg" alt="The Gospel Comes with a House Key" style="width:250px;height:300px;padding:10px" align="center"></a><p>
+<a href="https://amzn.to/4bGgiGj" target="blank"><img src="meredithcook.github.io/images/housekey.jpg" alt="The Gospel Comes with a House Key" style="width:250px;height:350px;padding:10px" align="center"></a><p>
   <a href= "https://amzn.to/4bGgiGj" target= "blank"><i>The Gospel Comes with a House Key</i></a>
   <br>Rosaria Butterfield
   <br>Crossway, 2018
@@ -48,7 +48,7 @@ These books have all stuck with me over the years, having a significant impact o
 </p>
 
 <p align="center">
-<a href="https://amzn.to/45ZjYl2" target="blank"><img src="meredithcook.github.io/images/lifetogether.jpg" alt="Life Together" style="width:250px;height:300px;padding:10px" align="center"></a><p>
+<a href="https://amzn.to/45ZjYl2" target="blank"><img src="meredithcook.github.io/images/lifetogether.jpg" alt="Life Together" style="width:250px;height:350px;padding:10px" align="center"></a><p>
   <a href= "https://amzn.to/45ZjYl2" target= "blank"><i>Life Together: The Classic Exploration of Christian in Community</i></a>
   <br>Dietrich Bonhoeffer
   <br>HarperOne, 2009
@@ -57,7 +57,7 @@ These books have all stuck with me over the years, having a significant impact o
   </p>
 
 <p align="center">
-<a href="https://amzn.to/3XYwYVZ" target="blank"><img src="meredithcook.github.io/images/spiritualdisciplines.jpeg" alt="Spiritual Disciplines" style="width:230px;height:300px;padding:10px" align="center"></a><p>
+<a href="https://amzn.to/3XYwYVZ" target="blank"><img src="meredithcook.github.io/images/spiritualdisciplines.jpg" alt="Spiritual Disciplines" style="width:230px;height:350px;padding:10px" align="center"></a><p>
   <a href= "https://amzn.to/3XYwYVZ" target= "blank"><i>Spiritual Disciplines for the Christian Life</i></a>
   <br>Donald S. Whitney
   <br>NavPress, 2024
