@@ -3,7 +3,7 @@ layout: post
 title: Books That Have Stuck with Me Over the Years
 date: 2024-07-10
 description: I've read a lot of books over the years, but these are a few that have been the most impactful over the years.
-image: '/images/reading1.jpeg' # Add image post (optional)
+image: '/images/reading1.jpg' # Add image post (optional)
 tags: [resources, reading]
 GA: G-DHPTC39GDF
 ---
