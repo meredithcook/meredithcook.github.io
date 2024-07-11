@@ -40,21 +40,21 @@ These books have all stuck with me over the years, having a significant impact o
 </p>
 
 <p align="center">
-<a href="https://amzn.to/3QJmaWN" target="blank"><img src="meredithcook.github.io/images/firstwords.jpg" alt="First 100 Words" style="width:250px;height:250px;padding:10px" align="center"></a><p>
-  <a href= "https://amzn.to/3QJmaWN" target= "blank"><i>First 100 Words</i></a>
-  <br>Roger Priddy
-  <br>Priddy Books US, 2023
+<a href="https://amzn.to/4bGgiGj" target="blank"><img src="meredithcook.github.io/images/housekey.jpg" alt="The Gospel Comes with a House Key" style="width:250px;height:300px;padding:10px" align="center"></a><p>
+  <a href= "https://amzn.to/4bGgiGj" target= "blank"><i>The Gospel Comes with a House Key</i></a>
+  <br>Rosaria Butterfield
+  <br>Crossway, 2018
   <br>
-  <br>This was another well-loved book that fell apart, and still my kids would carry around and look at the individual pages. There are a lot of books <a href= "https://amzn.to/46w3yiY" target= "blank">in this series</a>, of which we've owned two other versions. My kids liked the bigger board books the best, and would spread out on the floor to look at the pictures. This book also helped my son learn many of his first words. 
+  <br>If you haven't read Rosaria Butterfield's book, <a href= "https://amzn.to/4eQjh1s" target= "blank"><i>The Secret Thoughts of an Unlikely Convert</i></a>, then I recommend starting with that one before reading <i>The Gospel Comes with a House Key</i> to give you some context into Butterfield's conversion story and motivations behind her writing a book on hospitality. This book significantly informed how I think about the use of my home in ministry.
 </p>
 
 <p align="center">
-<a href="https://amzn.to/3QNoagL" target="blank"><img src="meredithcook.github.io/images/brownbear.jpg" alt="Brown Bear" style="width:250px;height:300px;padding:10px" align="center"></a><p>
-  <a href= "https://amzn.to/3QNoagL" target= "blank"><i>Brown Bear, Brown Bear, What Do You See?</i></a>
-  <br>Bill Martin, Jr.
-  <br>Henry Holt and Co., 2011
+<a href="https://amzn.to/45ZjYl2" target="blank"><img src="meredithcook.github.io/images/lifetogether.jpg" alt="Life Together" style="width:250px;height:300px;padding:10px" align="center"></a><p>
+  <a href= "https://amzn.to/45ZjYl2" target= "blank"><i>Life Together: The Classic Exploration of Christian in Community</i></a>
+  <br>Dietrich Bonhoeffer
+  <br>HarperOne, 2009
   <br>
-  <br>My daughter particularly loved the <a href= "https://amzn.to/480PZcv" target= "blank">slide-and-find version</a> of <i>Brown Bear, Brown Bear, What Do You See?</i>. There are several board book "classics" that my kids enjoyed. My son's favorite was always <a href= "https://amzn.to/3ugvIAP" target= "blank"><i>Goodnight Moon</i></a>.
+  <br>This might be the only book on this list that I've read multiple times. I love it so much. It's a quick read, but packed with exhortations to readers on how to live in Christian community. There are quite a few butt-kicking quotes, especially for those of us living in a hyper-individualistic culture. 
   </p>
 
 <p align="center">
