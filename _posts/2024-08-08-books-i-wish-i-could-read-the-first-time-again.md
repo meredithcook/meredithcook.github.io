@@ -19,7 +19,7 @@ There's just something about a Really Good book or movie that gives me such joy 
 </p>
 
 <p align="center">
-<a href="https://amzn.to/4fAEwoB" target="blank"><img src="meredithcook.github.io/images/soundingjoy.jpg" alt="Sounding Joy" style="width:200px;height:300px;padding:10px" align="center"></a><p>
+<a href="https://amzn.to/4fAEwoB" target="blank"><img src="meredithcook.github.io/images/soundingjoy.jpg" alt="Sounding Joy" style="width:300px;height:300px;padding:10px" align="center"></a><p>
   <a href= "https://amzn.to/4fAEwoB" target= "blank"><i>Sounding Joy</i></a>
   <br>Ellie Holcomb
   <br>B&H Kids, 2022
