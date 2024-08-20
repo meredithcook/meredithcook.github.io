@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Books I Wish I Could Read For the First Time Again
+title: 5 (Plus) Books I Wish I Could Read For the First Time Again
 date: 2024-08-08
 description: Some books are such a joy to read, I wish I could experience reading them for the first time all over again.
 image: '/images/reading1.jpg' # Add image post (optional)
 tags: [resources, reading]
 GA: G-DHPTC39GDF
-published: false
 ---
 There's just something about a Really Good book or movie that gives me such joy that I wish could read or watch it for the very first time again. In recent memory, *Top Gun: Maverick* was that movie for me. There is a long list of books that fit this bill, too. (And yes, there may be a kids' book or two on here as well.) Here are a few: 
 
@@ -34,16 +33,16 @@ There's just something about a Really Good book or movie that gives me such joy 
   <br>J.K. Rowling
   <br>Scholastic, Inc; 2009 (Box Set)
   <br>
-  <br>I might take some flack for this one, but I loved these stories. I was in elementary school when the first <i>Harry Potter</i> was released, and remember it becoming widely popular when I reached middle school. However, though some in my Bible Belt community were concerned by the content, I simply wasn't interested in the content (also, I was and still am generally suspicious of or confused by major trends—looking at you Stanley cup). However, boredom and curiousity got the better of me a few years ago and I read all seven books in just a couple of months. I was surprised and delighted by the stories and would love to read them again. 
+  <br>I might take some flack for this one, but I loved these stories. I was in elementary school when the first <i>Harry Potter</i> was released, and remember it becoming widely popular when I reached middle school. However, though some in my Bible Belt community were concerned by the content, I simply wasn't interested in the content. However, boredom and curiousity got the better of me a few years ago and I read all seven books in just a couple of months. I was surprised and delighted by the stories and would love to read them again. 
 </p>
 
 <p align="center">
-<a href="https://amzn.to/4bGgiGj" target="blank"><img src="meredithcook.github.io/images/housekey.jpg" alt="The Gospel Comes with a House Key" style="width:250px;height:350px;padding:10px" align="center"></a><p>
-  <a href= "https://amzn.to/4bGgiGj" target= "blank"><i>The Gospel Comes with a House Key</i></a>
-  <br>Rosaria Butterfield
-  <br>Crossway, 2018
+<a href="https://amzn.to/3SX7t42" target="blank"><img src="meredithcook.github.io/images/littlewomen.jpg" alt="Little Women" style="width:250px;height:350px;padding:10px" align="center"></a><p>
+  <a href= "https://amzn.to/3SX7t42" target= "blank"><i>Little Women</i></a>
+  <br>Louisa Mae Alcott
+  <br>1868
   <br>
-  <br>If you haven't read Rosaria Butterfield's book, <a href= "https://amzn.to/4eQjh1s" target= "blank"><i>The Secret Thoughts of an Unlikely Convert</i></a>, then I recommend starting with that one before reading <i>The Gospel Comes with a House Key</i> to give you some context into Butterfield's conversion story and motivations behind her writing a book on hospitality. This book significantly informed how I think about the use of my home in ministry.
+  <br>One of my all-time favorite movies is the 90's Winona Ryder version of <i>Little Women</i>. My aunt showed me the movie when I was in elementary school and while I haven't kept count, I am sure I've watched it at least 100 times. I never read the book, though, until I picked it up a couple of years ago. I was skeptical that I'd make it through—I had started countless "classics" and never finished because I just can't hang with the writing style and old English. However, while <i>Little Women</i> may or may not be considered a classic, I absolutely loved the book. It had all the nostalgia, feel-good, tug-at-your heartstrings stories from the movie, but more. It was a joy to read and I couldn't wait to pick it up every night before I went to bed. 
 </p>
 
 <p align="center">
