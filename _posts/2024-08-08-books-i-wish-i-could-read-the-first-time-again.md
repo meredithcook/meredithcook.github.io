@@ -23,18 +23,18 @@ There's just something about a Really Good book or movie that gives me such joy 
 <a href="https://amzn.to/4fAEwoB" target="blank"><img src="meredithcook.github.io/images/soundingjoy.jpg" alt="Sounding Joy" style="width:200px;height:300px;padding:10px" align="center"></a><p>
   <a href= "https://amzn.to/4fAEwoB" target= "blank"><i>Sounding Joy</i></a>
   <br>Ellie Holcomb
-  <br>B&H Kids, 20
+  <br>B&H Kids, 2022
   <br>
   <br><i>Sounding Joy</i> has shown up on <a href= "https://www.meredithcook.net/favorite-board-books">this site</a> before, but I had to list it here, too. I've read so, so many good kids books but this one took me by surprise at how much the prose touched me, too. It's a beautifully written reminder of what God did for us at Christmas.
 </p>
 
 <p align="center">
-<a href="https://amzn.to/3LhL8tM" target="blank"><img src="meredithcook.github.io/images/questioning.jpg" alt="Questioning Evangelism" style="width:250px;height:350px;padding:10px" align="center"></a><p>
-  <a href= "https://amzn.to/3LhL8tM" target= "blank"><i>Questioning Evangelism: Engaging People's Hearts the Way Jesus Did</i></a>
-  <br>Randy Newman
-  <br>Kregel Publications, 2015
+<a href="https://amzn.to/3MgcEIR" target="blank"><img src="meredithcook.github.io/images/azkaban.jpg" alt="Harry Potter" style="width:250px;height:350px;padding:10px" align="center"></a><p>
+  <a href= "https://amzn.to/3MgcEIR" target= "blank"><i>Harry Potter</i> Series</a>
+  <br>J.K. Rowling
+  <br>Scholastic, Inc; 2009 (Box Set)
   <br>
-  <br>I've read a lot of books on evangelism, but this one was by far the most practical and helpful book about how to share the gospel with others. Newman helps the reader learn how to engage nonbelievers in conversations about Jesus, the Bible, and the Christian faith in a way that seems less intimidating than other evangelism methods. While no evangelism book will help us share the gospel if we're simply not willing to (I certainly do not share the gospel as much as I should), <i>Questioning Evangelism</i> is my go-to recommendation for people who are not sure where to start.
+  <br>I might take some flack for this one, but I loved these stories. I was in elementary school when the first <i>Harry Potter</i> was released, and remember it becoming widely popular when I reached middle school. However, though some in my Bible Belt community were concerned by the content, I simply wasn't interested in the content (also, I was and still am generally suspicious of or confused by major trends—looking at you Stanley cup). However, boredom and curiousity got the better of me a few years ago and I read all seven books in just a couple of months. I was surprised and delighted by the stories and would love to read them again. 
 </p>
 
 <p align="center">
@@ -52,17 +52,8 @@ There's just something about a Really Good book or movie that gives me such joy 
   <br>Dietrich Bonhoeffer
   <br>HarperOne, 2009
   <br>
-  <br>This one showed up on last month's book list, but 
+  <br>This one showed up on last month's book list, but it belongs on this list, too. I've read <i>Life Together</i> more than once, but I distinctly remember how impactful it was the first time I read it. I was a new seminary student and was, for the first time, truly learning about the importance of Christian community. There were quite a few quotes in this book that hit home!
   </p>
-
-<p align="center">
-<a href="https://amzn.to/3XYwYVZ" target="blank"><img src="meredithcook.github.io/images/spiritualdisciplines.jpg" alt="Spiritual Disciplines" style="width:230px;height:350px;padding:10px" align="center"></a><p>
-  <a href= "https://amzn.to/3XYwYVZ" target= "blank"><i>Spiritual Disciplines for the Christian Life</i></a>
-  <br>Donald S. Whitney
-  <br>NavPress, 2024
-  <br>
-  <br>I read an earlier version of Whitney's book years ago and have recommended it countless times since. <i>Spiritual Disciplines for the Christian Life</i> really laid the foundation for my journey towards <a href= "https://www.meredithcook.net/climbing-the-slide">habit formation</a> and broadened my view of spiritual disciplines beyond Bible reading and prayer.
-
 <br>
 <br>
 <sub>Photo by <a href="https://unsplash.com/@priscilladupreez?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Priscilla Du Preez 🇨🇦</a> on <a href="https://unsplash.com/photos/woman-reading-book-on-sofa-qinMdTWh1V0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sub>
