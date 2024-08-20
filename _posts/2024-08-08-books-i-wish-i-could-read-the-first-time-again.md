@@ -3,7 +3,7 @@ layout: post
 title: 5 (Plus) Books I Wish I Could Read For the First Time Again
 date: 2024-08-08
 description: Some books are such a joy to read, I wish I could experience reading them for the first time all over again.
-image: '/images/reading1.jpg' # Add image post (optional)
+image: '/images/readfirsttime.jpg' # Add image post (optional)
 tags: [resources, reading]
 GA: G-DHPTC39GDF
 ---
@@ -55,4 +55,5 @@ There's just something about a Really Good book or movie that gives me such joy 
   </p>
 <br>
 <br>
-<sub>Photo by <a href="https://unsplash.com/@priscilladupreez?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Priscilla Du Preez 🇨🇦</a> on <a href="https://unsplash.com/photos/woman-reading-book-on-sofa-qinMdTWh1V0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sub>
+<sub>Photo by <a href="https://unsplash.com/@lodyssee_belle?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">L'Odyssée Belle</a> on <a href="https://unsplash.com/photos/boy-sitting-on-bench-beside-bookshelf-IMtEliM53Lc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  </sub>
