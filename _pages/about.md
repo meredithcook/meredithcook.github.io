@@ -13,7 +13,7 @@ I serve as the Grant Coordinator for Southeastern Baptist Theological Seminary, 
 
 Most of the articles on this site are introspections on how to live as a Christian in each season of life. As I fumble my way around, I desire to share what I'm learning in case it may help you, too. I will regularly share [lists of good articles and books](https://www.meredithcook.net/tags/#resources), with the occasional [book review](https://www.meredithcook.net/tags/#book-review) thrown in.
 
-When I'm not supplying my kids with snacks, taking them to the playground, or requesting large sums of money from foundations, I enjoy drinking too much coffee, hiking with my family, hosting friends for dinner, reading, and baking. You can also find me on [Twitter](https://twitter.com/meredithcook716){:target="_blank"}, where I occasionally interrupt your timeline with really boring tweets. 
+When I'm not rushing to carpool, supplying my kids with snacks, or requesting large sums of money from foundations, I enjoy drinking too much coffee, hiking with my family, hosting friends for dinner, reading, and baking.   
 
 ## Writing
 
