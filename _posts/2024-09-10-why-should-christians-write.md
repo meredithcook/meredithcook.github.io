@@ -32,7 +32,8 @@ I think there are three ways that stewardship provides this motivation.
 All that we are and all that we have comes from God, therefore all that we are and all that we have is a gift—one we should desire to steward for God's glory.
 
 Peter wrote such an encouragement to the exiled believers in 1 Peter 4:10-11:
-	**Just as each one has received a gift, use it to serve others, as good stewards of the varied grace of God. If anyone speaks, let it be as one who speaks God’s words; if anyone serves, let it be from the strength God provides, so that God may be glorified through Jesus Christ in everything. To him be the glory and the power forever and ever. Amen.** 
+
+> Just as each one has received a gift, use it to serve others, as good stewards of the varied grace of God. If anyone speaks, let it be as one who speaks God’s words; if anyone serves, let it be from the strength God provides, so that God may be glorified through Jesus Christ in everything. To him be the glory and the power forever and ever. Amen.
 
  God's word provides us with an enduring witness to His work in the world. So then, all that we write should bear witness to this testimony of what God has shown us in His word about who He is, what He has done through Christ, and who we are because of it. Our writing is not a means of making our name known—it's primarily a means of glorifying God and bearing witness to the gospel given to us through His word.  
 
