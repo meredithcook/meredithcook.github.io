@@ -12,7 +12,7 @@ GA: G-DHPTC39GDF
 
 <p align="center">
 
-<a href="https://amzn.to/47vlzQl" target="blank"><img src="meredithcook.github.io/images/worryfreeparent.jpg" alt="Habits of the Household" style="width:300px;height:425px;padding:10px" align="center"></a></p>
+<a href="https://amzn.to/47vlzQl" target="blank"><img src="meredithcook.github.io/images/worryfreeparent.jpg" alt="The Worry-Free Parent" style="width:300px;height:425px;padding:10px" align="center"></a></p>
 <p>
 <b><a href= "https://amzn.to/47vlzQl" target= "blank"><i>The Worry-Free Parent: Living in Confidence So Your Kids Can Too</i></a></b>
 <br> 
@@ -28,7 +28,7 @@ Bethany House Publishers, 2023
 <br>
 <b>Review</b>
 <br>
-I discovered Sissy Goff's book, <a href="https://amzn.to/3Txiw4x" target="blank"><i>Raising Worry-Free Girls</i></a> shortly after my daughter was born. I read it immediately, for I feared that my own battles with worry and anxiety would spill over onto my daughter. Five years later, I can say that I probably read <i>Worry-Free Girls</i> far too early, but that's on brand for someone with anticipatory anxiety as I do. I've since read several books by Goff and her counterparts, David Thomas and Melissa Trevathan, finding their work to be a helpful combination of clinical research and methodology, but based in Biblical truth. <i>The Worry-Free Parent</i> was no exception. Goff's book helps parents discover the roots of their anxiety, understand how the anxious mind works and how to help rewire it, and graciously speaks the truth about how anxiety affects our children and why it is important to fight against it. While not a cure-all, particularly for parents who deal with clinical anxiety, <i>The Worry-Free Parent</i> is, at the least, a helpful and effective starting point for anxious parents who wish to combat worry and avoid passing it on to their children. 
+I discovered Sissy Goff's book, <a href="https://amzn.to/3Txiw4x" target="blank"><i>Raising Worry-Free Girls</i></a> shortly after my daughter was born. I read it immediately, for I feared that my own battles with worry and anxiety would spill over onto my daughter. Five years later, I can say that I probably read <i>Worry-Free Girls</i> far too early, but that's on brand for someone who deals with anticipatory anxiety as I do. I've since read several books by Goff and her counterparts, David Thomas and Melissa Trevathan, finding their work to be a helpful combination of clinical research and methodology, but based in Biblical truth. <i>The Worry-Free Parent</i> was no exception. Goff's book helps parents discover the roots of their anxiety, understand how the anxious mind works and how to help rewire it, and graciously speaks the truth about how anxiety affects our children and why it is important to fight against it. While not a cure-all, particularly for parents who deal with clinical anxiety, <i>The Worry-Free Parent</i> is, at the least, a helpful and effective starting point for anxious parents who wish to combat worry and avoid passing it on to their children. 
 <br>
 <br>
 <b>Pros:</b>
