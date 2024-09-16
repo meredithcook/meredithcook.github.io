@@ -56,6 +56,8 @@ I discovered Sissy Goff's book, <a href="https://amzn.to/3Txiw4x" target="blank"
 <b>Favorite Quotes:</b>
 <br>
 <i>"Every expert on worry and anxiety would say that for anyone of any age to work through their anxiety, they have to do the scary thing."</i>
+<br>
+<br>
 <i>"The goal is not to stop feeling anxious. The goal is to learn that you can feel fear and still do the brave thing..."</i>
 <br>
 <sub>Photo by <a href="https://unsplash.com/@mitchel3uo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mitchell Luo</a> on <a href="https://unsplash.com/photos/boy-playing-balance-bike-WU9n25_0PBo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
