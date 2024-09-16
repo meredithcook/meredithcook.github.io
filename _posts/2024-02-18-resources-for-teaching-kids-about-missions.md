@@ -7,11 +7,14 @@ image: '/images/atlas.jpg' # Add image post (optional)
 tags: [resources, missions]
 GA: G-DHPTC39GDF
 ---
+<i>Updated September 2024</i>
+
+---
 Our greatest desire for our kids is that they would believe the gospel. We pray for their salvation every day, specifically that the Lord would save them at a young age. 
 
 Beyond that, we desire to teach our kids about [gospel-centered obedience to the Great Commission](https://keelancook.com/2020/04/07/parents-lets-raise-up-missionaries/){:target="_blank"}. The Lord may or may not call them to be full-time missionaries, but we are convicted that all Christians should seek to obey the Great Commission. 
 
-Our kids are 4 and 3, and I have spent a lot of time reading and researching books to help teach them about the nations in general and missions in specific. Below is a list of books that I've read to my kids or look forward to reading to them as they grow older, sorted by age group. 
+Our kids are 4 and 3, and I have spent a lot of time reading and researching books to help teach them about the nations in general and missions in specific. Below is a list of books that I've read to my kids or look forward to reading to them as they grow older, sorted by age group.
 
 Most of these books fit in one of two categories: missionary biographies or general world knowledge. Missionary biographies help us tell stories to our kids that illustrate to them how others have obeyed the Great Commission. Books about the world give kids a frame of reference for a world outside of the small one in which they currently live. Who knows? God may call us or our child to take the gospel to one of the countries we have learned about in these books! 
 
@@ -82,6 +85,15 @@ Again, creating awareness of the world outside of the small one in which our kid
 [*Brave Heroes and Bold Defenders: 50 True Stories of Daring Men of God*](https://amzn.to/49Eckgv){:target="_blank"}
 
 From my research, there seem to be a lot of missionary biographies geared toward little girls in the younger ages. That's not a criticism—I'm thankful for it and will read those to both my daughter and son. However, I am glad to see a book that tells stories that my son would be able to identify with more as he gets older. This book doesn't focus solely on missionaries, but I like this because it tells stories of ordinary men—past and present—who have been faithful to God through all walks of life. (There is a [book like this](https://amzn.to/3SN433d){:target="_blank"} geared toward girls, too.)
+
+<p align="center">
+<a href="https://amzn.to/4d7sMr4" target="blank"><img src="meredithcook.github.io/images/window.jpg" alt="Window on the World style="width:250px;height:300px;padding:10px" align="center"></a></p>
+
+[*Window on the World: An Operation World Prayer Resource*](https://amzn.to/4d7sMr4){:target="_blank"}
+
+Whether it actually is or not, *Operation World* is, in my mind, the OG resource for praying for the nations. So I was excited when I came across this one geared toward kids. Along with similar prayer resources and information found in the original book, it includes maps and photographs from around the world, much like the *This is My World* book, listed above. Though it could be a bit like drinking from a firehose, and younger kids may get overwhelmed by the sheer volume of information, this would be a great resource for families with older kids who are seeking to pray for unreached people groups.
+
+___
 
 I'll update this as I come across new books. I'm always looking for recommendations, too. Feel free to send them to me via [this contact form](https://www.meredithcook.net/contact/) and I may add them to the list.
 
