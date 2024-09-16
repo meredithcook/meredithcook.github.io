@@ -87,7 +87,7 @@ Again, creating awareness of the world outside of the small one in which our kid
 From my research, there seem to be a lot of missionary biographies geared toward little girls in the younger ages. That's not a criticism—I'm thankful for it and will read those to both my daughter and son. However, I am glad to see a book that tells stories that my son would be able to identify with more as he gets older. This book doesn't focus solely on missionaries, but I like this because it tells stories of ordinary men—past and present—who have been faithful to God through all walks of life. (There is a [book like this](https://amzn.to/3SN433d){:target="_blank"} geared toward girls, too.)
 
 <p align="center">
-<a href="https://amzn.to/4d7sMr4" target="blank"><img src="meredithcook.github.io/images/window.jpg" alt="Window on the World style="width:250px;height:300px;padding:10px" align="center"></a></p>
+<a href="https://amzn.to/4d7sMr4" target="blank"><img src="meredithcook.github.io/images/window.jpg" alt="Window on the World" style="width:250px;height:300px;padding:10px" align="center"></a></p>
 
 [*Window on the World: An Operation World Prayer Resource*](https://amzn.to/4d7sMr4){:target="_blank"}
 
