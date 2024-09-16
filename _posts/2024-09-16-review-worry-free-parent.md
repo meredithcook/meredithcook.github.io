@@ -14,7 +14,7 @@ GA: G-DHPTC39GDF
 
 <a href="https://amzn.to/47vlzQl" target="blank"><img src="meredithcook.github.io/images/worryfreeparent.jpg" alt="Habits of the Household" style="width:300px;height:425px;padding:10px" align="center"></a></p>
 <p>
-<b><a href= "https://amzn.to/47vlzQl" target= "blank"><i>HThe Worry-Free Parent: Living in Confidence So Your Kids Can Too</i></a></b>
+<b><a href= "https://amzn.to/47vlzQl" target= "blank"><i>The Worry-Free Parent: Living in Confidence So Your Kids Can Too</i></a></b>
 <br> 
 Sissy Goff
 <br>
