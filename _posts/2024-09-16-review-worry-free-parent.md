@@ -3,7 +3,7 @@ layout: post
 title: Does a worry-free parent really exist?
 date: 2024-09-16
 description: My review of "The Worry-Free Parent" by Sissy Goff.
-image: '/images/familyrhythm.jpg' # Add image post (optional)
+image: '/images/parentworry.jpg' # Add image post (optional)
 tags: [book-review]
 GA: G-DHPTC39GDF
 ---
@@ -58,5 +58,6 @@ I discovered Sissy Goff's book, <a href="https://amzn.to/3Txiw4x" target="blank"
 <i>"Every expert on worry and anxiety would say that for anyone of any age to work through their anxiety, they have to do the scary thing."</i>
 <i>"The goal is not to stop feeling anxious. The goal is to learn that you can feel fear and still do the brave thing..."</i>
 <br>
-<sub>Photo by <a href="https://unsplash.com/@anniespratt?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Annie Spratt</a> on <a href="https://unsplash.com/photos/people-sitting-on-dining-chair-in-front-of-table-aCIkDGiUFes?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sub>
+<sub>Photo by <a href="https://unsplash.com/@mitchel3uo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mitchell Luo</a> on <a href="https://unsplash.com/photos/boy-playing-balance-bike-WU9n25_0PBo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  </sub>
   
