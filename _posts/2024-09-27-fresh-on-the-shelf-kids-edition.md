@@ -11,9 +11,9 @@ I'm starting something new, but sporadic, on the blog today. While I don't keep 
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/godisgreat.jpg">
-    <img src="/images/toddlertheology1.jpg">
-    <img src="/images/toddlertheology2.jpg">
+    <a href="https://amzn.to/4dogTgB" target="blank"><img src="/images/godisgreat.jpg"></a>
+    <a href="https://amzn.to/3ZB9MOB" target="blank"><img src="/images/toddlertheology1.jpg"></a>
+    <a href="https://amzn.to/3BmdUIc" target="blank"><img src="/images/toddlertheology2.jpg"></a>
   </div>
 </div>
 
