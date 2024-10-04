@@ -17,11 +17,7 @@ If we write based on the whims of our audience or ourselves, then edifying and e
 
 ### Begin with Scripture and Build on Experience
 
-Once again, Christian writers are reminded of two things. 
-
-First, we are reminded that Scripture must be our starting point—our baseline—when we write.
-
-2 Timothy 3:16-17 says,
+Once again, Christian writers are reminded of two things. First, we are reminded that Scripture must be our starting point—our baseline—when we write. 2 Timothy 3:16-17 says,
 > All Scripture is inspired by God and is profitable for teaching, for rebuking, for correcting, for training in righteousness, so that the man of God may be complete, equipped for every good work. 
 
 If we are stewarding all that God has given us through His word in our writing, then our content should reflect what God's word does. The keyword here is *reflect.* Our own words are not the inerrant, infallible Scriptures. However, if our writing is grounded in Scripture, then our words point the church to God's words, which then teach, rebuke, correct, and train in righteousness. 
