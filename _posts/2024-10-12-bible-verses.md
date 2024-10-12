@@ -49,7 +49,7 @@ If you're in a season of spiritual dryness or struggle, maybe these verses will 
 #### Ephesians 6:12-13
 *For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the cosmic powers of this darkness, against evil, spiritual forces in the heavens. For this reason take up the full armor of God, so that you may be able to resist in the evil day, and having prepared everything, to take your stand.*
 
-<sub>[^1]: Mental health issues, like anxiety and depression, are a complicated subject. I want to be sensitive in how I talk about my own struggles for the sake of those who struggle with mental health in different ways. For more context about my own struggles with anxiety, you can check out [this article](https://www.meredithcook.net/climbing-the-slide).</sub>
+<sub> [^1]: Mental health issues, like anxiety and depression, are a complicated subject. I want to be sensitive in how I talk about my own struggles for the sake of those who struggle with mental health in different ways. For more context about my own struggles with anxiety, you can check out [this article](https://www.meredithcook.net/climbing-the-slide). </sub>
 
 <sub>Photo by <a href="https://unsplash.com/@kellysikkema?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Kelly Sikkema</a> on <a href="https://unsplash.com/photos/person-writing-on-white-paper-YnRNdB-XTME?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sub>
   
