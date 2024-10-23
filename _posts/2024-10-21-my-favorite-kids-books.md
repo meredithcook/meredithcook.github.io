@@ -27,7 +27,7 @@ As a side note, writing this post reminded me to mention <a href="https://imagin
 <a href="https://amzn.to/3NEf6cW" target="blank"><img src="meredithcook.github.io/images/theoffice.jpg" alt="The Office" style="width:250px;height300px;padding:10px" align="center"></a><p>
   <a href= "https://amzn.to/3NEf6cW" target= "blank"><i>The Office: A Day at Dunder Mifflin Elementary</i></a>
   <br>Robb Pearlman
-  <b>Little, Brown Books for Young Readers, 2020
+  <br>Little, Brown Books for Young Readers, 2020
   <br>
   <br>As a big fan of <i>The Office</i> TV series, this was a must-have for our kids' library. My kids are kind of "meh" about it, but I absolutely love the book. There are so many tiny references and callbacks to the show that make it a truly enjoyable read if you're a fan.
 </p>
