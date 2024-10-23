@@ -6,7 +6,6 @@ description: These are my (but not necessarily my kids') favorite children's boo
 image: '/images/kidsbooks.jpg' # Add image post (optional)
 tags: [resources, reading]
 GA: G-DHPTC39GDF
-published: false
 ---
 Last year, I wrote an article about our family's [favorite board books](https://www.meredithcook.net/favorite-board-books). At the time, my youngest was just started to graduate from board books to children's books and we've fully moved into that realm this year. As any parent can attest, some books are your kids' favorite but can be quite the slog to read aloud. I may or may not have hidden beloved books from time to time (but only temporarily). However, there are so many books that I love reading to my kids, many of which are ones I read as a child. 
 
