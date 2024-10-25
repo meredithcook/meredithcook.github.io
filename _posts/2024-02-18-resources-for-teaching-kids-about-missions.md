@@ -4,7 +4,7 @@ title: Resources to Help You Teach Your Kids About Missions
 date: 2024-02-18
 description: I have spent a lot of time reading and researching books to teach my kids about missions. Here is a master list of helpful books for babies to early teens.
 image: '/images/atlas.jpg' # Add image post (optional)
-tags: [resources, missions]
+tags: [resources, books, missions]
 GA: G-DHPTC39GDF
 ---
 <i>Updated September 2024</i>
