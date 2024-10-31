@@ -26,7 +26,7 @@ I took French in middle and high school, and I remember there being a grammatica
 
 ---
 
-### [ByteDance knew kids could get addicted to TikTok in 35 minutes, and harmed their development](https://getpocket.com/explore/item/this-is-the-most-bizarre-grammar-rule-you-probably-never-heard-of?utm_source=pocket-newtab-en-us&__readwiseLocation=){:target="_blank"}
+### [ByteDance knew kids could get addicted to TikTok in 35 minutes, and harmed their development](https://9to5mac.com/2024/10/15/bytedance-knew-kids-could-get-addicted-to-tiktok-in-35-mins-and-harmed-their-development/?__readwiseLocation=){:target="_blank"}
 Ben Lovejoy
 <br>9to5Mac
 
@@ -42,7 +42,7 @@ Are today's parents more fearful than other generations? Or are the fears just d
 
 ---
 
-### [Why Scruffy Hospitality Creates Space for Friendship](https://www.christianitytoday.com/2024/09/emptying-the-nest-in-hope-not-fear-parenting-deconstruction/?__readwiseLocation=){:target="_blank"}
+### [Why Scruffy Hospitality Creates Space for Friendship](https://knoxpriest.com/scruffy-hospitality-creates-space-friendship/?__readwiseLocation=){:target="_blank"}
 Jack King
 <br>KnoxPriest
 
@@ -60,7 +60,7 @@ As a writer, working in the education sphere, married to a professor, ChatGPT co
 
 ---
 
-### [Lessons about loss, living, and loving together](https://getpocket.com/explore/item/chatgpt-is-changing-the-way-we-write-here-s-how-and-why-it-s-a-problem?utm_source=pocket-newtab-en-us&__readwiseLocation=){:target="_blank"}
+### [Lessons about loss, living, and loving together](https://wng.org/opinions/lessons-about-loss-living-and-loving-together-1728036968?__readwiseLocation=){:target="_blank"}
 Nathan Finn
 <br>World
 
@@ -68,7 +68,7 @@ The aftermath of Hurricane Helene has been so devastating for a region that isn'
 
 ---
 
-### [Let's Stop the Kid Jokes](https://getpocket.com/explore/item/chatgpt-is-changing-the-way-we-write-here-s-how-and-why-it-s-a-problem?utm_source=pocket-newtab-en-us&__readwiseLocation=){:target="_blank"}
+### [Let's Stop the Kid Jokes](https://www.thegospelcoalition.org/article/stop-kid-jokes/){:target="_blank"}
 Moriah Lovett
 <br>TGC
 
