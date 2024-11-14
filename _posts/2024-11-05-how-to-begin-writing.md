@@ -25,8 +25,7 @@ If you've got all these things in order, then it's time to get started. Below ar
 4. **Finally, promote your writing.** Considering the theme of this entire series, this can seem contradictory to everything I've said before. Promoting your own writing can get a bit murky. However, if you really are seeking to steward God's word for His glory and the benefit of others, then I think you can promote your writing with a clear conscious. If your motivations are in check, then you posture will naturally be one of humility as you share your writing. 
 
 ---
-
-[^1] I went a kind of nerdy route and built my site using a free hosting service called Github. I pay annually for my domain name, and I paid a small amount for my website's template because there is no way I could design this thing myself. 
+[^1]: I went a kind of nerdy route and built my site using a free hosting service called Github. I pay annually for my domain name, and I paid a small amount for my website's template because there is no way I could design this thing myself. 
 ---
 <sub>Photo by <a href="https://unsplash.com/@thommilkovic?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Thom Milkovic</a> on <a href="https://unsplash.com/photos/person-using-black-typewriter-FTNGfpYCpGM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sub>
       
