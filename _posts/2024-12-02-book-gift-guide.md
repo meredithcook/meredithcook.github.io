@@ -97,5 +97,16 @@ The [TGC Kids books](https://amzn.to/49jzfim) have been helpful, parable-like st
 
 You cannot go wrong with the classic Little Golden Books. We rarely go a day without reading at least one or two (we own the [Disney Princess](https://amzn.to/49it4Lk) and [Paw Patrol](https://amzn.to/3OzNaXR) box sets, along with a handful of other individual books.) I'm also a huge fan of [*The Office*](https://amzn.to/3VI89Mr) picture book (there are several others like it, including a [*Friends*](https://amzn.to/4fLfAdz) and [*Seinfeld*](https://amzn.to/41gO0AE) version). Lastly, our kids enjoy beginner reader books and even our 3-year-old has started learning some sight words with these books (There are hundreds to choose from, but our kids' favorites include *Fancy Nancy*, *Clark the Shark*, *Kit and Kaboodle*, and Disney. Look up [I Can Read](https://amzn.to/41gTStG) or [World of Reading](https://amzn.to/3AZlgBH) books for different levels of beginner readers.)
 
+# Miscellaneous
+<div class="gallery-box">
+  <div class="gallery">
+    <a href="https://amzn.to/4eXOX3N" target="blank"><img src="/images/marvel.jpg"></a>
+    <a href="https://amzn.to/4gfbWZ9" target="blank"><img src="/images/dictionary.jpg"></a>
+    <a href="https://amzn.to/3B5Tqnl" target="blank"><img src="/images/atlas1.jpg"></a>
+  </div>
+</div>
+
+Our parents and others have given our kids some storybook collections and these make great gifts. We own five total (the [Marvel](https://amzn.to/4eXOX3N) one listed above, several [Disney-themed](https://amzn.to/3CWBmfS), and one [Paw Patrol](https://www.walmart.com/ip/Paw-Patrol-Storybook-Collection-Walmart-Exclusive-Hardcover-9780593482797/287569687?wmlspartner=wlpa&selectedSellerId=6710&sourceid=dsn_ad_82a1172e-9aef-4deb-a6c1-b1278a1d5253&veh=dsn&wmlspartner=dsn_ad_82a1172e-9aef-4deb-a6c1-b1278a1d5253&cn=FY25-MP-PMAX2_cnv_dps_dsn_dis_ad_mp_s_n&gclsrc=aw.ds&wl9=pla&wl11=online&gad_source=1&gclid=CjwKCAiA0rW6BhAcEiwAQH28ItW42RZzzmEoINjtzdYRf6QwIVnVFLIlVfq0zT5PkmxtqwpePLAfexoCxtIQAvD_BwE)), and our kids love picking out different stories within them. Each story takes 5 or so minutes to read, which makes them a great bedtime book. And while it seems like an odd choice, I bought our daughter the dictionary listed above because for several months, she asked me what every other word I said meant. This one has a good variety of words and she likes flipping through it on occasion. Finally, we have this children's atlas, which has appealing drawings and simple information about geography for younger kids.
+
 <sub>Photo by <a href="https://unsplash.com/@wildacvila?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Andreea Radu</a> on <a href="https://unsplash.com/photos/red-and-green-ceramic-mug-beside-book-9eUfhiJJhDc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sub>
       
