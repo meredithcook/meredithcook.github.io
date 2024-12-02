@@ -21,7 +21,7 @@ These are organized by category first, but generally ascend in age group as you 
   </div>
 </div>
 
-I buy [*Sounding Joy*](https://amzn.to/3CTEDwp){:target="_blank"} for every baby shower I go to. It is probably my all-time favorite kids book. Maybe I'm overplaying it, but I just love it so much. [*Share the Joy*](https://amzn.to/3ZegyrS){:target="_blank"} is by my friend, Val, and is a sweet, life-a-flap book that reminds us that the best gift we receive at Christmas is Jesus. The classic [*Little Blue Truck's Christmas*](https://amzn.to/3VfEaLm){:target="_blank"} has been a years-long favorite thanks to the fun rhymes and light-up feature at the end. Finally, I bought [*How the Grinch Stole Christmas*](https://amzn.to/3B7ZQlP){:target="_blank"} for my kids this year, and they've read it no-less than 15 times in about 4 days.
+I buy [*Sounding Joy*](https://amzn.to/3CTEDwp){:target="_blank"} for every baby shower I go to. It is probably my all-time favorite kids book. Maybe I'm overplaying it, but I just love it so much. [*Share the Joy*](https://amzn.to/3ZegyrS){:target="_blank"} is by my friend, Val, and is a sweet, life-a-flap book that reminds us that the best gift we receive at Christmas is Jesus. The classic [*Little Blue Truck's Christmas*](https://amzn.to/3VfEaLm){:target="_blank"} has been a years-long favorite thanks to the fun rhymes and light-up feature at the end. Finally, I bought [*How the Grinch Stole Christmas*](https://amzn.to/3B7ZQlP){:target="_blank"} for my kids this year, and they've read it no less than 15 times in about 4 days.
 
 ## Christian Board Books
 
