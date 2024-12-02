@@ -36,7 +36,7 @@ I buy [*Sounding Joy*](https://amzn.to/3CTEDwp) for every baby shower I go to. I
 
 These books are technically gifts for the babies, but they're also really great tools to help parents begin intentionally teaching their children about God, the Bible, missions, and more. The [Baby Believer series](https://amzn.to/4fTqbmT) is great for babies to 2 year olds, while [my book](https://amzn.to/3ZIyw7n) and the toddler theology series (check the other books out [here](https://amzn.to/4ieKZ9M), [here](https://amzn.to/3VjwHL8), and [here](https://amzn.to/3ZegbgY)) are more suited for ages 2 and up (though that doesn't mean you can't start at infancy with these, too!). For another option, check out [*God is Great, God is Good*](https://amzn.to/3Vk0hAx) by my friend and former professor, D. Scott Hildreth.
 
-(And I realize it's a bit self-serving to include my own book here, but I do believe it's a helpful book to start teaching your kids about missions!)
+(And I realize it's a bit self-serving to include my own book here, but I do believe it's a helpful book to start teaching your kids about missions! For more kids' books specifically about missions, [check out this article](https://www.meredithcook.net/resources-for-teaching-kids-about-missions).)
 
 ## General Board Books
 
