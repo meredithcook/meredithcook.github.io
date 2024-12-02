@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Best Books to Gift this Christmas
+title: Best Books to Gift Your Kids this Christmas
 date: 2024-11-30
-description: A book gift guide for young kids and adults...because I have no idea what older kids and teenagers read.  # Add post description (optional)
+description: A book gift guide for young kids (up to about age 8).  # Add post description (optional)
 image:  images/christmasreading.jpg # Add image post (optional)
 tags: [books, christmas] # add tag
 GA: G-DHPTC39GDF
 ---
-We are always happy to buy our kids books anytime of the year, and often buy a stack of new books for them to open on Christmas Eve. Here is a list of what I think are the best books to gift to young kids and adults (because I have no idea what kids between the ages of 8 and 18 read). 
+We are always happy to buy our kids books anytime of the year, and often buy a stack of new books for them to open on Christmas Eve. Here is a list of what I think are the best books to gift to young kids (up to about age 8). 
 
-These are organized by category first, but generally ascend in age group as you scroll down. All images are linked to the Amazon listing for each book. (This article is a work in progress and will be finished soon!)
+These are organized by category first, but generally ascend in age group as you scroll down. All images are linked to the Amazon listing for each book.
 
 # For the Kids
 ## Christmas-Themed Books
