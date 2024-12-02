@@ -9,7 +9,7 @@ GA: G-DHPTC39GDF
 ---
 We are always happy to buy our kids books anytime of the year, and often buy a stack of new books for them to open on Christmas Eve. Here is a list of what I think are the best books to gift to young kids (up to about age 8). 
 
-These are organized by category first, but generally ascend in age group as you scroll down. All images are linked to the Amazon listing for each book. 
+These are organized by category first, but generally ascend in age group as you scroll down. All images are linked to the listing for each book. 
 
 ## Christmas-Themed Books
 
