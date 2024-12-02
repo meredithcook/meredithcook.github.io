@@ -3,7 +3,7 @@ layout: post
 title: Best Books to Gift this Christmas
 date: 2024-11-30
 description: A book gift guide for young kids and adults...because I have no idea what older kids and teenagers read.  # Add post description (optional)
-image:  images/ # Add image post (optional)
+image:  images/christmasreading.jpg # Add image post (optional)
 tags: [books, christmas] # add tag
 GA: G-DHPTC39GDF
 ---
@@ -60,3 +60,6 @@ The [BabyLit](https://amzn.to/4iiqSri) series of board books are fun primers bas
 </div>
 
 Interactive books are always great gifts since they might not be something you'd purchase when there's not a special occasion. My kids loved [*Press Here*](https://amzn.to/3AZifBo) and as a bonus for the parent, it sneakily teaches kids how to follow step-by-step instructions. Seek-and-find books ([here](https://amzn.to/49kKHdK) is the Christmas version of the one above) are a great gift and there are so many different options for various age groups (check [here](https://amzn.to/3ZxRspb) and [here](https://amzn.to/3Oy8Tj0) for a couple other versions.) Finally, we recently discovered *Kit and Kaboodle* books (check out [all the Highlights puzzle readers](https://amzn.to/4ieSsFQ)) and my son is particularly obsessed with them. These are more challenging for older toddlers and also help with sight words.
+
+<sub>Photo by <a href="https://unsplash.com/@wildacvila?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Andreea Radu</a> on <a href="https://unsplash.com/photos/red-and-green-ceramic-mug-beside-book-9eUfhiJJhDc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sub>
+      
