@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Best Books to Gift Your Kids this Christmas
+title: Best Books to Give Your Kids this Christmas
 date: 2024-11-30
 description: A book gift guide for young kids (up to about age 8).  # Add post description (optional)
 image:  images/christmasreading.jpg # Add image post (optional)
