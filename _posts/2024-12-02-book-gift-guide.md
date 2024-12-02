@@ -54,8 +54,10 @@ The [BabyLit](https://amzn.to/4iiqSri) series of board books are fun primers bas
 ## Interactive Books for Young Kids
 <div class="gallery-box">
   <div class="gallery">
-    <a href="https://amzn.to/3ViJWfi" target="blank"><img src="/images/presshere.jpg"></a>
-    <a href="https://amzn.to/418bGXM" target="blank"><img src="/images/firstwords.jpg"></a>
+    <a href="https://amzn.to/3AZifBo" target="blank"><img src="/images/presshere.jpg"></a>
+    <a href="https://amzn.to/4gejY4z" target="blank"><img src="/images/seekandfind.jpg"></a>
     <a href="https://amzn.to/3Oy6apZ" target="blank"><img src="/images/dada.jpg"></a>
   </div>
 </div>
+
+Interactive books are always great gifts since they might not be something you'd purchase when there's not a special occasion. My kids loved [*Press Here*](https://amzn.to/3AZifBo) and as a bonus for the parent, it sneakily teaches kids how to follow step-by-step instructions. Seek-and-find books ([here](https://amzn.to/49kKHdK) is the Christmas version of the one above) are a great gift and there are so many different options for various age groups (check [here](https://amzn.to/3ZxRspb) and [here](https://amzn.to/3Oy8Tj0) for a couple other versions.) Finally, we recently discovered *Kit and Kaboodle* books and my son is particularly obsessed with them. These are more challenging for older toddlers and also help with sight words.
