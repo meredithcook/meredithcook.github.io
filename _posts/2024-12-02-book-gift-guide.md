@@ -9,7 +9,7 @@ GA: G-DHPTC39GDF
 ---
 We are always happy to buy our kids books anytime of the year, and often buy a stack of new books for them to open on Christmas Eve. Here is a list of what I think are the best books to gift to young kids (up to about age 8). 
 
-These are organized by category first, but generally ascend in age group as you scroll down. All images are linked to the Amazon listing for each book. All of the books on this list I have personally read or used with my kids and many of these I have gifted to other parents. 
+These are organized by category first, but generally ascend in age group as you scroll down. All images are linked to the Amazon listing for each book. 
 
 ## Christmas-Themed Books
 
@@ -84,7 +84,18 @@ When she "graduated" out of the preschool ministry, our church's children's mini
   </div>
 </div>
 
-The [TGC Kids books](https://amzn.to/49jzfim) have been helpful, parable-like stories that my kids have both enjoyed and have been a good tool to help them learn about subjects like coveting, lying, screentime, and the church. As a parent, I have greatly appreciated the [*God Made Me* series](https://amzn.to/3CObd2H). These books have helped us address hard topics with our kids in an age appropriate manner (note that the [*God Made All of Me*](https://amzn.to/3ZwJuww) book teaches children the correct terminology for their private parts.) Finally, there are lots of great picture-book-biographies for kids (check out the [Do Great Things for God](https://amzn.to/3Zxj0L8) series and the [Here I Am](https://amzn.to/3B7epGm) series). [*Lottie Moon:The Girl Who Changed the World*](https://amzn.to/3AZ0fXP) is my favorite because, more than any other biography I've read with my kids, it really focuses on how Lottie shared the gospel in China. 
+The [TGC Kids books](https://amzn.to/49jzfim) have been helpful, parable-like stories that my kids have both enjoyed and have been a good tool to help them learn about subjects like coveting, lying, screentime, and the church. As a parent, I have greatly appreciated the [*God Made Me* series](https://amzn.to/3CObd2H). These books have helped us address hard topics with our kids in an age appropriate manner (note that the [*God Made All of Me*](https://amzn.to/3ZwJuww) book teaches children the correct terminology for their private parts.) Finally, there are lots of great picture-book-biographies for kids (check out the [Do Great Things for God](https://amzn.to/3Zxj0L8) series and the [Here I Am](https://amzn.to/3B7epGm) series). [*Lottie Moon:The Girl Who Changed the World*](https://amzn.to/3AZ0fXP) is my favorite because it seems to focus more on Lottie's actual mission work than some other books of its kind. 
+
+# Picture Books and Readers
+<div class="gallery-box">
+  <div class="gallery">
+    <a href="https://amzn.to/4ijc9MI" target="blank"><img src="/images/theincredibles.jpg"></a>
+    <a href="https://amzn.to/3VI89Mr" target="blank"><img src="/images/theoffice.jpg"></a>
+    <a href="https://amzn.to/3VjH2Ha" target="blank"><img src="/images/worldofreading.jpg"></a>
+  </div>
+</div>
+
+You cannot go wrong with the classic Little Golden Books. We rarely go a day without reading at least one or two (we own the [Disney Princess](https://amzn.to/49it4Lk) and [Paw Patrol](https://amzn.to/3OzNaXR) box sets, along with a handful of other individual books.) I'm also a huge fan of [*The Office*](https://amzn.to/3VI89Mr) picture book (there are several others like it, including a [*Friends*](https://amzn.to/4fLfAdz) and [*Seinfeld*](https://amzn.to/41gO0AE) version). Lastly, our kids enjoy beginner reader books and even our 3-year-old has started learning some sight words with these books (There are hundreds to choose from, but our kids' favorites include *Fancy Nancy*, *Clark the Shark*, *Kit and Kaboodle*, and Disney. Look up [I Can Read](https://amzn.to/41gTStG) or [World of Reading](https://amzn.to/3AZlgBH) books for different levels of beginner readers.)
 
 <sub>Photo by <a href="https://unsplash.com/@wildacvila?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Andreea Radu</a> on <a href="https://unsplash.com/photos/red-and-green-ceramic-mug-beside-book-9eUfhiJJhDc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sub>
       
