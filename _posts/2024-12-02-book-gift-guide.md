@@ -19,7 +19,6 @@ These are organized by category first, but generally ascend in age group as you 
     <a href="https://amzn.to/3CTEDwp" target="blank"><img src="/images/soundingjoy.jpg"></a>
     <a href="https://amzn.to/3ZegyrS" target="blank"><img src="/images/sharethejoy.jpg"></a>
     <a href="https://amzn.to/3VfEaLm" target="blank"><img src="/images/lbtchristmas.jpg"></a>
-    <a href="https://amzn.to/3B7ZQlP" target="blank"><img src="/images/grinch.jpg"></a>
   </div>
 </div>
 
@@ -35,7 +34,7 @@ I buy [*Sounding Joy*](https://amzn.to/3CTEDwp) for every baby shower I go to. I
   </div>
 </div>
 
-These books are technically gifts for the babies, but they're also really great tools to help parents begin intentionally teaching their children about God, the Bible, missions, and more. The [Baby Believer series](https://amzn.to/4fTqbmT) is great for babies to 2 year olds, while [my book](https://amzn.to/3ZIyw7n) and the toddler theology series (check the other books out [here](https://amzn.to/4ieKZ9M), [here](https://amzn.to/3VjwHL8), and [here](https://amzn.to/3ZegbgY)) are more suited for ages 2 and up (though that doesn't mean you can't start at infancy with these, too!).
+These books are technically gifts for the babies, but they're also really great tools to help parents begin intentionally teaching their children about God, the Bible, missions, and more. The [Baby Believer series](https://amzn.to/4fTqbmT) is great for babies to 2 year olds, while [my book](https://amzn.to/3ZIyw7n) and the toddler theology series (check the other books out [here](https://amzn.to/4ieKZ9M), [here](https://amzn.to/3VjwHL8), and [here](https://amzn.to/3ZegbgY)) are more suited for ages 2 and up (though that doesn't mean you can't start at infancy with these, too!). For another option, check out [*God is Great, God is Good*](https://amzn.to/3Vk0hAx) by my friend and former professor, D. Scott Hildreth.
 
 (And I realize it's a bit self-serving to include my own book here, but I do believe it's a helpful book to start teaching your kids about missions!)
 
@@ -56,8 +55,8 @@ The [BabyLit](https://amzn.to/4iiqSri) series of board books are fun primers bas
   <div class="gallery">
     <a href="https://amzn.to/3AZifBo" target="blank"><img src="/images/presshere.jpg"></a>
     <a href="https://amzn.to/4gejY4z" target="blank"><img src="/images/seekandfind.jpg"></a>
-    <a href="https://amzn.to/3Oy6apZ" target="blank"><img src="/images/dada.jpg"></a>
+    <a href="https://amzn.to/3OABDrm" target="blank"><img src="/images/kitandkaboodle.jpg"></a>
   </div>
 </div>
 
-Interactive books are always great gifts since they might not be something you'd purchase when there's not a special occasion. My kids loved [*Press Here*](https://amzn.to/3AZifBo) and as a bonus for the parent, it sneakily teaches kids how to follow step-by-step instructions. Seek-and-find books ([here](https://amzn.to/49kKHdK) is the Christmas version of the one above) are a great gift and there are so many different options for various age groups (check [here](https://amzn.to/3ZxRspb) and [here](https://amzn.to/3Oy8Tj0) for a couple other versions.) Finally, we recently discovered *Kit and Kaboodle* books and my son is particularly obsessed with them. These are more challenging for older toddlers and also help with sight words.
+Interactive books are always great gifts since they might not be something you'd purchase when there's not a special occasion. My kids loved [*Press Here*](https://amzn.to/3AZifBo) and as a bonus for the parent, it sneakily teaches kids how to follow step-by-step instructions. Seek-and-find books ([here](https://amzn.to/49kKHdK) is the Christmas version of the one above) are a great gift and there are so many different options for various age groups (check [here](https://amzn.to/3ZxRspb) and [here](https://amzn.to/3Oy8Tj0) for a couple other versions.) Finally, we recently discovered *Kit and Kaboodle* books (check out [all the Highlights puzzle readers](https://amzn.to/4ieSsFQ)) and my son is particularly obsessed with them. These are more challenging for older toddlers and also help with sight words.
