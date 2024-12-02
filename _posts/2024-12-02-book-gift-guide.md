@@ -9,9 +9,7 @@ GA: G-DHPTC39GDF
 ---
 We are always happy to buy our kids books anytime of the year, and often buy a stack of new books for them to open on Christmas Eve. Here is a list of what I think are the best books to gift to young kids (up to about age 8). 
 
-These are organized by category first, but generally ascend in age group as you scroll down. All images are linked to the Amazon listing for each book.
-
-# For the Kids
+These are organized by category first, but generally ascend in age group as you scroll down. All images are linked to the Amazon listing for each book. All of the books on this list I have personally read or used with my kids and many of these I have gifted to other parents. 
 
 ## Christmas-Themed Books
 
@@ -76,6 +74,17 @@ We have been reading *The Jesus Storybook Bible* to our kids since our oldest wa
 When our oldest turned 5 this year, she transitioned out of childcare during our worship service and into the kindergarten Sunday School class. Since she would be sitting with us for the entire service, we bought her the leather-cover version of the [*Easy for Me* Bible](https://amzn.to/3ViJEoP). I think it's a really good starter Bible. It's pretty simple, with some inserts and front matter, but nothing too overwhelming for a young kid learning to read. The text is big enough for her to easily follow along when we're reading Scripture, but the book itself is not too big for her to handle.
 
 When she "graduated" out of the preschool ministry, our church's children's ministry gave her the [*CSB Explorer Bible*.](https://amzn.to/4g5G0GU) This Bible is chock-full of great information like background, dates, highlighted memory verses, and more. There are inserts with QR codes that parents can scan, linking to videos about certain passages and discussion questions families can use during devotional time at home. We don't use this with our kids regularly right now, but I think it will be a great tool to use as they get older.
+
+## Christian Picture Books
+<div class="gallery-box">
+  <div class="gallery">
+    <a href="https://amzn.to/4gguSGY" target="blank"><img src="/images/charlie.jpg"></a>
+    <a href="https://amzn.to/3Ze5Bq9" target="blank"><img src="/images/godmade.jpg"></a>
+    <a href="https://amzn.to/3AZ0fXP" target="blank"><img src="/images/lottiemoon.jpg"></a>
+  </div>
+</div>
+
+The [TGC Kids books](https://amzn.to/49jzfim) have been helpful, parable-like stories that my kids have both enjoyed and have been a good tool to help them learn about subjects like coveting, lying, screentime, and the church. As a parent, I have greatly appreciated the [*God Made Me* series](https://amzn.to/3CObd2H). These books have helped us address hard topics with our kids in an age appropriate manner (note that the [*God Made All of Me*](https://amzn.to/3ZwJuww) book teaches children the correct terminology for their private parts.) Finally, there are lots of great picture-book-biographies for kids (check out the [Do Great Things for God](https://amzn.to/3Zxj0L8) series and the [Here I Am](https://amzn.to/3B7epGm) series). [*Lottie Moon:The Girl Who Changed the World*](https://amzn.to/3AZ0fXP) is my favorite because, more than any other biography I've read with my kids, it really focuses on how Lottie shared the gospel in China. 
 
 <sub>Photo by <a href="https://unsplash.com/@wildacvila?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Andreea Radu</a> on <a href="https://unsplash.com/photos/red-and-green-ceramic-mug-beside-book-9eUfhiJJhDc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sub>
       
