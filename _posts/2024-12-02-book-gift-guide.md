@@ -104,7 +104,7 @@ As a parent, I have greatly appreciated the [*God Made Me* series](https://amzn.
 
 Finally, there are lots of great picture-book-biographies for kids (check out the [Do Great Things for God](https://amzn.to/3Zxj0L8){:target="_blank"} series and the [Here I Am](https://amzn.to/3B7epGm){:target="_blank"} series). [*Lottie Moon: The Girl Who Changed the World*](https://amzn.to/3AZ0fXP){:target="_blank"} is my favorite because it seems to focus more on Lottie's actual mission work (sharing the gospel, contextualization, etc) than some other books of its kind. 
 
-# Picture Books and Readers
+## Picture Books and Readers
 <div class="gallery-box">
   <div class="gallery">
     <a href="https://amzn.to/4ijc9MI" target="blank"><img src="/images/theincredibles.jpg"></a>
@@ -119,7 +119,7 @@ I'm also a huge fan of [*The Office*](https://amzn.to/3VI89Mr){:target="_blank"}
 
 Lastly, our kids enjoy beginner reader books and even our 3-year-old has started learning some sight words with these books (There are hundreds to choose from, but our kids' favorites include *Fancy Nancy*, *Clark the Shark*, *Kit and Kaboodle*, and Disney. Look up [I Can Read](https://amzn.to/41gTStG){:target="_blank"} or [World of Reading](https://amzn.to/3AZlgBH){:target="_blank"} books for different levels of beginner readers.)
 
-# Miscellaneous
+## Miscellaneous
 <div class="gallery-box">
   <div class="gallery">
     <a href="https://amzn.to/4eXOX3N" target="blank"><img src="/images/marvel.jpg"></a>
