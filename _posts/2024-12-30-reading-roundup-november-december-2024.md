@@ -17,6 +17,7 @@ Erin McCarthy and Stacy Conradt
 <br>Mental Floss
 
 I probably should have known this long before, but I long held suspicions that celebrities lip-sync their parade performances, and was grateful for the confirmation in this article. I love both behind-the-scenes information about pretty much anything entertainment-related, and the Macy's Thanksgiving Day parade, so this was a fun read for me. 
+
 ---
 
 ### [4 Emotions That Are Hidden Beneath Your Anger](https://www.crossway.org/articles/4-emotions-that-are-hidden-beneath-your-anger/?__readwiseLocation=){:target="_blank"}
@@ -31,8 +32,9 @@ Anger is a complex emotion and anyone who struggles with it would do well to rea
 Missy Speir
 <br>TGC
 
-I'd be lying if I said I didn't burr up at this article a little bit, but I think that's what makes it a good article. Not because it provokes the reader with an unnecessarily holier-than-thou, sarcastic, or biting tone. Rather, I think it's a needed corrective to what has become common vernacular even in Christian counsel and challenges my own beliefs about what the gospel says about my sinful condition. Consider this quote: <i>The true gospel teaches us that God became human to do what no human being could do for herself. The true gospel teaches us that “his divine power has granted to us all things that pertain to life and godliness,” and we receive this sacred endowment “through the knowledge of him” alone (2 Pet. 1:3, emphasis added).
-True Christianity is meant to be reflective, not reflexive.</i>
+I'd be lying if I said I didn't burr up at this article a little bit, but I think that's what makes it a good article. Not because it provokes the reader with an unnecessarily holier-than-thou, sarcastic, or biting tone. Rather, I think it's a needed corrective to what has become common vernacular even in Christian counsel and challenges my own beliefs about what the gospel says about my sinful condition. 
+
+Consider this quote: <i>The true gospel teaches us that God became human to do what no human being could do for herself. The true gospel teaches us that “his divine power has granted to us all things that pertain to life and godliness,” and we receive this sacred endowment “through the knowledge of him” alone (2 Pet. 1:3, emphasis added). True Christianity is meant to be reflective, not reflexive.</i>
 
 ---
 
@@ -41,6 +43,7 @@ John Piper
 <br>Desiring God
 
 Talk about a kick in the pants! 
+
 ---
 
 ### [The West Texas Road Trip You Didn’t Know You Were Missing](https://getpocket.com/explore/item/the-west-texas-road-trip-you-didn-t-know-you-were-missing?utm_source=firefox-newtab-en-us&__readwiseLocation=){:target="_blank"}
@@ -48,6 +51,7 @@ Sarah Theeboom
 <br>Afar
 
 This is a bit of a random choice, but at the end of 2020, my husband, daughter, and I (seven months pregnant) took a very similar roadtrip to the one described here. To date it remains probably my favorite vacation of all time. 
+
 ---
 
 ### [Teach Your Teen About Christian Freedom](https://www.thegospelcoalition.org/article/teens-christian-freedom/?__readwiseLocation=){:target="_blank"}
@@ -60,7 +64,7 @@ I really appreciate this treatment of the subject of Christian freedom. While mu
 
 ### Two Articles on Kids and Sports
 [My Parents Put Worship Above Sports. I’m Thankful.](https://www.thegospelcoalition.org/article/worship-above-sports/?__readwiseLocation=){:target="_blank"} (Luke Engstrom)
-[Why We Pulled Our Kids from Club Sports](https://www.thegospelcoalition.org/article/pulled-kids-club-sports/?__readwiseLocation=){:target="_blank"} (Sarah Eekhoff Zylstra and Ross Douma)
+<br>[Why We Pulled Our Kids from Club Sports](https://www.thegospelcoalition.org/article/pulled-kids-club-sports/?__readwiseLocation=){:target="_blank"} (Sarah Eekhoff Zylstra and Ross Douma)
 <br>TGC
 
 I put these two articles together because I think it's helpful to read from both a child's perspective and a parent/coach's perspective. Our son begins soccer this spring, and it's a reminder that our kids are rapidly reaching the age where extracurriculars could take over our lives if we aren't thoughtful and purposeful in how we approach them--sports in particular. Priorities can slip so easily and I appreciate the perspectives in both of these articles that encourage parents to keep their kids in church, even if it feels like it costs something in the short-term. 
