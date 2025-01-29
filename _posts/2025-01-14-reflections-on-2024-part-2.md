@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reflecting on Two Key Lessons in 2024- Part 2
-date: 2025-01-07
+date: 2025-01-14
 description: Disruptions to my own plans are just one of the myriad ways God works to sanctify me.
 image: '/images/agenda.jpg' # Add image post (optional)
 tags: [reflection, New-Year]
