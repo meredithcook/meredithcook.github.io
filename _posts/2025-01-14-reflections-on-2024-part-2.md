@@ -28,7 +28,7 @@ This was not the first time I've been disrupted, to be sure. But, because [God w
 
 ## Divine Disruptions
 
-About these same daily disruptions I so frequently gripe about, [Christina Fox](https://www.desiringgod.org/articles/when-god-interrupts-your-plans){:target= "blank"} wrote this:
+About these same daily disruptions I so frequently gripe about, [Christina Fox](https://www.desiringgod.org/articles/when-god-interrupts-your-plans){:target="_blank"} wrote this:
 
 > It’s hard to see all the little frustrating events and interruptions in our day as divinely placed opportunities to grow in grace, but they are. And seeing them as such helps us take our eyes off ourselves and put them on Christ, who cares more about our transformation than about our daily comfort. Rather than giving us a life of ease, he interrupts our lives with grace and shows us what we need most of all: himself.
 
@@ -37,7 +37,7 @@ If I truly believe that God is sovereign over all of life, then I necessarily ha
 And if I can get that lesson through my thick skull, then it's through that lens that I begin to view my own goals and aspirations. No longer is it about what I hope to accomplish for my own self, but it's about humbling walking each day with my plans in open hands. While I believe that prayerfully planning and setting goals can help us to steward our God-given time well, held too tightly, those goals become idols, ones to be killed via whatever means necessary. For me, that means becomes divine disruptions to my plans. 
 
 ## Planned Spontenaity
-More than a decade ago, [Paul Tripp wrote](https://www.paultripp.com/articles/posts/parenting-its-never-an-interruption){:target= "blank"}, 
+More than a decade ago, [Paul Tripp wrote](https://www.paultripp.com/articles/posts/parenting-its-never-an-interruption){:target="_blank"}, 
 
 > "Parenting is all about living by the principle of prepared spontaneity...What you do know is that Scripture gives you the wisdom that you need and your always-present Messiah gives you the grace that you need to be ready to respond to the moments of opportunity he’ll give you." 
 
