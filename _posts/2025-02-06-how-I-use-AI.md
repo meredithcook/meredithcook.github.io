@@ -34,5 +34,6 @@ For example, this past year, we started a tradition with our kids to use their b
 
 **4. I use AI to create images.** Canva has a great AI design tool that my husband and I recently discovered. I am currently testing it out on creating header images for this blog. I typically use Unsplash, but occasionally I can't find quite what I'm looking for in a header image. Today's blog post was a good excuse to try it out. 
 
-I have used AI to create fun cartoons that look like my kids. Recently, I was designing my son's birthday party invitation. He wants a superhero theme, so I used Canva's AI image generator to create a cartoon superhero that looks like him. See below:
+I have used AI to create fun cartoons that look like my kids. Recently, I was designing my son's birthday party invitation. He wants a superhero theme, so I used Canva's AI image generator to create a cartoon superhero that looks like him. See below!
 
+![Beach]({{site.baseurl}}/images/superezra.png)
