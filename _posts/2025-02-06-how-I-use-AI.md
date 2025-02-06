@@ -36,5 +36,5 @@ For example, this past year, we started a tradition with our kids to use their b
 
 I have used AI to create fun cartoons that look like my kids. Recently, I was designing my son's birthday party invitation. He wants a superhero theme, so I used Canva's AI image generator to create a cartoon superhero that looks like him. See below!
 
-<p>
-<img src="meredithcook.github.io/images/superezra.png" alt="Super Ezra" style="width:250px;height:300px;padding:10px" align="center"></p>
+<p align="center">
+<img src="meredithcook.github.io/images/superezra.png" alt="Super Ezra" style="width:250px;height:350px;padding:10px" align="center"></p>
