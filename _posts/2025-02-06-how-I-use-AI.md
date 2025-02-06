@@ -1,4 +1,12 @@
-# How I Use AI as a Writer
+---
+layout: post
+title: How I Use AI as a Writer
+date: 2025-02-06
+description: I rarely use AI but here are four ways I do use it.
+image: '/images/desktopcomputer.jpg' # Add image post (optional)
+tags: [writing, work]
+GA: G-DHPTC39GDF
+---
 
 At a routine dermatologist appointment, the doctor making the requisite small talk found out that I'm a grant writer. She admitted that she is a terrible writer and speller, though I'm not sure I totally believed her. Then she asked me a question I'm not sure I've been asked before, though you'd think that given writing is both my profession and primary hobby, I'd have been asked by now. 
 
@@ -24,7 +32,7 @@ I also will frequently skim the AI search results from a generic search engine b
 
 For example, this past year, we started a tradition with our kids to use their birthday parties as a way to be generous. Instead of getting a bunch of presents from the 15-20+ kids at their party, we talked with our kids about the importance of being generous...and reminded them that they would still get plenty of gifts from family members. The kids agreed to using their birthday party as a way to collect food for our church's food pantry. However, it's really hard to explain this well on a birthday invitation. So, we had AI write up a couple of sentences explaining what we were doing and from what I can tell, it went over well with the parents who brought their kids to the party.
 
-**4. I use AI to create images.** Canva has a great AI design tool that my husband and I recently discovered. Though I haven't used it for this yet, I plan to test it out on creating header images for this blog. I typically use Unsplash, but occasionally I can't find quite what I'm looking for in a header image. An AI image generator may change that. 
+**4. I use AI to create images.** Canva has a great AI design tool that my husband and I recently discovered. I am currently testing it out on creating header images for this blog. I typically use Unsplash, but occasionally I can't find quite what I'm looking for in a header image. Today's blog post was a good excuse to try it out. 
 
 I have used AI to create fun cartoons that look like my kids. Recently, I was designing my son's birthday party invitation. He wants a superhero theme, so I used Canva's AI image generator to create a cartoon superhero that looks like him. See below:
 
