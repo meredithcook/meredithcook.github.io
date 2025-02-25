@@ -14,11 +14,11 @@ It's been almost a year since *Go Tell Everyone: 9 Missionaries Who Shared the G
 
 Outreach magazine recently published a list of the past year's best books that emphasize outreach. I'm excited to share that *Go Tell Everyone* is included as an Also Recommended resource in their Kids and Youth segment! 
 
-![Sea](meredithcook/meredithcook.github.io/images/GoTellEveryone_Outreach.jpg)
+![Go Tell Everyone Outreach Magazine]({{meredithcook/meredithcook.github.io}}/images/GoTellEveryone_Outreach.jpg)
 
 
 # Posters Accompanying "Go Tell Everyone"
 
-A while back, I received an email from someone requesting posters of some of the missionaries in my book to put up in their church's children's ministry. B&H graciously created four posters that correspond with the book, available to download for free. You can access these posters at [gotelleveryonebook.com](gotelleveryonebook.com), under the Resources section towards the bottom of the page. 
+A while back, I received an email from someone requesting posters of some of the missionaries in my book to put up in their church's children's ministry. B&H graciously created four posters that correspond with the book, available to download for free. You can access these posters at [gotelleveryonebook.com](https://www.bhpublishinggroup.com/product/go-tell-everyone/#flipbook-sampler/), under the Resources section towards the bottom of the page. 
 
-![Sea](meredithcook/meredithcook.github.io/images/leile.png)
+![Go Tell Everyone Poster]({{meredithcook/meredithcook.github.io}}/images/leile.png)
