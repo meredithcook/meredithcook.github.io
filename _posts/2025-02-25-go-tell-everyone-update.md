@@ -19,7 +19,7 @@ Outreach magazine recently published a list of the past year's best books that e
 
 # Posters Accompanying *Go Tell Everyone*
 
-A while back, I received an email from someone requesting posters of some of the missionaries in my book to put up in their church's children's ministry. B&H graciously created four posters that correspond with the book, available to download for free. You can access these posters at gotelleveryonebook.com, under the Resources section towards the bottom of the page. 
+A while back, I received an email from someone requesting posters of some of the missionaries in my book to put up in their church's children's ministry. B&H graciously created four posters that correspond with the book, available to download for free. You can access these posters at [gotelleveryonebook.com](gotelleveryonebook.com), under the Resources section towards the bottom of the page. 
 
 <p align="center">
 <img src="meredithcook.github.io/images/leile.png" alt="George Leile poster" style="width:250px;height:350px;padding:10px" align="center"><p>
