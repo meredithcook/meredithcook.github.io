@@ -3,41 +3,49 @@ layout: post
 title: February Favorites
 date: 2025-02-28
 description: A look back on this month's favorite reads, media, and other moments. 
-image: '/images/roundup.jpg' # Add image post (optional)
+image: '/images/favorites.jpg' # Add image post (optional)
 tags: [reading, articles]
 GA: G-DHPTC39GDF
 published: false
 ---
 Sometimes I come across things I'd like to share online, but since cutting out all social media, there's not been a venue for me to do this--until I realized I could just share them here! I've been regularly sharing my favorite articles every month, but wanted to expand to other types of media (podcasts, videos, etc) and keep a record of some of my favorite moments of the month. Here we go:
 
-# Favorite Reads
+# Reads
 
-### [Finding God's Will](https://idcraleigh.com/sermons/january-18-2015-acts-112-26-finding-gods-will/?__readwiseLocation=){:target="_blank"}
-Jim Shaddix
-<br> Imago Dei Church Raleigh
+I read two books in February: 
 
-This week, the world lost a giant of the faith, [Dr. Jim Shaddix](https://www.sebts.edu/jim-shaddix-life-remembered/){:target="_blank"}. It was a great privilege to sit under his teaching and learn from him. I heard him preach this sermon in January 2015, at a time when I most needed to hear it. I vividly remember how comforted and encouraged I felt after he preached this. Pray for his wife, children, and grandchildren and for the Southeastern community grieving his loss.
+- [*Redeeming Productivity*](https://amzn.to/3F7T7dq){:target="_blank"} by Reagan Rose. I've read a lot of productivity/time management/habit formation books, secular and Christian, and this one was by far the best one I've read on the Christian side. 
 
----
+- [*Sisters First*](https://amzn.to/4btS1o4){:target="_blank"} by Jenna Bush Hager and Barbara Pierce Bush. This is an older one, but I had never read it. I love a good first family memoir/biography and this one didn't disappoint. 
 
-### [The Teenage Prank That's Lasted 60 Years](https://getpocket.com/explore/item/the-teenage-prank-that-s-lasted-60-years?utm_source=firefox-newtab-en-us&__readwiseLocation=){:target="_blank"}
-Clay Jennings Desmond
-<br>Narratively
+### [Writes and Write-Nots](https://paulgraham.com/writes.html?__readwiseLocation={:target="_blank"}
+Paul Graham
+<br> PaulGraham.com
 
-This made me and my husband laugh out loud more than once. We both grew up in contexts similar to what the author describes and I could picture any number of my guy friends in high school doing these exact shenanigans. 
+This article inspired [my own article](https://www.meredithcook.net/how-I-use-AI) from earlier this month. Writing can be intimidating and as AI makes it increasingly easier for non-writers to produce writing, it may also effectively decrease the critical thinking skills that are necessary to write well. 
 
 ---
 
-### [Will I Suffer My Singleness Forever?](https://www.desiringgod.org/interviews/will-i-suffer-my-singleness-forever?__readwiseLocation=){:target="_blank"}
-John Piper
-<br>Desiring God
+### [We Live Like Royalty and Don't Know It](https://www.thenewatlantis.com/publications/we-live-like-royalty-and-dont-know-it?__readwiseLocation=){:target="_blank"}
+Charles C. Mann
+<br>The New Atlantis
 
-It is so hard in our American context to swallow the truth that God's word never guarantees us a life of ease, comfort, or met desires. It's particularly hard for those of us who have, for one reason or another, lived a mostly comfortable life. Piper provides a needed reminder that "the New Testament presents the Christian life as shot through with sorrow and pain and disappointment and affliction and rejection and persecution — all of it sustained with gladness by rejoicing in the 'hope of the glory of God' (Romans 5:1–2)".
+This article sat with me longer than I expected it to and I've thought about it several times since I read it. I'm not sure where he's going with practical applications in this article, and I haven't yet read the series of articles that follows it, but I do think it's a thought-provoking read and should lead us to consider how fortunate we are to live in a time and context where our systems work for us most of the time.
 
 ---
 
-### [Why kids should read obituaries](https://commonwealthbeacon.org/opinion/why-kids-should-read-obituaries/?utm_source=substack&utm_medium=email&__readwiseLocation=){:target="_blank"}
-Peter Sipe
-<br>Commonwealth Beacon
+### [The Forces of Chance](https://aeon.co/essays/without-chaos-theory-social-science-will-never-understand-the-world?ref=thebrowser.com&utm_source=substack&utm_medium=email&__readwiseLocation=){:target="_blank"}
+Brian Klaas
+<br>Aeon
 
-Sipe makes the point that reading obituaries are about life and that kids can gain by reading them. Obituaries can inform and inspire. As a Christian, I agree with him but I also think it's important for another reason- death teaches us about God just like life does.
+A longer read but fascinating, and a bit anxiety inducing if I'm being honest! Our world is affected by flukes much more than I'd like to admit and this article shows just how hard it is to predict human behavior.
+
+# Watch/Listen
+
+### [Backstreet Boys' SNL 50 Performance](https://www.youtube.com/watch?v=7iAKNEBghmw){:target="_blank"}
+
+As a child of the late 90s/early 2000s, I needed this video in my life and particularly enjoyed Paul Rudd rocking out to BSB. 
+
+### [Diary of a CEO: Vanessa Van Edwards](https://www.youtube.com/watch?v=VHUrdELKjDw&t=122s&__readwiseLocation=){:target="_blank"}
+
+This is a long one and I listened to it like a podcast. Though I don't agree with everything she says, I found much of her information helpful. (A bit of NSFW language in this one.)
