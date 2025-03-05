@@ -3,10 +3,9 @@ layout: post
 title: February Favorites
 date: 2025-02-28
 description: A look back on this month's favorite reads, media, and other moments. 
-image: '/images/favorites.jpg' # Add image post (optional)
-tags: [reading, articles]
+image: '/images/february.jpg' # Add image post (optional)
+tags: [favorites]
 GA: G-DHPTC39GDF
-published: false
 ---
 Sometimes I come across things I'd like to share online, but since cutting out all social media, there's not been a venue for me to do this--until I realized I could just share them here! I've been regularly sharing my favorite articles every month, but wanted to expand to other types of media (podcasts, videos, etc) and keep a record of some of my favorite moments of the month. Here we go:
 
@@ -49,3 +48,5 @@ As a child of the late 90s/early 2000s, I needed this video in my life and parti
 ### [Diary of a CEO: Vanessa Van Edwards](https://www.youtube.com/watch?v=VHUrdELKjDw&t=122s&__readwiseLocation=){:target="_blank"}
 
 This is a long one and I listened to it like a podcast. Though I don't agree with everything she says, I found much of her information helpful. (A bit of NSFW language in this one.)
+
+<sub>Photo by <a href="https://unsplash.com/@m_rags?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">madeleine craine</a> on <a href="https://unsplash.com/photos/february-text-on-white-paper-iIs4_O1wQ-c?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sub>
