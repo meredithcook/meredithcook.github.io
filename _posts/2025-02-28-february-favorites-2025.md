@@ -17,6 +17,8 @@ I read two books in February:
 
 - [*Sisters First*](https://amzn.to/4btS1o4){:target="_blank"} by Jenna Bush Hager and Barbara Pierce Bush. This is an older one, but I had never read it. I love a good first family memoir/biography and this one didn't disappoint. 
 
+And here are some articles for you: 
+
 ### [Writes and Write-Nots](https://paulgraham.com/writes.html?__readwiseLocation=){:target="_blank"}
 Paul Graham
 <br> PaulGraham.com
