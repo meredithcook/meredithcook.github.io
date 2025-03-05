@@ -13,11 +13,11 @@ Sometimes I come across things I'd like to share online, but since cutting out a
 
 I read two books in February: 
 
-- [*Redeeming Productivity*](https://amzn.to/3F7T7dq){:target="_blank"} by Reagan Rose. I've read a lot of productivity/time management/habit formation books, secular and Christian, and this one was by far the best one I've read on the Christian side. 
+- [*Redeeming Productivity*](https://amzn.to/3F7T7dq){:target="_blank"} by Reagan Rose. I've read a lot of productivity/time management/habit formation books, secular and Christian, and this one was by far the best one I've read on the Christian side. I will publish a more in-depth review on this one at a later time.
 
 - [*Sisters First*](https://amzn.to/4btS1o4){:target="_blank"} by Jenna Bush Hager and Barbara Pierce Bush. This is an older one, but I had never read it. I love a good first family memoir/biography and this one didn't disappoint. 
 
-### [Writes and Write-Nots](https://paulgraham.com/writes.html?__readwiseLocation={:target="_blank"}
+### [Writes and Write-Nots](https://paulgraham.com/writes.html?__readwiseLocation=){:target="_blank"}
 Paul Graham
 <br> PaulGraham.com
 
@@ -38,6 +38,8 @@ Brian Klaas
 <br>Aeon
 
 A longer read but fascinating, and a bit anxiety inducing if I'm being honest! Our world is affected by flukes much more than I'd like to admit and this article shows just how hard it is to predict human behavior.
+
+---
 
 # Watch/Listen
 
