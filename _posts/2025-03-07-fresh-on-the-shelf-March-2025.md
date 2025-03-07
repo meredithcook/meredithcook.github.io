@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fresh On the Shelf- March 2025
-date: 2025-03-
+date: 2025-03-07
 description: A fun new kids book from my friend, Valerie Ellis.
 image: '/images/freshontheshelf2.png' # Add image post (optional)
 tags: [resources, reading]
