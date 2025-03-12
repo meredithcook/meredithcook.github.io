@@ -18,11 +18,16 @@ But the teaching moments come to us, ready or not. Sometimes, we summon these mo
 
 Far more often, though, the teaching moments come out of left field, giving me whiplash and scrambling for answers. Like when my daughter experienced a random moment of grief [over a teacher who passed away a year ago](https://www.meredithcook.net/a-parenting-moment-i-hoped-would-come-later). I know how it feels for grief to hit out of nowhere, but I had no idea this was coming for her. Or when my son witnessed his dad helping a disabled student--the first time it sank in for him that some people live with hardships for no reason at all except the encompassing curse of sin. The hard questions have started--often at bedtime, more often in the car. Never at a "convenient" time.
 
-"Is she going to get batter?"
+"Is she going to get better?"
+
 "Do all my teachers know God?"
+
 "Do kids always have a daddy at home?"
+
 "Is God in my heart?"
+
 "When we die, how do we hear God?"
+
 "What if God wasn't real?"
 
 These questions are only the tip of the iceberg. With each, I'm reminded again of the enormous responsibility that comes with raising little people. Responsibility, yes. But what an immense privilege, too. As time speeds up, the weight of this privilege increases but so does my desire to steward it well. 
