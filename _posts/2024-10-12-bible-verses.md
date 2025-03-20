@@ -35,7 +35,7 @@ If you're in a season of spiritual dryness or struggle, maybe these verses will 
 *Now if any of you lacks wisdom, he should ask God—who gives to all generously and ungrudgingly—and it will be given to him.*
 
 #### Romans 7:24-25
-*What a wretch man I am! Who will rescue me from this body of death? Thanks be to God through Jesus Christ our Lord! So then, with my mind I myself am serving the law of God, but with my flesh, the law of sin.*
+*What a wretched man I am! Who will rescue me from this body of death? Thanks be to God through Jesus Christ our Lord! So then, with my mind I myself am serving the law of God, but with my flesh, the law of sin.*
 
 #### 2 Peter 1:5-8
 *For this very reason, make every effort to supplement your faith with goodness, goodness with knowledge, knowledge with self-control, self-control with endurance, endurance with godliness, godliness with brotherly affection, and brotherly affection with love. For if you possess these qualities in increasing measure, they will keep you from being useless or unfruitful in the knowledge of our Lord Jesus Christ.*
