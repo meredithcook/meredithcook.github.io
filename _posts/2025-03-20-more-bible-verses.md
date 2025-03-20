@@ -3,7 +3,7 @@ layout: post
 title: How I Memorize Scripture and 6 More Bible Verses I'm Memorizing
 date: 2025-03-20
 description: I memorize Bible verses the old fashioned way. These are some Bible verses I'm working to memorize as I seek to fix my mind on things above.
-image: '/images/bibleversememory.jpg' # Add image post (optional)
+image: '/images/scripturememory.jpg' # Add image post (optional)
 tags: [Bible]
 GA: G-DHPTC39GDF
 ---
