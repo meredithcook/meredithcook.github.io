@@ -19,34 +19,42 @@ Every once in a while, I like to share our family's favorite children's books (y
   <br>I mentioned these storybook collections on my <a href="https://www.meredithcook.net/book-gift-guide">Christmas gift guide</a> last year and these are still a fan favorite. 
 </p>
 
+<p align="center">
+<a href="https://amzn.to/3G2e3mk" target="blank"><img src="meredithcook.github.io/images/incredibles.jpg" alt="Incredibles" style="width:250px;height:275px;padding:10px" align="center"></a><p>
+  <a href= "https://amzn.to/3G2e3mkN" target= "blank"><i>Little Golden Books</i></a>
+    <br>
+  <br>If my kids reach for a book, 9/10 times they're picking a Little Golden Book, and it's probably this one about <i>The Incredibles</i>. There's a reason these have always been a classic! We have quite a few of these, including the <a href="https://amzn.to/4jt9Oyy" target="blank">Disney Princess</a> box set and the <a href="https://amzn.to/3XUJnJX" target="blank">Paw Patrol</a> box set. 
+</p>
 
 ## My 5 Year Old's Favorites
-<p align="center">
-<a href="https://amzn.to/4eOQs5d" target="blank"><img src="meredithcook.github.io/images/builtcar.jpg" alt="If I Built a Car" style="width:250px;height:250px;padding:10px" align="center"></a><p>
-  <a href= "https://amzn.to/4eOQs5d" target= "blank"><i>If I Built a Car</i></a>
-  <br>Chris Van Dusen
-  <br>Puffin Books, 2007
-  <br>
-  <br>I first discovered this book at my aunt's house. My aunt was an elementary school media specialist and I always loved going with her to her library when I was younger. She's still an expert in kids' books and the <a href= "https://amzn.to/3YiuNLP" target= "blank"><i>If I Built</i></a> series are some of my most favorite books to read to my kids. The rhymes are fun, easy to read, and make sense (you don't always get all three in a rhyming book) and the whole premise of this series is creative. While <i>If I Built a Car</i> is my favorite of the trilogy, I highly recommend all three.  
-</p>
-
-<p align="center">
-<a href="https://amzn.to/3NEf6cW" target="blank"><img src="meredithcook.github.io/images/theoffice.jpg" alt="The Office" style="width:250px;height300px;padding:10px" align="center"></a><p>
-  <a href= "https://amzn.to/3NEf6cW" target= "blank"><i>The Office: A Day at Dunder Mifflin Elementary</i></a>
-  <br>Robb Pearlman
-  <br>Little, Brown Books for Young Readers, 2020
-  <br>
-  <br>As a big fan of <i>The Office</i> TV series, this was a must-have for our kids' library. My kids are kind of "meh" about it, but I absolutely love the book. There are so many tiny references and callbacks to the show that make it a truly enjoyable read if you're a fan.
-</p>
 
 <p align="center">
 <a href="https://amzn.to/3U5qWRa" target="blank"><img src="meredithcook.github.io/images/greatestbook.jpg" alt="The Greatest Book Ever" style="width:300px;height:300px;padding:10px" align="center"></a><p>
   <a href= "https://amzn.to/3U5qWRa" target= "blank"><i>The Greatest Book Ever</i></a>
-  <br>Teresa Joyelle Krager
-  <br>B&H Kids, 2023
+  <br>Mary Pope Osborne
+  <br>Random House, 2010
   <br>
-  <br><i>The Greatest Book Ever</i> is fun, bright, and piques kids' curiosity about the Bible. I <a href="https://www.meredithcook.net/review-the-greatest-book-ever">wrote a review</a> of this book earlier this year if you'd like more reasons why I love it so much.
+  <br><i>The Magic Treehouse: Dinosaurs Before Dark</i> has become a huge hit for my daughter. She reads it over and over. She has also read <a href= "https://amzn.to/4cxOEgA" target="blank"><i>The Knight at Dawn</i></a> and likes it, but not quite as much.
 </p>
+
+<p align="center">
+<a href="https://amzn.to/42pvYuL" target="blank"><img src="meredithcook.github.io/images/boxcar.jpg" alt="The Boxcar Children" style="width:250px;height:275px;padding:10px" align="center"></a><p>
+  <a href= "https://amzn.to/42pvYuL" target= "blank"><i>The Boxcar Children</i></a>
+  <br>Gertrude Chandler Warner
+  <br>Random House, 1989
+  <br>
+  <br>We cut the kids' teeth on <i>The Boxcar Children</i> series when I found <a href= "https://amzn.to/3EkLnVh" target= "blank">an early reader version</a> of the series at the library. I recently bought my daughter the box set of the actual chapter books, wanting to give her some longer and more challenging books to read. She loved the first one. 
+</p>
+
+<p align="center">
+<a href="https://amzn.to/3YrQM3y" target="blank"><img src="meredithcook.github.io/images/fancynancy.jpg" alt="Fancy Nancy" style="width:250px;height300px;padding:10px" align="center"></a><p>
+  <a href= "https://amzn.to/3YrQM3y" target= "blank"><i>Fancy Nancy</i></a>
+  <br>Jane O'Connor
+  <br>Harper Collins
+  <br>
+  <br><i>Fancy Nancy</i> has been a years-long favorite for my daughter. These are the first books she goes for at the library. 
+</p>
+
 
 <p align="center">
 <a href="https://amzn.to/3YB95UD" target="blank"><img src="meredithcook.github.io/images/greeneggs.jpg" alt="Green Eggs and Ham" style="width:250px;height:300px;padding:10px" align="center"></a><p>
