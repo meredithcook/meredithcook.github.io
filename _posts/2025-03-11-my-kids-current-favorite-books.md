@@ -3,10 +3,9 @@ layout: post
 title: My Kids' (Current) Favorite Children's Books
 date: 2025-04-11
 description: These are my kids' current favorite children's books. 
-image: '/images/kidsbooks.jpg' # Add image post (optional)
+image: '/images/childreading.jpg' # Add image post (optional)
 tags: [resources, reading]
 GA: G-DHPTC39GDF
-published: false
 ---
 Every once in a while, I like to share our family's favorite children's books (you can find our <a href="https://www.meredithcook.net/favorite-board-books">favorite board books here</a>) and <a href="https://www.meredithcook.net/my-favorite-kids-books">my personal favorites here</a>). Today I'm sharing what my kids are currently loving. Of course, this changes from week to week, but here are a handful of consistent favorites. 
 
@@ -29,8 +28,8 @@ Every once in a while, I like to share our family's favorite children's books (y
 ## My 5 Year Old's Favorites
 
 <p align="center">
-<a href="https://amzn.to/3U5qWRa" target="blank"><img src="meredithcook.github.io/images/greatestbook.jpg" alt="The Greatest Book Ever" style="width:300px;height:300px;padding:10px" align="center"></a><p>
-  <a href= "https://amzn.to/3U5qWRa" target= "blank"><i>The Greatest Book Ever</i></a>
+<a href="https://amzn.to/4j3UN6t" target="blank"><img src="meredithcook.github.io/images/treehouse.jpg" alt="The Magic Treehouse" style="width:250px;height:300px;padding:10px" align="center"></a><p>
+  <a href= "https://amzn.to/4j3UN6t" target= "blank"><i>The Magic Treehouse: Dinosaurs Before Dark</i></a>
   <br>Mary Pope Osborne
   <br>Random House, 2010
   <br>
@@ -55,24 +54,32 @@ Every once in a while, I like to share our family's favorite children's books (y
   <br><i>Fancy Nancy</i> has been a years-long favorite for my daughter. These are the first books she goes for at the library. 
 </p>
 
+## My 4 Year Old's Favorites
 
 <p align="center">
-<a href="https://amzn.to/3YB95UD" target="blank"><img src="meredithcook.github.io/images/greeneggs.jpg" alt="Green Eggs and Ham" style="width:250px;height:300px;padding:10px" align="center"></a><p>
-  <a href= "https://amzn.to/3YB95UD" target= "blank"><i>Green Eggs and Ham</i></a>
-  <br>Dr. Seuss
-  <br>Beginner Books/Random House, 1960
+<a href="https://amzn.to/4j3UN6t" target="blank"><img src="meredithcook.github.io/images/kitandkaboodle.jpg" alt="Kit and Kaboodle" style="width:250px;height:300px;padding:10px" align="center"></a><p>
+  <a href= "https://amzn.to/4j3UN6t" target= "blank"><i>Kit and Kaboodle</i></a>
+  <br>Michelle Portice
+  <br>Highlights Press
   <br>
-  <br>To be quite honest, I find a lot of Dr. Seuss books get a bit long in the tooth as read-alouds. I do love <i>Green Eggs and Ham</i>, though. It's a fast-paced, fun read that the kids and I both enjoy.
+  <br>My kids have always loved a hunt-and-find book and my son especially enjoys the <i>Kit and Kaboodle</i> books. I like these because they're more challenging for him than others and they're actual books, too, so it's not just the hunt-and-find. There are a lot of books in the <a href="https://amzn.to/3ErKI4f" target="blank">Highlights Puzzle Readers Series</a>, but so far, we have only read the Kit and Kaboodle books.
 </p>
 
 <p align="center">
-<a href="https://amzn.to/3NyP4aW" target="blank"><img src="meredithcook.github.io/images/themitten.jpg" alt="The Mitten" style="width:300px;height:250px;padding:10px" align="center"></a><p>
-  <a href= "https://amzn.to/3NyP4aW" target= "blank"><i>The Mitten</i></a>
-  <br>Jan Brett
-  <br>Scholastic, 1990
+<a href="https://amzn.to/4ieWayi" target="blank"><img src="meredithcook.github.io/images/cars.jpg" alt="Cars" style="width:250px;height:300px;padding:10px" align="center"></a><p>
+  <a href= "https://amzn.to/4ieWayi" target= "blank"><i>The Cars Story Collection</i></a>
+  <br>RH/Disney, 2011
   <br>
-  <br>I remember reading <i>The Mitten</i> as a child and the adults around me loving the illutrations. At the time, I didn't appreciate them, but now I totally understand. While some of the stories she uses are adapted from old fables or fairy tales, it's the illustrations that are truly fantastic. We also love her version of <a href="https://amzn.to/4dXzel0" target="blank"><i>Goldilocks and the Three Bears</i></a>.
+  <br>We are trying rather intentionally to teach our son to read early, because we've seen the benefits it's reaped in our daughter. So when he asked for books about Lightning McQueen, I thought this one might be a good motivator for him to start practicing his reading. Of course, he'll learn in his own time, but he does love this book and reaches for it on a regular basis. 
   </p>
 
+<p align="center">
+<a href="https://amzn.to/42BOkJk" target="blank"><img src="meredithcook.github.io/images/missingpiece.jpg" alt="Missing Piece" style="width:250px;height:275px;padding:10px" align="center"></a><p>
+  <a href= "https://amzn.to/42BOkJk" target= "blank"><i>The Missing Piece</i></a>
+  <br>Shel Silverstein
+  <br>Harper & Row, 2006
+  <br>
+  <br>To be quite honest, I have no idea what it is about this book, but my son absolutely loves it. If we are reading a book before bedtime, this is the one he goes for 90 percent of the time. Both of my kids went through a pretty hardcore <a href="https://amzn.to/3RcuXkL" target="blank"><i>The Giving Tree</i></a>, phase, too.
+</p>
 
-<sub>Photo by <a href="https://unsplash.com/@hudsoncrafted?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Debby Hudson</a> on <a href="https://unsplash.com/photos/white-ceramic-pencil-organizer-on-top-of-stack-of-books-ERb-JXVwAfo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sub>
+<sub>Photo by <a href="https://unsplash.com/@derickray?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Derick McKinney</a> on <a href="https://unsplash.com/photos/a-group-of-books-on-a-floor-Jfo5lgfa3Rg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sub>
