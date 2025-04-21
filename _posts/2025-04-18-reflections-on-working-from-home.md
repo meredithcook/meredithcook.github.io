@@ -1,3 +1,12 @@
+---
+layout: post
+title: Reflections on Being a Stay-at-Home-Working-Mom
+date: 2025-04-18
+description: Some thoughts on balancing mom life and working life now that my kids are a little older.
+image: '/images/workingmom3.jpg' # Add image post (optional)
+tags: [work, parenting]
+GA: G-DHPTC39GDF
+---
 Three years ago, I wrote two articles about how I work a full-time job at home with two very young children (you can find them [here](https://www.meredithcook.net/the-stay-at-home-full-time-working-mom) and [here](https://www.meredithcook.net/the-stay-at-home-working-mom-part-2)). At the time, my kids were 2 and 1 and I was still very new at my job. 
 
 What I wrote in these articles feels like a lifetime ago, so I thought it might be helpful to provide some reflections on how my working life has evolved as my kids have grown. 
@@ -16,7 +25,8 @@ What I wrote in these articles feels like a lifetime ago, so I thought it might 
     I am so naturally task-oriented. It is tempting to interpret my kids' growing self-sufficiency, ability to play well together, and capacity to understand that I'm working as an excuse to lean into my task-oriented-ness (I'm sure that's not a real word), so I daily have to remind myself to treat them as more important than myself. 
 
 
-
+<sub>Photo by <a href="https://unsplash.com/@ergonofis?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">ergonofis</a> on <a href="https://unsplash.com/photos/a-woman-sitting-at-a-table-with-a-child-using-a-laptop-Yt-xvKkXtCc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sub>
+      
 
 
 
