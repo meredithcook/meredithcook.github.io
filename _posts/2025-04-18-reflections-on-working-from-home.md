@@ -7,9 +7,7 @@ image: '/images/workingmom3.jpg' # Add image post (optional)
 tags: [work, parenting]
 GA: G-DHPTC39GDF
 ---
-Three years ago, I wrote two articles about how I work a full-time job at home with two very young children (you can find them [here](https://www.meredithcook.net/the-stay-at-home-full-time-working-mom) and [here](https://www.meredithcook.net/the-stay-at-home-working-mom-part-2)). At the time, my kids were 2 and 1 and I was still very new at my job. 
-
-What I wrote in these articles feels like a lifetime ago, so I thought it might be helpful to provide some reflections on how my working life has evolved as my kids have grown. 
+Three years ago, I wrote two articles about how I work a full-time job at home with two very young children (you can find them [here](https://www.meredithcook.net/the-stay-at-home-full-time-working-mom) and [here](https://www.meredithcook.net/the-stay-at-home-working-mom-part-2)). What I wrote in these articles feels like a lifetime ago, so I thought it might be helpful to provide some reflections on how my working life has evolved as my kids have grown. 
 
 1. In short, it has gotten easier in some ways and harder in some ways. Mostly, though, it's gotten easier.  
 2. When I wrote the first articles, I was very new to my job and my kids were 2 and 1. I felt overwhelmed at times. But jobs don't stay new forever, and babies don't keep. I still need help remembering that at times. 
