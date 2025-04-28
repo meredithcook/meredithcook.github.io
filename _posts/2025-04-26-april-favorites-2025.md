@@ -21,9 +21,10 @@ You can read more about Dr. Harper [here](https://www.sebts.edu/news-and-events/
 
 ### [Missions, Illnesses and God](https://www.thecgcs.org/resources/post/missions-illnesses-and-god/?__readwiseLocation=){:target="_blank"}
 Scarlett Johnson
-<br> CGCS
+<br>CGCS
 
 Scarlett is a type-1 diabetic who also serves as a missionary overseas. In this article, she discusses how God's purposes carry forth despite our perceived limitations. It is full of hope and encouragement to follow God's call and trust His character throughout all of our struggles.
+
 ---
 
 ### [The Paradox of Ease: Why Friction is Good for You](https://www.thegospelcoalition.org/blogs/trevin-wax/paradox-ease/?__readwiseLocation){:target="_blank"}
