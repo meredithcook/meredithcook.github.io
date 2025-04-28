@@ -3,10 +3,9 @@ layout: post
 title: April Favorites
 date: 2025-04-26
 description: A look back on this month's favorite reads, media, and other moments. 
-image: '/images/march.jpg' # Add image post (optional)
+image: '/images/april2025.jpg' # Add image post (optional)
 tags: [favorites]
 GA: G-DHPTC39GDF
-published: false
 ---
 It has been a sad week in our community and household as one of our favorite professors passed away after a battle with cancer. We loved and deeply respected Dr. Harper, and he was a great encouragement to both of us. We are sad that he is gone, but we are grateful that he is fully healed and in the presence of Jesus. So, while this is a more sad intro to this monthly post, I wanted to honor his memory. 
 
@@ -55,42 +54,18 @@ The title is pretty straightforward, but I enjoyed this fun read reflecting on c
 Tim Challies
 <br>Challies.com
 
-As someone who struggles with anxiety, one of the hardest character traits of God for me to wrap my mind around his His sovereignty. I grasp for control to try to alleviate anxiety. 
-
----
-
-# Watch/Listen
-
-## YouTube Workout Channels
-
-For the first time ever, I've been exercising regularly and have kept up the habit for about six months now. I just use free workout videos on YouTube, and these are the channels I turn to most:
-
-### [Team Body Project](https://www.youtube.com/@BodyProjectchallenge/featured){:target="_blank"}
-
-I enjoy this channel enough that I've seriously considered subscribing to their premium plan (I just can't justify paying for it when there are literally thousands of free workouts on YouTube). I like this channel because most of the videos are both challenging and are well-rounded (full-body) without making me feel like I'm going to die by the end. Though some workouts are at a higher level, you can check out the videos on their actual website to see the level of difficulty ahead of time, if you want to know what you're getting into before you start. 
-
-### [PS Fit](https://www.youtube.com/@PS_Fit){:target="_blank"}
-
-PS Fit used to be my go-to whenever I'd get into a temporary exercise routine. There are a lot of dance-type workouts which I used to do exclusively because I hated any other kind of exercise! Now, I use only 2-3 of the same videos when I'm wanting to do something familiar without having to think too much about it. 
-
-### [fitbymik](https://www.youtube.com/@fitbymik){:target="_blank"}
-
-This is one of my go-to channels for strength workouts. Her workouts are challenging without being too crazy and she's not annoying!
-
-### [Get Fit with Rick](https://www.youtube.com/@rickbhullarfitness){:target="_blank"}
-
-I discovered this channel a few years ago when I felt I didn't have the capacity to do any kind of exercise other than walking. I don't come to this channel often anymore, because I don't find it challenging enough, I do use these videos on rest days or when I'm not feeling well but still want to try to exercise a little bit. If I'm just wanting to walk and need a bit more challenge, I just speed up his video to 1.5 or even 2 (I don't think you can do this on YouTube but I use a different player, which lets me speed it up.)
+As someone who struggles with anxiety, one of the hardest character traits of God for me to wrap my mind around his His sovereignty. I grasp for control to try to alleviate anxiety. This article is a helpful corrective to that tendency and a reminder of a better way to fight anxiety.
 
 ---
 
 # Things I'm Loving
 
-- Our cherry blossom trees have bloomed and our driveway looks like it's snowed pink flowers. I love all of the blooming things around our house and am thankful for whichever previous owner did that work for me to enjoy!
+- Hosting people in our home. During the last half of last year, we stepped back (a little, not completely) from having people over as regularly to try to get my husband through the finish line of his PhD. Now that he's finished, we've returned to having people over as frequently as we had been and I have been reminded of how much I love it.
 
-- I have fully bought in to the year-round school calendar. Our oldest is on a three-week break for spring right now and I absolutely love these longer breaks throughout the year, rather than a longer summer. Summer is going to feel squeezed (she only gets 5 weeks off for summer), for sure, but having these more regular long breaks has been much needed every time they come around.
+- Volunteering at my daughter's school. Growing up, my mom was always helping out at my school and it was important to me to be present at my daughter's school as much as I can with a full-time job and a younger child still at home. But, I have grown to really enjoy volunteering when I can and I was able to be there for a couple of events this month.
 
-- Our kids hardcore pretend-play pretty much all the time, and one of my favorite things to do is ask them questions about whichever story or world they're living in the moment. This season with them has been the most precious. 
+- Taking my daughter to coffee shops. There is something bittersweet about watching your kids get older and realizing they'll never be a baby again, but there is so much fun in taking them to do things we both enjoy when they're old enough to do so. She loves taking a book and getting a hot chocolate to drink while she reads.
 
-- I introduced our oldest to the [*Boxcar Children*](https://amzn.to/4j4F4E0){:target="_blank"} series and it's such a joy watching her enjoy the books I loved so much as a kid.
+- My son's servant-heart. I think anyone can learn to serve well, but some people just seem to have a natural inclination to service. While he's only 4, he seems to have such a gift for serving others. I'm just praying that persists!   
 
-<sub>Photo by <a href="https://unsplash.com/@glencarrie?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Glen Carrie</a> on <a href="https://unsplash.com/photos/white-and-black-letter-letter-letter-letter-blocks-5eyAJMTb6mM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sub>
+<sub>Photo by <a href="https://unsplash.com/@elin_mel?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Elin Melaas</a> on <a href="https://unsplash.com/photos/a-cup-of-coffee-next-to-an-open-book-pUk5lhLyHTg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sub>
