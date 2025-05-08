@@ -1,3 +1,12 @@
+---
+layout: post
+title: Why We Teach Our Kids About Missions
+date: 2025-05-05
+description: Though I've written before on *how* parents can teach their kids about missions, often we need the *why* before we can do the *how*.
+image: '/images/map.jpg' # Add image post (optional)
+tags: [missions, parenting]
+GA: G-DHPTC39GDF
+---
 *Writer's note: The following article is adapted from two presentations I've given recently on this topic: one from a family missions weekend at Salem Baptist Church in Salem, VA; the other from a presentation I gave at the 2025 Southeast regional meeting of the Evangelical Missiological Society.*
 
 ---
@@ -42,3 +51,5 @@ This cyclical nature between obeying the Great Commandment and the Great Commiss
 
 The gospel is good news for the whole world, including our children. And when we share the gospel with our children, we also want to teach them what to do with it after they believe (Lord willing). When we begin teaching our kids the Bible, it's not a far leap to the Great Commission. We can start building a solid foundation of both gospel truth and a Great Commission perspective in our kids. Then, if the Lord calls them to be a missionary, they're prepared to say "yes!" 
 
+<sub>Photo by <a href="https://unsplash.com/@aslylmz?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Aslı Yılmaz</a> on <a href="https://unsplash.com/photos/world-map-near-desk-globe-on-brown-wooden-panel-u1PX1Q26Kpo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sub>
+      
