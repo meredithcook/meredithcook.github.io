@@ -55,4 +55,4 @@ Overall, we are so thankful for *The Jesus Storybook Bible* and the amount of ti
 
 ---
 
-For comparison, read [this article]() for my review of Kevin DeYoung's *The Biggest Story Bible Storybook*.
+For comparison, read [this article](https://www.meredithcook.net/the-biggest-story-bible-storybook-review) for my review of Kevin DeYoung's *The Biggest Story Bible Storybook*.
