@@ -8,11 +8,13 @@ tags: [book-review]
 GA: G-DHPTC39GDF
 ---
 
-If you have every talked with my husband or I, or been to our house at dinner time, or [regularly read my writing](https://www.meredithcook.net/spiritual-disciplines-toddlers-bible), then you know that we read out of a Bible storybook every night with our kids. In the five years we've been doing this, we've read through two different storybook Bibles and I thought it might be helpful to do a comparison of each. While there are many storybook Bible options, these are the two we landed on for various reasons. You can find my full review of [*The Jesus Storybook Bible*](https://amzn.to/45scMzx) below and *The Biggest Story Bible Storybook* here.
+If you have every talked with my husband or I, or been to our house at dinner time, or [regularly read my writing](https://www.meredithcook.net/spiritual-disciplines-toddlers-bible), then you know that we read out of a Bible storybook every night with our kids. In the five years we've been doing this, we've read through two different storybook Bibles and I thought it might be helpful to do a comparison of each. While there are many storybook Bible options, these are the two we landed on for various reasons. You can find my full review of [*The Jesus Storybook Bible*](https://amzn.to/45scMzx) below and [*The Biggest Story Bible Storybook*](https://amzn.to/4mvpeVD) here.
 
 # *The Jesus Storybook Bible*
 Author: Sally Lloyd-Jones
+
 Illustrator: Jago
+
 Zonderkidz, 2007
 
 ## At a Glance
@@ -53,4 +55,4 @@ Overall, we are so thankful for *The Jesus Storybook Bible* and the amount of ti
 
 ---
 
-For comparison, read [this article]() for my review of Kevin DeYoung's *The Biggest Story Bible Storybook.
+For comparison, read [this article]() for my review of Kevin DeYoung's *The Biggest Story Bible Storybook*.
