@@ -43,7 +43,7 @@ I am not a high agency person, but I am married to one. This is an entertaining 
 
 ---
 
-### [Save Room for Church Coffee](hhttps://dandarling.substack.com/p/save-room-for-church-coffee?utm_campaign=posts-open-in-app&triedRedirect=true&__readwiseLocation=){:target="_blank"}
+### [Save Room for Church Coffee](https://dandarling.substack.com/p/save-room-for-church-coffee?utm_campaign=posts-open-in-app&triedRedirect=true&__readwiseLocation=){:target="_blank"}
 Dan Darling
 <br>One Little Word
 
