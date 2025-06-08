@@ -43,7 +43,7 @@ With this in mind, and knowing my tendency toward ingratitude, I wanted to write
 
 - For the opportunity to trust the Lord and witness His working. In the grand scheme of things, these maintenance issues are small matters, but we have witnessed the Lord's providential care in the tiniest of details. How much more will He care for us in truly difficult circumstances?  
 
-[<img src="/images/choosinggratitude.png" alt="Choosing Gratitude">](https://amzn.to/3HuXfFv)
+[<img src="/images/choosinggrattitude.png" alt="Choosing Gratitude">](https://amzn.to/3HuXfFv)
 ---
 
 [^1] We have a (quite large) black snake that lives around our house, that we see about once a year and that apparently lives under the house this week. We call him Burt. I'm no fan of Burt, but we leave him alone because he deals with larger problems (rodents and poisonous snakes). Unfortunately, he has to be removed so the companies can do their work under the house.  
