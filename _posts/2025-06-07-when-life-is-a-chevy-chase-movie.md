@@ -7,7 +7,7 @@ image: '/images/faucet.jpg' # Add image post (optional)
 tags: [reflection]
 GA: G-DHPTC39GDF
 ---
-The last two weeks have been quite eventful in the Cook household. Septic tank issues and a busted pipe under our house had us making phone call after phone call to a septic company, a plumber, a water damage company, and our insurance agent. At the same time, we had to replace the AC in my car, rounding out a nice trifecta of maintenance issues. Add to that our resident snake[^1] disrupting our repair work and the fact that this all happened right before an out-of-town work trip for both my husband and I.
+The last two weeks have been quite eventful in the Cook household. Septic tank issues and a busted pipe under our house had us making phone call after phone call to a septic company, a plumber, a water damage company, and our insurance agent. At the same time, we had to replace the AC in my car, rounding out a nice trifecta of maintenance issues. Add to that our resident snake [^1] disrupting our repair work and the fact that this all happened right before an out-of-town work trip for both my husband and I.
 
 In short, our life over the last two weeks has been a Chevy Chase movie.
 
@@ -46,9 +46,9 @@ With this in mind, and knowing my tendency toward ingratitude, I wanted to write
 [<img src="/images/choosinggrattitude.png" alt="Choosing Gratitude">](https://amzn.to/3HuXfFv)
 ---
 
-[^1] We have a (quite large) black snake that lives around our house, that we see about once a year and that apparently lives under the house this week. We call him Burt. I'm no fan of Burt, but we leave him alone because he deals with larger problems (rodents and poisonous snakes). Unfortunately, he has to be removed so the companies can do their work under the house.  
+[^1]: We have a (quite large) black snake that lives around our house, that we see about once a year and that apparently lives under the house this week. We call him Burt. I'm no fan of Burt, but we leave him alone because he deals with larger problems (rodents and poisonous snakes). Unfortunately, he has to be removed so the companies can do their work under the house.  
 
-[^2] I think this the right page number, but it's hard to tell on the e-reader app that I use. 
+[^2]: I think this the right page number, but it's hard to tell on the e-reader app that I use. 
 
 <sub>Photo by <a href="https://unsplash.com/@spider_mani?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Imani</a> on <a href="https://unsplash.com/photos/a-faucet-running-water-from-a-kitchen-sink-vDQ-e3RtaoE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sub>
       
