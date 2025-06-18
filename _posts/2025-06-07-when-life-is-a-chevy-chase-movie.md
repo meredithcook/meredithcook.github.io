@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When Life is a Chevy Chase Movie
-date: 2025-05-30
+date: 2025-06-07
 description: A series of home maintance (and other) issues has me reflecting on gratitude.
 image: '/images/faucet.jpg' # Add image post (optional)
 tags: [reflection]
