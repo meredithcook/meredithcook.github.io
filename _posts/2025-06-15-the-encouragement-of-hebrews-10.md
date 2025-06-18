@@ -1,3 +1,13 @@
+---
+layout: post
+title: Encouragement and Hope from Hebrews 10
+date: 2025-06-15
+description: A look at Hebrews 10:19-24 and how it encourages us in hard seasons.
+image: '/images/biblepew.jpg' # Add image post (optional)
+tags: [Bible]
+GA: G-DHPTC39GDF
+---
+
 2020 was a hard year. A pandemic wrecked the world, and many lost their lives. My family and I were living in Houston,TX at the time and while we were blessed to remain largely unaffected by Covid itself, 2020 accelerated a season of spiritual dryness that had been creeping up on me for several years prior, largely of my own making. New motherhood, combined with the uncertainty of the pandemic, combined with the (thankfully temporary) loss of in-person community had me feeling far away from God during that time. Spiritually, I was a desert.
 
 If anything, the pandemic revealed two things: first, that I had neglected to keep my eyes fixed on God and forgot the sufficiency of Christ in all circumstances. Second, that gathering with my local church community was vital to my spiritual health. 
@@ -53,3 +63,6 @@ If the pandemic showed us anything, though, it should have shown us that we need
 We need to gather regularly with other believers to, as this passage says, provoke love and good works, to encourage each other to persevere through trials and endure until Christ returns.
 
 Hebrews 10:19-24 shows us how we can, as Colossians 3 says, keep our eyes fixed on the author and perfector of our faith. In Christ, we have hope no matter our circumstances because we can draw near to God and encourage fellow believers to do the same. 
+
+<sub>Photo by <a href="https://unsplash.com/@eliecergallegos?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Eliecer Gallegos</a> on <a href="https://unsplash.com/photos/book-opened-on-brown-wooden-pew-6k0-mbh8W2c?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sub>
+      
