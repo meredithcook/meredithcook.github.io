@@ -21,7 +21,7 @@ One note/disclaimer- we have not read or used all of the resources in this list 
   </div>
 </div>
 
-If you're not quite convinced of the benefit to family worship, you're not sure where to start, or you simple need some encouragement to keep going, I recommend any of these books with one disclaimer. I have not yet finished *Building Spiritual Habits in the Home* so I can't recommend it based on content, yet. However, it is written by the creators of [Advent Blocks](https://goodkind.shop/collections/christmas), which we use every Christmas, so I feel comfortable pointing it to you as a potential good option.
+If you're not quite convinced of the benefit to family worship, you're not sure where to start, or you simply need some encouragement to keep going, I recommend any of these books with one disclaimer. I have not yet finished *Building Spiritual Habits in the Home* so I can't recommend it based on content, yet. However, it is written by the creators of [Advent Blocks](https://goodkind.shop/collections/christmas), which we use every Christmas, so I feel comfortable pointing it to you as a potential good option.
 
 ## Bible Storybooks
 
@@ -43,7 +43,7 @@ If you have very young children (think 0-2 years) you might consider checking ou
   <div class="gallery">
     <a href="https://amzn.to/4lgRmdp" target="blank"><img src="/images/newcity.jpg"></a>
     <a href="https://amzn.to/46fqYfE" target="blank"><img src="/images/toddlertheology1.jpg"></a>
-    <a href="https://amzn.to/44fZ1C2" target="blank"><img src="/images/easyformebibleverses"></a>
+    <a href="https://amzn.to/44fZ1C2" target="blank"><img src="/images/easyformebibleverses.jpg"></a>
   </div>
 </div>
 
@@ -52,7 +52,7 @@ We have not done much catechesis with our children, but there are two options li
 ## Bibles
 <div class="gallery-box">
   <div class="gallery">
-    <a href="https://amzn.to/49gg5de" target="blank"><img src="/images/jesusstorybookbible.jpg"></a>
+    <a href="https://amzn.to/49gg5de" target="blank"><img src="/images/readtomebible.jpg"></a>
     <a href="https://amzn.to/4gfMyCM" target="blank"><img src="/images/easyforme.jpg"></a>
     <a href="https://amzn.to/4g5G0GU" target="blank"><img src="/images/explorer.jpg"></a>
   </div>
