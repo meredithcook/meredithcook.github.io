@@ -52,7 +52,7 @@ We have not done much catechesis with our children, but there are two options li
 ## Bibles
 <div class="gallery-box">
   <div class="gallery">
-    <a href="https://amzn.to/49gg5de" target="blank"><img src="/images/readtomebible.jpg"></a>
+    <a href="https://amzn.to/44vlGvm" target="blank"><img src="/images/readtomebible.jpg"></a>
     <a href="https://amzn.to/4gfMyCM" target="blank"><img src="/images/easyforme.jpg"></a>
     <a href="https://amzn.to/4g5G0GU" target="blank"><img src="/images/explorer.jpg"></a>
   </div>
