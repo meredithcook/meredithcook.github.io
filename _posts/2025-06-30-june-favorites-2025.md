@@ -7,7 +7,7 @@ image: '/images/june2025.jpg' # Add image post (optional)
 tags: [favorites]
 GA: G-DHPTC39GDF
 ---
-June was an absolute whirlwind with travel for my husband and I, a mission trip for my husband, a visit from my mom, camp for one child, swim lessons for the other, and trying to maintain some semblance of routine with the kids while enjoying the last couple of weeks before the firstborn heads back to school. I love the year-round school schedule but I think I may need another year to get used to the shortness of summer break! 
+June was an absolute whirlwind with travel for my husband and I, a mission trip for my husband, a visit from my mom (who kept us all sane while my husband was gone), camp for one child, swim lessons for the other, and trying to maintain some semblance of routine with the kids while enjoying the last couple of weeks before the firstborn heads back to school. I love the year-round school schedule but I think I may need another year to get used to the shortness of summer break! 
 
 Here are this month's reads and other random tidbits:
 
