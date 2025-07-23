@@ -10,7 +10,7 @@ GA: G-DHPTC39GDF
 
 After my son was born, I decided it was time to remove myself from social media, namely Facebook and Instagram. A couple of years into motherhood and some serious soul searching finally convinced me that nothing good was coming from my continued engagement with the two platforms. I maintained a Twitter account for several years after, but finally decided that it was not worth having either and logged off over a year ago. [^1]
 
-Having been off social media for a while now, I'm even more convinced that deleting all social media is worth it--at least for those who have a problem with it. (Many of my friends have social media and aren't tempted to scroll for hours a day. If that's you, then maybe this  article isn't for you!) I've had several friends do the same, who say the same. If you're not convinced, here are 5 reasons why you should consider deleting social media (and stop making up excuses for why you can't!). 
+Having been off social media for a while now, I'm even more convinced that deleting all social media is worth it--at least for those who have a problem with it.[^2] I've had several friends do the same, who say the same. If you're not convinced, here are 5 reasons why you should consider deleting social media (and stop making up excuses for why you can't!). 
 
 ## 1. Get Your Time Back
 
@@ -18,7 +18,7 @@ Let's start with one of the most common reasons for deleting social media. At th
 
 I remember that habitual tap on my social media apps, particularly when I had nursing babies. I remember thinking I would have a lot of time to read e-books, since I'd be stuck under a baby for a stretch of time, several times a day. Instead, I scrolled social media for hours a day, often as if I had no control over the impulse to do so. Now, there is research to illustrate why. 
 
-While there may be ways to gain your time back without completely deleting social media, simply deleting the apps off your phone, setting a time limit, or even creating parental controls for yourself may not be enough. Just as abstinence is the only surefire way to prevent pregnancy, completely deleting your social media accounts is the only sure way to stop wasting time on them.[^2] 
+While there may be ways to gain your time back without completely deleting social media, simply deleting the apps off your phone, setting a time limit, or even creating parental controls for yourself may not be enough. Just as abstinence is the only surefire way to prevent pregnancy, completely deleting your social media accounts is the only sure way to stop wasting time on them.[^3] 
 
 ## 2. Emotional (and Spiritual) Health
 
@@ -65,7 +65,9 @@ So, if social media is a problem for you, before you list a rebuttal to this pos
 
 [^1]: I technically still have a Twitter (X) account, but can't remember the last time I logged in. I also have a LinkedIn account, but does that really count as social media? It's a weird animal. I maintain both of these accounts with the intent of using them to promote a newsletter at some point in the likely distant future. 
 
-[^2]: Of course, you can, and likely will, find other ways to waste your time. However, these likely won't be as addicting as social media. 
+[^2]: There are some reasons why deleting social media is not possible. My husband maintains some of his social media accounts for work purposes, for example. Additionally, many of my friends have social media and aren't tempted to scroll for hours a day. If that's you, then maybe this article isn't for you! However, I still encourage you to consider whether you legitmately need it for work and/or whether you legitimately do not have a problem with it.
+
+[^3]: Of course, you can, and likely will, find other ways to waste your time. However, these likely won't be as addicting as social media. 
 
 <sub>Photo by <a href="https://unsplash.com/@prateekkatyal?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Prateek Katyal</a> on <a href="https://unsplash.com/photos/neon-signage-xv7-GlvBLFw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sub>
       
