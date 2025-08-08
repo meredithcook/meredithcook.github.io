@@ -14,7 +14,7 @@ Our greatest desire for our kids is that they would believe the gospel. We pray 
 
 Beyond that, we desire to teach our kids about [gospel-centered obedience to the Great Commission](https://keelancook.com/2020/04/07/parents-lets-raise-up-missionaries/){:target="_blank"}. The Lord may or may not call them to be full-time missionaries, but we are convicted that all Christians should seek to obey the Great Commission. 
 
-Our kids are 4 and 3, and I have spent a lot of time reading and researching books to help teach them about the nations in general and missions in specific. Below is a list of books that I've read to my kids or look forward to reading to them as they grow older, sorted by age group.
+Our kids are 4 and 3 (now 6 and 4 as of the latest update), and I have spent a lot of time reading and researching books to help teach them about the nations in general and missions in specific. Below is a list of books that I've read to my kids or look forward to reading to them as they grow older, sorted by age group.
 
 Most of these books fit in one of two categories: missionary biographies or general world knowledge. Missionary biographies help us tell stories to our kids that illustrate to them how others have obeyed the Great Commission. Books about the world give kids a frame of reference for a world outside of the small one in which they currently live. Who knows? God may call us or our child to take the gospel to one of the countries we have learned about in these books! 
 
