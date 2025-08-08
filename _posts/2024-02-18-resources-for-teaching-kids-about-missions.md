@@ -7,7 +7,7 @@ image: '/images/atlas.jpg' # Add image post (optional)
 tags: [resources, books, missions]
 GA: G-DHPTC39GDF
 ---
-<i>Updated September 2024</i>
+<i>Updated August 2025</i>
 
 ---
 Our greatest desire for our kids is that they would believe the gospel. We pray for their salvation every day, specifically that the Lord would save them at a young age. 
@@ -47,7 +47,7 @@ My husband and I discovered this series while looking for a souvenir to bring fr
 
 [*Do Great Things for God series*](https://amzn.to/3OMBC45){:target="_blank"}
 
-The Good Book Company has produced several books on female missionaries (and other influential Christian women) that I've been excited to read to my kids. There are two that focus on women I included in my own book: [Betsey Stockton](https://amzn.to/3wbJSnO){:target="_blank"} and [Betty Greene](https://amzn.to/3OFzOtx){:target="_blank"}. I appreciate that there are [free downloads](https://www.thegoodbook.com/biography-freebies?fbclid=IwAR025SqwASQ38CNzpjvIP7kPLcPDiv0H9JHG9wyn1IL_zXndl2-0DFP3sxc){:target="_blank"} available for further discussion and study with older children. (Note: I actually emailed the Good Book Company and asked if they were developing a similar series for boys. They said yes, so I will add those in once they're available.)
+The Good Book Company has produced several books on female missionaries (and other influential Christian women) that I've been excited to read to my kids. There are two that focus on women I included in my own book: [Betsey Stockton](https://amzn.to/3wbJSnO){:target="_blank"} and [Betty Greene](https://amzn.to/3OFzOtx){:target="_blank"}. I appreciate that there are [free downloads](https://www.thegoodbook.com/biography-freebies?fbclid=IwAR025SqwASQ38CNzpjvIP7kPLcPDiv0H9JHG9wyn1IL_zXndl2-0DFP3sxc){:target="_blank"} available for further discussion and study with older children. They are just beginning to come out with [books for boys](https://amzn.to/45I8Wly){:target="_blank"}, though I have not seen any specifically on missionaries, yet.
 
 <p align="center">
 <a href="https://amzn.to/3SY3swN" target="blank"><img src="meredithcook.github.io/images/lottiemoon.jpg" alt="Lottie Moon" style="width:250px;height:300px;padding:10px" align="center"></a></p>
@@ -62,6 +62,13 @@ My friend, Amy, wrote this book on the golden child of Southern Baptist missions
 [*This is My World: Meet 84 Kids from Around the Globe*](https://amzn.to/499v73z){:target="_blank"}
 
 This book, from Lonely Planet Kids, surveys kids from 84 different countries. I checked this book out from the library on a whim, and my daughter really enjoyed looking through it. We were able to see pictures and learn about how kids in other countries eat, play, dress, and other fun facts about their diverse backgrounds. Though it's not about missions specifically, it's a great book to expand kids' knowledge about other countries and cultures. 
+
+<p align="center">
+<a href="https://amzn.to/456UOCm" target="blank"><img src="meredithcook.github.io/images/ericliddell.jpg" alt="Eric Liddell" style="width:250px;height:300px;padding:10px" align="center"></a></p>
+
+[*Heroes for Young Readers* series](https://amzn.to/40YKeLc){:target="_blank"}
+
+The *Heroes for Young Readers* series includes 23 books that are uniquely written in a rhyming format. If your child gets bored with your standard narratives, then these might be a good starter series for learning about missionaries. 
 
 ## Age 8 and up
 
@@ -93,6 +100,10 @@ From my research, there seem to be a lot of missionary biographies geared toward
 
 Whether it actually is or not, *Operation World* is, in my mind, the OG resource for praying for the nations. So I was excited when I came across this one geared toward kids. Along with similar prayer resources and information found in the original book, it includes maps and photographs from around the world, much like the *This is My World* book, listed above. Though it could be a bit like drinking from a firehose, and younger kids may get overwhelmed by the sheer volume of information, this would be a great resource for families with older kids who are seeking to pray for unreached people groups.
 
+## Miscellaneous
+
+#### Prayer Cards
+My husband directs the Center for Great Commission Studies at Southeastern Baptist Theological Seminary. The CGCS keeps a repository of prayer cards for our students and alumni who serve on the field. If you do not know any missionaries personally, you can access these cards to pray for missionaries with your kids. [Find them here.](https://www.thecgcs.org/prayer-cards/){:target="_blank"} 
 ___
 
 I'll update this as I come across new books. I'm always looking for recommendations, too. Feel free to send them to me via [this contact form](https://www.meredithcook.net/contact/) and I may add them to the list.
