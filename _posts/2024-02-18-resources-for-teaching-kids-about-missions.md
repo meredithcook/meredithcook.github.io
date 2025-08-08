@@ -68,7 +68,7 @@ This book, from Lonely Planet Kids, surveys kids from 84 different countries. I 
 
 [*Heroes for Young Readers* series](https://amzn.to/40YKeLc){:target="_blank"}
 
-The *Heroes for Young Readers* series includes 23 books that are uniquely written in a rhyming format. If your child gets bored with your standard narratives, then these might be a good starter series for learning about missionaries. 
+The *Heroes for Young Readers* series includes 23 books (not all of them are specifically about missionaries) that are uniquely written in a rhyming format. If your child gets bored with your standard narratives, then these might be a good starter series for learning about missionaries. 
 
 ## Age 8 and up
 
