@@ -12,7 +12,7 @@ After my son was born, I decided it was time to remove myself from social media,
 
 Having been off social media for a while now, I'm even more convinced that deleting all social media is worth it--at least for those who have a problem with it.[^2] I've had several friends do the same, who say the same. If you're not convinced, here are 5 reasons why you should consider deleting social media (and stop making up excuses for why you can't!). 
 
-## 1. Get Your Time Back
+## 1. For Your Time
 
 Let's start with one of the most common reasons for deleting social media. At this point, it is common knowledge that social media companies deliberately design their products to be addicting to users with features like [infinite scroll](https://www.bbc.com/news/technology-44640959), [the dopamine inducing "like" button](https://med.stanford.edu/news/insights/2021/10/addictive-potential-of-social-media-explained.html), and personalized feeds. 
 
@@ -20,7 +20,7 @@ I remember that habitual tap on my social media apps, particularly when I had nu
 
 While there may be ways to gain your time back without completely deleting social media, simply deleting the apps off your phone, setting a time limit, or even creating parental controls for yourself may not be enough. Just as abstinence is the only surefire way to prevent pregnancy, completely deleting your social media accounts is the only sure way to stop wasting time on them.[^3] 
 
-## 2. Emotional (and Spiritual) Health
+## 2. For Your Health
 
 To caveat this right off the bat, there are far more causes of mental health struggles than social media. However, if you struggle with non-clinical anxiety, fear, or anger, there's a good chance that getting completely off social media will help relieve some of that,at least a little. On social media, we are inundated with endless bad news--both from actual news outlets and that random shared post from a stranger with the day's horror story. Not only that, but we receive those stories through the contagioius emotional lens of the person (or people) sharing and commenting on it. 
 
@@ -32,7 +32,7 @@ If you are a believer who struggles with non-clinical anxiety and/or other emoti
 
 We are exhorted in Scripture to fill our minds with things that are above (Colossians 3:2). Much of what we find on social media is not that which is from above. Even if you follow other Christians on social media, these platforms are not meant to be our primary source of spiritual wisdom and encouragement. While they may provide some of that, I'm not convinced that the benefit outweighs the consequences. 
 
-## 3. Presence with Your Immediate Community
+## 3. For Your (Actual) Community
 
 Related, deleting social media helps us to be more present with our embodied community, while keeping up with the handful of important long distance relationships (such as with family members). Any Google search will reveal much discussion regarding the value of social media for maintaining relationships (for example, the varying views surrounding  [Dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number#:~:text=By%20using%20the%20average%20human,causality%20remains%20to%20be%20seen.), "a suggested cognitive limit to the number of people with whom one can maintain stable social relationships"). 
 
