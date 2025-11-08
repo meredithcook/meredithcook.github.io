@@ -64,16 +64,16 @@ My friend, Amy, wrote this book on the golden child of Southern Baptist missions
 The *Heroes for Young Readers* series includes 23 books (not all of them are specifically about missionaries) that are uniquely written in a rhyming format. If your child gets bored with your standard narratives, then these might be a good starter series for learning about missionaries. 
 
 <p align="center">
-<a href="https://amzn.to/3Lsbddb" target="blank"><img src="meredithcook.github.io/images/aylward.jpg" alt="Lightkeepers" style="width:250px;height:300px;padding:10px" align="center"></a></p>
+<a href="https://amzn.to/3Lsbddb" target="blank"><img src="meredithcook.github.io/images/aylward.jpg" alt="Lightkeepers" style="width:250px;height:325px;padding:10px" align="center"></a></p>
 
-[*Lightkeepers/Trailblazers* series](https://amzn.to/3Lsbddb)
+[*Lightkeepers/Trailblazers* series](https://amzn.to/3Lsbddb){:target="_blank"}
 
 I'm linking the author's Amazon page because she has written a lot of biographies that seem to be written for a slightly younger audience than the *Christian Heroes: Then & Now* series. We have not looked at these yet, but I have these on a purchase list for my daughter for Christmas. 
 
 ## Age 8 and up
 
 <p align="center">
-<a href="https://amzn.to/3T2u5kb" target="blank"><img src="meredithcook.github.io/images/hudsontaylor.jpg" alt="Hudson Taylor" style="width:250px;height:300px;padding:10px" align="center"></a></p>
+<a href="https://amzn.to/3T2u5kb" target="blank"><img src="meredithcook.github.io/images/hudsontaylor.jpg" alt="Hudson Taylor" style="width:250px;height:325px;padding:10px" align="center"></a></p>
 
 [*Christian Heroes: Then & Now* series](https://amzn.to/3T2u5kb){:target="_blank"}
 
@@ -114,8 +114,8 @@ We discovered our library has a wealth of books in this category and on countrie
 - [*World Passport* series](https://amzn.to/3JrNmtz){:target="_blank"}
 - [*Let's Explore Countries* series](https://amzn.to/4ovLXBv){:target="_blank"}
 - [*Exploring Countries* series](https://amzn.to/4nGwTQ3){:target="_blank"}
-- [*Countries We Come From* series](https://amzn.to/3LunY75){:target="_blank"}: For this and every series that follows below, there is not a link to the entire series on Amazon. You can search the series name to find more options.
-- [*Enchantment of the World* series](https://amzn.to/47BWLXe){:target="_blank"}: 
+- [*Countries We Come From* series](https://amzn.to/3LunY75){:target="_blank"}: For these last three, there is not a link to the entire series on Amazon. You can search the series name to find more options.
+- [*Enchantment of the World* series](https://amzn.to/47BWLXe){:target="_blank"} 
 - [*All Around the World* series](https://amzn.to/3LybqLO){:target="_blank"}
 
 
