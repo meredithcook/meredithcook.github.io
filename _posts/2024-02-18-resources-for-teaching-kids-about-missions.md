@@ -120,7 +120,7 @@ We discovered our library has a wealth of books in this category and on countrie
 
 
 #### Prayer Cards
-My husband directs the Center for Great Commission Studies at Southeastern Baptist Theological Seminary. The CGCS keeps a repository of prayer cards for our students and alumni who serve on the field. If you do not know any missionaries personally, you can access these cards to pray for missionaries with your kids. [Find them here.](https://www.thecgcs.org/prayer-cards/){:target="_blank"} 
+My husband directs the Center for Great Commission Studies at Southeastern Baptist Theological Seminary. The CGCS keeps a repository of prayer cards for our students and alumni who serve on the field. If you do not know any missionaries personally, you can access these cards to pray for missionaries with your kids. [Find them here.](https://www.thecgcs.org/prayer-card-of-the-day/){:target="_blank"} 
 ___
 
 I'll update this as I come across new books. I'm always looking for recommendations, too. Feel free to send them to me via [this contact form](https://www.meredithcook.net/contact/) and I may add them to the list.
