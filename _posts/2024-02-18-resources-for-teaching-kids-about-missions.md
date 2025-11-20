@@ -40,6 +40,13 @@ This is my book, so I know it's a bit self-serving to list it here. However, [as
 
 My husband and I discovered this series while looking for a souvenir to bring from Virginia for our very young kids. This series is great for introducing kids to different places within the US, and there are a few international options, too.
 
+<p align="center">
+<a href="https://amzn.to/4oKvnxG" target="blank"><img src="meredithcook.github.io/images/ourworldmexico.jpg" alt="Our World" style="width:250px;height:250px;padding:10px" align="center"></a></p>
+
+[*Our World* series](https://amzn.to/4oKvnxG){:target="_blank"}
+
+I recently discovered this series while looking for additional resources for the board book category. The series includes over 20 books, and gives a very brief introduction to the respective countries included. These are not the most informative, but do offer an introduction that would help create awareness of other countries in little ones.
+
 ## Age 4 - 8
 
 <p align="center">
