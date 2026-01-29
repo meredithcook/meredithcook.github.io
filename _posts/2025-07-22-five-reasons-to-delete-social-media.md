@@ -58,7 +58,7 @@ Unfortunately, I have fallen for other social media and influencer driven produc
 
 Whenever I talk to people in person about the benefits of getting off social media, there is usually a "but...". I get it. It was harder than it should be to delete my accounts. I was afraid to miss out, afraid to lose attention (how embarrassing to admit that!), afraid to miss opportunities that might be afforded by a social media presence.
 
-<a href="https://amzn.to/46b9lNj" target="blank"><img src="meredithcook.github.io/images/termsofservice.png" alt="Terms of Service" style="width:250px;height:350px;padding:10px" align="center"></a></p>
+<a href="https://amzn.to/46b9lNj" target="blank"><img src="meredithcook.github.io/images/termsofservice.png" alt="Terms of Service" style="width:1000px;height:450px;padding:10px" align="center"></a>
 
 However, I can tell you that the benefits really have outweighed the feared consequences (which, by the way, have turned out to be unfounded). I haven't necessarily lost any relationships, but many friendships have moved into the natural progression that long-distance creates. We have lost touch, but that's ok. That's normal. I haven't lost opportunities, because the opportunities weren't coming from social media anyway. And as for the attention thing? Well, it's good for us to let go of that--this life isn't about us, anyway.
 
