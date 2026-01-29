@@ -30,6 +30,8 @@ To this point, Jonathan Haidt, in his book, [*The Anxious Generation*](https://a
 
 If you are a believer who struggles with non-clinical anxiety and/or other emotional health issues, I would ask you to seriously consider the toll that social media may have on your mind and emotions. Then, consider whether social media helps you honor God with those thoughts and feelings. 
 
+<a href="https://amzn.to/4qPMBLe" target="blank"><img src="meredithcook.github.io/images/anxiousgenerationinset.png" alt="The Anxious Generation" style="width:900px;height:350px;padding:10px" align="center"></a>
+
 We are exhorted in Scripture to fill our minds with things that are above (Colossians 3:2). Much of what we find on social media is not that which is from above. Even if you follow other Christians on social media, these platforms are not meant to be our primary source of spiritual wisdom and encouragement. While they may provide some of that, I'm not convinced that the benefit outweighs the consequences. 
 
 ## 3. For Your (Actual) Community
