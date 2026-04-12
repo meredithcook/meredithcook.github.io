@@ -8,7 +8,7 @@ tags: [book-review]
 GA: G-DHPTC39GDF
 ---
 
-If you have every talked with my husband or I, or been to our house at dinner time, or [regularly read my writing](https://www.meredithcook.net/spiritual-disciplines-toddlers-bible), then you know that we read out of a Bible storybook every night with our kids. In the five years we've been doing this, we've read through two different storybook Bibles and I thought it might be helpful to do a comparison of each. While there are many storybook Bible options, these are the two we landed on for various reasons. You can find my full review of [*The Jesus Storybook Bible*](https://amzn.to/45scMzx) below and [*The Biggest Story Bible Storybook*](https://amzn.to/4mvpeVD) here.
+If you have ever talked with my husband or I, or been to our house at dinner time, or [regularly read my writing](https://www.meredithcook.net/spiritual-disciplines-toddlers-bible), then you know that we read out of a Bible storybook every night with our kids. In the five years we've been doing this, we've read through two different storybook Bibles and I thought it might be helpful to do a comparison of each. While there are many storybook Bible options, these are the two we landed on for various reasons. You can find my full review of [*The Jesus Storybook Bible*](https://amzn.to/45scMzx) below and [*The Biggest Story Bible Storybook*](https://amzn.to/4mvpeVD) here.
 
 # *The Jesus Storybook Bible*
 Author: Sally Lloyd-Jones
@@ -39,7 +39,7 @@ Zonderkidz, 2007
 
 ## Review
 
-In my mind, though it may not be accurage, *The Jesus Storybook Bible* is the OG of storybook Bibles. (In fact, I know it's not the OG because I used storybook Bibles when I was a kid.) In my seminary and church circles, long before I had kids of my own, it was the book everyone read with their kids. So it was the natural option for us to read with our kids once we started our [family worship](https://www.meredithcook.net/how-we-do-family-worship) routine. 
+In my mind, though it may not be accurate, *The Jesus Storybook Bible* is the OG of storybook Bibles. (In fact, I know it's not the OG because I used storybook Bibles when I was a kid.) In my seminary and church circles, long before I had kids of my own, it was the book everyone read with their kids. So it was the natural option for us to read with our kids once we started our [family worship](https://www.meredithcook.net/how-we-do-family-worship) routine. 
 
 We read *The Jesus Storybook Bible* for almost four years, and it served our family well. Because we read one story each day and started over once we reached the last story, we were able to read through this book just over 7 times in a year (we take a break from the storybooks in December to do Advent Blocks). 
 
