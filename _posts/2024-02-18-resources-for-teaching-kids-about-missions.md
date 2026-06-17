@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Resources to Help You Teach Your Kids About Missions (Updated November 2025)
-date: 2025-11-08
+date: 2026-06-17
 description: I have spent a lot of time reading and researching books to teach my kids about missions. Here is a master list of helpful books for babies to early teens.
 image: '/images/atlas.jpg' # Add image post (optional)
 tags: [resources, books, missions]
 GA: G-DHPTC39GDF
 ---
-<i>Updated November 2025</i>
+<i>Updated June 2026</i>
 
 ---
 Our greatest desire for our kids is that they would believe the gospel. We pray for their salvation every day, specifically that the Lord would save them at a young age. 
@@ -76,6 +76,20 @@ The *Heroes for Young Readers* series includes 23 books (not all of them are spe
 [*Lightkeepers/Trailblazers* series](https://amzn.to/3Lsbddb){:target="_blank"}
 
 I'm linking the author's Amazon page because she has written a lot of biographies that seem to be written for a slightly younger audience than the *Christian Heroes: Then & Now* series. We have not looked at these yet, but I have these on a purchase list for my daughter for Christmas. 
+
+<p align="center">
+<a href="https://amzn.to/4oxBBSr" target="blank"><img src="meredithcook.github.io/images/everynation.jpg" alt="Every Nation" style="width:325px;height:325px;padding:10px" align="center"></a></p>
+
+[*God Everywhere* 3-book series](https://amzn.to/4oxBBSr){:target="_blank"}
+
+The first two books in this series are available now and the third will be released later this year. While the first two books are not necessarily about missions, specifically, they do offer a global perspective on God and the nations in ways that can spur good conversations about God's work in the world. I also like that there are a wide variety of countries depicted in these books.
+
+<p align="center">
+<a href="https://amzn.to/4eMEXxn" target="blank"><img src="meredithcook.github.io/images/globalchurch.jpg" alt="Global Church" style="width:275px;height:325px;padding:10px" align="center"></a></p>
+
+[*God's Great Big Global Church*](https://amzn.to/4eMEXxn){:target="_blank"}
+
+I am a big fan of Tim Challies's writing, so this was a no-brainer purchase. This book gives a glimpse of church in various countries, and I appreciated that it did not gloss over the challenges of attending church in countries closed to Christianity. I believe it is important for kids to know that not everyone has the freedom to attend church in public. 
 
 ## Age 8 and up
 
