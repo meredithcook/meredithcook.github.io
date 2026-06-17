@@ -139,6 +139,9 @@ We discovered our library has a wealth of books in this category and on countrie
 - [*Enchantment of the World* series](https://amzn.to/47BWLXe){:target="_blank"} 
 - [*All Around the World* series](https://amzn.to/3LybqLO){:target="_blank"}
 
+#### Activity Books
+
+- [Pray the World Coloring & Activity Book](https://radical.net/book/pray-the-world-coloring-activity-book/)
 
 #### Prayer Cards
 My husband directs the Center for Great Commission Studies at Southeastern Baptist Theological Seminary. The CGCS keeps a repository of prayer cards for our students and alumni who serve on the field. If you do not know any missionaries personally, you can access these cards to pray for missionaries with your kids. [Find them here.](https://www.thecgcs.org/prayer-card-of-the-day/){:target="_blank"} 
