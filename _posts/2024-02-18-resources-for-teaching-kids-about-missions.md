@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Resources to Help You Teach Your Kids About Missions (Updated November 2025)
+title: Resources to Help You Teach Your Kids About Missions (Updated June 2026)
 date: 2026-06-17
 description: I have spent a lot of time reading and researching books to teach my kids about missions. Here is a master list of helpful books for babies to early teens.
 image: '/images/atlas.jpg' # Add image post (optional)
