@@ -7,6 +7,7 @@ image: '/images/strength.jpg' # Add image post (optional)
 tags: [reflection, spiritual disciplines]
 GA: G-DHPTC39GDF
 ---
+
 In just a few weeks, I will reach the second anniversary of the day I began exercising regularly. Looking at me, you might not think that's a significant milestone. I take after the men in my family (who were all tall and relatively thin), so I relied on genetics for far too long to project an outward appearance of physical health. In my youth, I stayed active through sports and dance, but I have always hated exercising for exercise's sake. I avoided physical discomfort like the plague. As I reached college, adulthood, marriage, pregnancy, and postpartum, I did very little to move my body regularly, exercising in spurts for a week or two before slacking on it yet again. This was my pattern for the better part of a decade.  
 
 I can't exactly say what finally clicked for me when it came to exercise. I believe it was a, somewhat morbid, conglomeration of things: feeling my body change in less-than-positive ways as I passed the age of 35; dissastisfaction with how I looked after birthing giant children; the yearly conversation with my doctor about deteriorating bone density; observing my aging family and friends and recognizing a difference between those who had stayed active and those who had not[^1]; an increased urgency to stay healthy for my growing kids. 
