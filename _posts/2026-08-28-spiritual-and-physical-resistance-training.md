@@ -39,8 +39,8 @@ As the Lord helped me grow spiritually stronger, I began to see other discipline
 The spiritual realm is not so different, but it's a longer process. I can look back on the last seven years of my life and see just how much work the Lord has done. I am stronger, tougher, than I was. But I still fall into that pit, and ironically, that fall feels so much harder and deeper than it used to. My husband tells me that's how it works. As the Lord works on us, our sin begins to look so much worse than it did. It's why Paul, at the end of his ministry, calls himself the chief of sinners. Sanctification is hard, and I have days where I am real mad about it, days where I feel so weak, days where I want to lean back into the laziness of my flesh. And on those days, I have to remember that while I'm responsible for showing up, it is the Lord working out his power in me to make me into the kind of person he wants me to be. 
 
 ----
-[^1] Since we live in a broken world and a broken body, there is a lot about health that we, unfortunately, cannot control. However, it is also true that regular physical activity reaps major benefits as we age. 
+[^1]: Since we live in a broken world and a broken body, there is a lot about health that we, unfortunately, cannot control. However, it is also true that regular physical activity reaps major benefits as we age. 
 
-[^2] This language came from a recent sermon my pastor preached. I highly recommend listening to it. The sermon is called, "[When Trials Come](https://faithncsermons.subspla.sh/msqxg4p)."
+[^2]: This language came from a recent sermon my pastor preached. I highly recommend listening to it. The sermon is called, "[When Trials Come](https://faithncsermons.subspla.sh/msqxg4p)."
 
 <sub>Photo by <a href="https://unsplash.com/@jules19?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Juls P</a> on <a href="https://unsplash.com/photos/person-holding-pink-and-white-dumbbells-lB6lbkbe1XA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></sub>
