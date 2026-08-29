@@ -4,7 +4,7 @@ title: Spiritual and Physical Resistance Training
 date: 2026-08-28
 description: God has created both our bodies and our spirits to grow stronger in the same way. It is under load, never under ease.
 image: '/images/strength.jpg' # Add image post (optional)
-tags: [reflection, spiritual disciplines]
+tags: [reflection, spiritual-disciplines]
 GA: G-DHPTC39GDF
 ---
 

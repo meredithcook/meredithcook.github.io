@@ -4,7 +4,7 @@ title: How I Memorize Scripture and 6 More Bible Verses I'm Memorizing
 date: 2025-03-20
 description: I memorize Bible verses the old fashioned way. These are some Bible verses I'm working to memorize as I seek to fix my mind on things above.
 image: '/images/scripturememory.jpg' # Add image post (optional)
-tags: [Bible]
+tags: [Bible, spiritual-disciplines]
 GA: G-DHPTC39GDF
 ---
 I'm convinced the best discipline I've picked up over the last six months has been memorizing Scripture. For years, I've heard Christians who memorize Scripture tout the benefits of the practice. I've read stories of persecuted Christians who were sustained by Scripture they had memorized. Now, I'm experiencing those benefits for the first time. When I am struggling, the Bible verses that I've memorized are called to mind much more quickly. 
