@@ -3,7 +3,7 @@ layout: post
 title: Recommended Chapter Books for Young Elementary Age Kids
 date: 2026-09-21
 description: The world of chapter books can be overwhelming for parents who want to encourage their kids to read at a more advanced level, but aren't sure where to start, what books are appropriate, or what their kids might be interested in reading. Here is a list of chapter books we've enjoyed. 
-image: '/images/atlas.jpg' # Add image post (optional)
+image: '/images/chapterbooks.jpg' # Add image post (optional)
 tags: [books]
 GA: G-DHPTC39GDF
 ---
@@ -85,3 +85,5 @@ A friend recently told me about these abridged versions of classic literature th
 - [*The Secret of the Hidden Scrolls*](https://link.amazon/B04AanWYo)
 - [*Abigail*](https://link.amazon/B0f0ElZXn)
 - [*The Dead Sea Squirrels*](https://link.amazon/B04ORtzW3)
+
+<sub>Photo by <a href="https://unsplash.com/@jr_photos?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jael Rodriguez</a> on <a href="https://unsplash.com/photos/a-child-reading-a-book-2hCJ5zOWZps?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></sub>
