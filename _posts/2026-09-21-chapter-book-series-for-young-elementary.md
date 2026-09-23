@@ -85,5 +85,6 @@ A friend recently told me about these abridged versions of classic literature th
 - [*The Secret of the Hidden Scrolls*](https://link.amazon/B04AanWYo)
 - [*Abigail*](https://link.amazon/B0f0ElZXn)
 - [*The Dead Sea Squirrels*](https://link.amazon/B04ORtzW3)
+- [*I Survived* series](https://link.amazon/B0bNB4o8v)
 
 <sub>Photo by <a href="https://unsplash.com/@jr_photos?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jael Rodriguez</a> on <a href="https://unsplash.com/photos/a-child-reading-a-book-2hCJ5zOWZps?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></sub>
