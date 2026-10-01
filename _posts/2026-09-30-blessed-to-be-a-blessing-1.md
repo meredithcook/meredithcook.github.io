@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Recommended Chapter Books for Young Elementary Age Kids
+title: Blessed to Be a Blessing- Reflections from Psalm 67 (Part 1)
 date: 2026-09-30
 description: God blesses His people so that all nations may know Him.
 image: '/images/internationalflags.jpg' # Add image post (optional)
