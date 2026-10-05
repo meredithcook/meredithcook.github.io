@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blessed to Be a Blessing- Reflections from Psalm 67 (Part 2)
-date: 2026-09-30
+date: 2026-10-05
 description: God blesses His people so that all nations may be glad in His rule.
 image: '/images/praise.jpg' # Add image post (optional)
 tags: [missions, Psalms]
@@ -11,7 +11,7 @@ GA: G-DHPTC39GDF
 *This is Part 2 of a three-part series on Psalm 67, adapted from a teaching outline I wrote for a women's Bible study taught in Spring 2026.*
 
 ---
-Psalm 67 is a beautiful picture of what happens when God's people share His blessing with the nations. One day, all people, from every nation, will praise God with joy in the new heavens and the new earth. In Part 1 of this series, we looked at Psalm 67:1-2 and briefly discussed how God blessed His people so that all nations may know him. 
+Psalm 67 is a beautiful picture of what happens when God's people share His blessing with the nations. One day, all people, from every nation, will praise God with joy in the new heavens and the new earth. [In Part 1 of this series](https://www.meredithcook.net/blessed-to-be-a-blessing-1), we looked at Psalm 67:1-2 and briefly discussed how God blessed His people so that all nations may know him. 
 
 Today, we will look at verses 3-5, which show us the second way in which God's blessing leads to His praise among all people. God blesses His people so that all nations may be glad in His rule. Again, we see the parallel calls for the people to praise God in verses 3 and 5, and for the nations to shout for joy in verse 4 (the center of our chaism and purpose of the entire psalm).
 
@@ -28,8 +28,6 @@ The psalmist also says that the nations are glad in God's rule. It's important t
 In today's political climate (not just in the US but around the world), we need this good news that God reigns. What hope we have in God's rule! God rules over this world with perfect justice and mercy. He is not corrupt. He is not authoritarian. He is not a dictator. He is a good and gracious King, and all people can be glad in His rule. And so, as a response to this joy and gladness in God's rule, the psalmist again exhorts the people to praise God. 
 
 God blessed His people so that they can know Him and be glad in His rule. In Part 3, we will see that God blessed His people so that all nations may fear Him and we will get into what this means for how we live today.
-
----
 
 [^1]: At the time of writing this (the article, not the teaching outline), I had given all our commentaries back to my husband to keep at his office, and I am not able to access the specific reference for citation. I will update this post once I am able. 
 
