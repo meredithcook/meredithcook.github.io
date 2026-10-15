@@ -38,6 +38,7 @@ Additionally, paying money for something that has not yet become a habit (partic
 I set a goal to exercise thirty minutes per day, five times per week. As the days passed, I began to create playlists of exercise videos that I enjoyed or videos I wanted to try. If I found I didn't enjoy one, I would switch to one I did enjoy. On "rest" days or sick days, because I was trying to build in a habit of moving my body, I would do light stretches or walking for ten or fifteen minutes. Because I was trying to build a habit, moving in some way every day was nonnegotiable, even while sick or traveling. (I have somehow avoided sickness that would completely prohibit me from exercising.)
 
 In summary, I set the bar very low for myself as far as the type of exercise and I set the bar high for consistency. I tried to make entry into this new habit as seamless as possible with the intent to see where it took me. I set my sights only on habit formation, not weight loss, strength gains, or doing anything beyond just moving for thirty minutes per day. And it paid off. 
+
 ## Progress
 
 Two years ago, I could never have predicted how far I'd come on this little habit of exercise. As movement became more of a habit, I grew to enjoy exercising and the way I felt both physically and emotionally once it became a regular part of my routine. I experienced gratitude as I realized what a privilege it is to be able to move. And I became curious at what I could do. 
