@@ -3,7 +3,7 @@ layout: post
 title: My Favorite Books on Parenting
 date: 2026-10-27
 description: Spoiler alert- these books aren't all specifically about parenting. But, they have all been helpful in our parenting journey.
-image: '/images/chapterbooks.jpg' # Add image post (optional)
+image: '/images/parentingbooks.jpg' # Add image post (optional)
 tags: [books]
 GA: G-DHPTC39GDF
 ---
@@ -68,3 +68,4 @@ This is the non-parenting book I referred to above (though, she does include a s
 - [*Are My Kids on Track?* by Sissy Goff](https://link.amazon/B07SjpknQ)
 
 
+<sub>Photo by <a href="https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kelly Sikkema</a> on <a href="https://unsplash.com/photos/parenting-book-giijfNulwxk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></sub>
