@@ -31,7 +31,7 @@ Paul Tripp will always be on a list of my favorite books. In true Tripp fashion,
 Parents who struggle with anxiety (*raises hand*) are more likely to have kids who also struggle with anxiety. Knowing that about myself, after I had a baby girl I latched on to this book very early on. Truthfully, I probably read it too early on in my parenting journey and will likely revisit it if needed. So far, neither of our children has exibited signs of persistent worry or anxiety. But some of Goff's practical advice has come in handy over the years with both kids (one girl, one boy) during times they were feeling anxious or having a hard time with emotions.  
 
 <p align="center">
-<a href="https://link.amazon/B01IWkyxe" target="blank"><img src="meredithcook.github.io/images/ramona.jpg" alt="Ramona Quimby" style="width:250px;height:350px;padding:10px" align="center"></a></p>
+<a href="https://link.amazon/B0d7OWe2w" target="blank"><img src="meredithcook.github.io/images/worryfreeparent.jpg" alt="The Worry Free Parent" style="width:250px;height:350px;padding:10px" align="center"></a></p>
 
 [*The Worry-Free Parent*](https://link.amazon/B0d7OWe2w){:target="_blank"}
 
@@ -61,9 +61,9 @@ This is the non-parenting book I referred to above (though, she does include a s
 ## Other Recommendations
 
 - [*Raising Emotionally Healthy Kids* by Eliza Huie](https://link.amazon/B0dptJAvo) 
-- [*Little Habits, Big Faith*](https://link.amazon/B0eC8ARpM)
+- [*Little Habits, Big Faith* by Christie Thomas](https://link.amazon/B0eC8ARpM)
 - [*The Coddling of the American Mind* by Greg Lukianoff and Jonathan Haidt](https://link.amazon/B0bMY9MmX)
-- [*The Anxious Generation* by Jonathan Haidt](https://link.amazon/B00PdoR6O)
+- [*The Anxious Generation* by Jonathan Haidt](https://link.amazon/B02eeXgW0)
 - [*Habits of the Household* by Justin Whitmel Earley](https://link.amazon/B07C22pIH)
 - [*Are My Kids on Track?* by Sissy Goff](https://link.amazon/B07SjpknQ)
 
